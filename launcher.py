@@ -20,7 +20,11 @@ UPDATE_ZIP_URL = (
 )
 
 
-BASE_DIR = Path(sys.executable).resolve().parent
+if getattr(sys, "frozen", False):
+    BASE_DIR = Path(sys.executable).resolve().parent
+else:
+    BASE_DIR = Path(__file__).resolve().parent
+    
 APP_FILE = BASE_DIR / "Mobilochka.exe"
 LOCAL_VERSION_FILE = BASE_DIR / "version.txt"
 
