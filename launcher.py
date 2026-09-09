@@ -83,8 +83,10 @@ def download_update():
 
 def start_application():
     if not APP_FILE.exists():
-        print(f"Не найден файл приложения: {APP_FILE}")
-        input("Нажмите Enter для выхода...")
+        messagebox.showerror(
+            "Ошибка запуска",
+            f"Не найден файл:\n{APP_FILE}",
+        )
         return
 
     subprocess.Popen([str(APP_FILE)], cwd=str(BASE_DIR))
@@ -96,13 +98,16 @@ def main():
         remote_version = read_remote_version()
 
         if get_version(remote_version) > get_version(local_version):
-            print(f"Обновление: {local_version} -> {remote_version}")
             download_update()
 
         start_application()
 
     except Exception as error:
-        print(f"Ошибка обновления: {error}")
+        messagebox.showerror(
+            "Ошибка обновления",
+            f"{type(error).__name__}: {error}\n\n"
+            "Проверьте наличие Mobilochka.zip в опубликованном GitHub Release."
+        )
         start_application()
 
 

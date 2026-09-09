@@ -22,7 +22,7 @@ exe = EXE(
     a.binaries,
     a.datas,
     [],
-    name='Mobilo4ka Prices',
+    name='Mobilo4ka',
     debug=False,
     bootloader_ignore_signals=False,
     strip=False,
