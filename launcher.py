@@ -1,4 +1,4 @@
-
+from pathlib import Path
 import shutil
 import subprocess
 import sys
@@ -6,9 +6,8 @@ import tempfile
 import urllib.request
 import zipfile
 
-
-GITHUB_USER = "mobilochka_bot"
-GITHUB_REPO = "mobilochka_bot"
+GITHUB_USER = "MrBattka"
+GITHUB_REPO = "mobilo4ka_bot"
 
 REMOTE_VERSION_URL = (
     f"https://raw.githubusercontent.com/{GITHUB_USER}/{GITHUB_REPO}/main/version.txt"
