@@ -1,0 +1,2159 @@
+{
+    "28170": {
+        "include": [
+            "epix",
+            "gen 2",
+            "47",
+            "slate steel",
+            "graphite band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "39242": {
+        "include": [
+            "epix",
+            "sapphire",
+            "gen 2",
+            "47",
+            "black carbon",
+            "gray dic"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "39244": {
+        "include": [
+            "epix",
+            "sapphire",
+            "gen 2",
+            "47",
+            "black dic",
+            "titanium"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "28171": {
+        "include": [
+            "epix",
+            "sapphire",
+            "gen 2",
+            "47",
+            "white",
+            "carrera",
+            "white band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "28172": {
+        "include": [
+            "epix",
+            "sapphire",
+            "gen 2",
+            "47",
+            "black",
+            "black band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "30296": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "42",
+            "silver",
+            "whitestone band"
+        ],
+        "exclude": []
+    },
+    "28173": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "47",
+            "slate",
+            "gray",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "30295": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "51",
+            "slate",
+            "gray",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "39246": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "42",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "30294": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "42",
+            "carbon",
+            "gray dic"
+        ],
+        "exclude": []
+    },
+    "30297": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "42",
+            "soft gold",
+            "light sand band"
+        ],
+        "exclude": []
+    },
+    "28174": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "47",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "28175": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "47",
+            "titanium",
+            "whitestone band"
+        ],
+        "exclude": []
+    },
+    "28177": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "51",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "28176": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "51",
+            "titanium",
+            "whitestone band"
+        ],
+        "exclude": []
+    },
+    "39250": {
+        "include": [
+            "epix pro",
+            "sapphire",
+            "gen 2",
+            "51",
+            "carbon",
+            "gray brown"
+        ],
+        "exclude": []
+    },
+    "24796": {
+        "include": [
+            "fenix 7 ",
+            "sapphire",
+            "solar",
+            "gray dic",
+            "carbon",
+            "black band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24795": {
+        "include": [
+            "fenix 7 ",
+            "sapphire",
+            "solar",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24799": {
+        "include": [
+            "fenix 7 ",
+            "sapphire",
+            "solar",
+            "black dic",
+            "black band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24800": {
+        "include": [
+            "fenix 7 ",
+            "sapphire",
+            "solar",
+            "carbon",
+            "gray dic",
+            "vented",
+            "titanium band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24797": {
+        "include": [
+            "fenix 7 ",
+            "sapphire",
+            "solar",
+            "mineral blue dic",
+            "whitestone band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24798": {
+        "include": [
+            "fenix 7 ",
+            "sapphire",
+            "solar",
+            "titanium",
+            "chestnut leather band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24790": {
+        "include": [
+            "fenix 7 ",
+            "silver",
+            "graphite band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar"
+        ]
+    },
+    "28167": {
+        "include": [
+            "fenix 7 pro",
+            "sapphire",
+            "solar",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "28168": {
+        "include": [
+            "fenix 7 pro",
+            "sapphire",
+            "solar",
+            "fog gray",
+            "ember orange band"
+        ],
+        "exclude": []
+    },
+    "28169": {
+        "include": [
+            "fenix 7 pro",
+            "solar",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "sapphire"
+        ]
+    },
+    "28179": {
+        "include": [
+            "fenix 7s pro",
+            "sapphire",
+            "solar",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "28180": {
+        "include": [
+            "fenix 7s pro",
+            "sapphire",
+            "solar",
+            "soft gold",
+            "light sand band"
+        ],
+        "exclude": []
+    },
+    "28178": {
+        "include": [
+            "fenix 7s pro",
+            "solar",
+            "silver",
+            "graphite band"
+        ],
+        "exclude": [
+            "sapphire"
+        ]
+    },
+    "24776": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "sapphire",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24779": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "sapphire",
+            "cream gold",
+            "cream heathered nylon band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24775": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "sapphire",
+            "cream gold",
+            "light sand band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24777": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "sapphire",
+            "dark bronze",
+            "shale gray band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24778": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "sapphire",
+            "rose gold",
+            "limestone leather band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24720": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "graphite band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire",
+            "afr",
+            "aus",
+            "emea",
+            "enz"
+        ]
+    },
+    "24719": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "afr",
+            "graphite band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24721": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "aus",
+            "graphite band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24717": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "emea",
+            "graphite band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24718": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "graphite band",
+            "enz"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24726": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "whitestone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire",
+            "afr",
+            "aus",
+            "emea",
+            "enz"
+        ]
+    },
+    "24722": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "afr",
+            "whitestone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24723": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "aus",
+            "whitestone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24724": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "emea",
+            "whitestone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24725": {
+        "include": [
+            "fenix 7s",
+            "silver",
+            "whitestone band",
+            "enz"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "sapphire"
+        ]
+    },
+    "24731": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "rose gold",
+            "sand band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "afr",
+            "aus",
+            "emea",
+            "enz"
+        ]
+    },
+    "24727": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "afr",
+            "rose gold",
+            "sand band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24728": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "aus",
+            "rose gold",
+            "sand band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24729": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "emea",
+            "rose gold",
+            "sand band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24730": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "rose gold",
+            "sand band",
+            "enz"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24732": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "aus",
+            "emea",
+            "enz"
+        ]
+    },
+    "24733": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "aus",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24734": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "emea",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24735": {
+        "include": [
+            "fenix 7s",
+            "solar",
+            "enz",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24805": {
+        "include": [
+            "fenix 7x",
+            "solar",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "28181": {
+        "include": [
+            "fenix 7x pro",
+            "solar",
+            "sapphire",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": []
+    },
+    "28182": {
+        "include": [
+            "fenix 7x pro",
+            "solar",
+            "sapphire",
+            "fog gray",
+            "ember orange band"
+        ],
+        "exclude": []
+    },
+    "35809": {
+        "include": [
+            "fenix 7x pro",
+            "solar",
+            "no wi-fi",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "sapphire"
+        ]
+    },
+    "35810": {
+        "include": [
+            "fenix 7x",
+            "solar",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire"
+        ]
+    },
+    "24834": {
+        "include": [
+            "fenix 7x",
+            "solar",
+            "sapphire",
+            "black dic",
+            "black band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24806": {
+        "include": [
+            "fenix 7x",
+            "solar",
+            "sapphire",
+            "carbon",
+            "gray dic",
+            "black band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24832": {
+        "include": [
+            "fenix 7x",
+            "solar",
+            "sapphire",
+            "carbon",
+            "gray dic",
+            "vented titanium band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24807": {
+        "include": [
+            "fenix 7x",
+            "solar",
+            "sapphire",
+            "mineral blue dic",
+            "whitestone band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "24833": {
+        "include": [
+            "fenix 7x",
+            "solar",
+            "sapphire",
+            "titanium",
+            "chestnut leather band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "36837": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "43",
+            "dark gray",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "36844": {
+        "include": [
+            "fenix 8 ",
+            "amoled",
+            "43",
+            "silver",
+            "silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar"
+        ]
+    },
+    "27153": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "43",
+            "gold",
+            "gold silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "36843": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "43",
+            "soft gold",
+            "gray leather band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "36838": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "47",
+            "orange",
+            "graphite silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "36839": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "47",
+            "dark gray",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "36840": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "47",
+            "gray",
+            "gray titanium band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "39252": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "47",
+            "slate gray",
+            "black titanium band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "38238": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "solar",
+            "47",
+            "carbon",
+            "gray dic",
+            "pebble gray silicone"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38240": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "solar",
+            "47",
+            "titanium amp / yellow",
+            "graphite silicone band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38241": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "51",
+            "bare titanium",
+            "black chestnut leather",
+            "graphite silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "36842": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "51",
+            "carbon",
+            "dark gray",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "38242": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "51",
+            "graphite silicone band",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "38243": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "solar",
+            "51",
+            "carbon",
+            "gray dic",
+            "pebble gray silicone"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38244": {
+        "include": [
+            "fenix 8 ",
+            "sapphire",
+            "amoled",
+            "solar",
+            "51",
+            "amp / yellow",
+            "graphite silicone band"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "39255": {
+        "include": [
+            "fenix 8 ",
+            "amoled",
+            "51",
+            "slate gray",
+            "black band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar"
+        ]
+    },
+    "39269": {
+        "include": [
+            "fenix e ",
+            "amoled",
+            "47",
+            "black",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar"
+        ]
+    },
+    "39283": {
+        "include": [
+            "fenix e ",
+            "amoled",
+            "47",
+            "silver",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar"
+        ]
+    },
+    "37168": {
+        "include": [
+            "forerunner 165 ",
+            "slate gray",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "37170": {
+        "include": [
+            "forerunner 165 ",
+            "mist gray",
+            "whitestone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "37169": {
+        "include": [
+            "forerunner 165 ",
+            "music",
+            "black",
+            "slate gray"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "37173": {
+        "include": [
+            "forerunner 165 ",
+            "music",
+            "lilac berry",
+            "lilac"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "37171": {
+        "include": [
+            "forerunner 165 ",
+            "music",
+            "mist gray",
+            "whitestone"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "37172": {
+        "include": [
+            "forerunner 165 ",
+            "music",
+            "turquoise",
+            "aqua"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27338": {
+        "include": [
+            "forerunner 255 ",
+            "music",
+            "basic tidal",
+            "blue"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27337": {
+        "include": [
+            "forerunner 255 ",
+            "music",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27341": {
+        "include": [
+            "forerunner 255s",
+            "light pink"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27342": {
+        "include": [
+            "forerunner 255s",
+            "music",
+            "whitestone"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27340": {
+        "include": [
+            "forerunner 255s",
+            "powder gray"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27327": {
+        "include": [
+            "forerunner 265 ",
+            "46",
+            "black bazel",
+            "gray silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27328": {
+        "include": [
+            "forerunner 265 ",
+            "46",
+            "black bazel",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27326": {
+        "include": [
+            "forerunner 265 ",
+            "46",
+            "whitestone case",
+            "black bazel",
+            "tidal blue silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27325": {
+        "include": [
+            "forerunner 265s",
+            "42",
+            "black/amp",
+            "black bazel",
+            "yellow silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27324": {
+        "include": [
+            "forerunner 265s",
+            "42",
+            "light pink",
+            "black bazel",
+            "whitestone silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27323": {
+        "include": [
+            "forerunner 265s",
+            "42",
+            "whitestone case",
+            "black bazel",
+            "neo tropic silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27332": {
+        "include": [
+            "forerunner 55 ",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27331": {
+        "include": [
+            "forerunner 55 ",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27317": {
+        "include": [
+            "forerunner 955 ",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "sapphire",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27318": {
+        "include": [
+            "forerunner 955 ",
+            "solar",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "27319": {
+        "include": [
+            "forerunner 955 ",
+            "solar",
+            "whitestone emea"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "27320": {
+        "include": [
+            "forerunner 965 ",
+            "carbon",
+            "gray dic",
+            "titanium bezel",
+            "black case",
+            "black silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27321": {
+        "include": [
+            "forerunner 965 ",
+            "carbon",
+            "gray dic",
+            "titanium bezel",
+            "black case",
+            "powder gray silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "amoled"
+        ]
+    },
+    "27322": {
+        "include": [
+            "forerunner 965 ",
+            "carbon",
+            "gray dic",
+            "titanium bezel",
+            "whitestone case",
+            "powder gray silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "amoled"
+        ]
+    },
+    "35788": {
+        "include": [
+            "instinct 2 ",
+            "camo",
+            "graphite"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "amoled",
+            "sapphire"
+        ]
+    },
+    "35791": {
+        "include": [
+            "instinct 2 ",
+            "dezl"
+        ],
+        "exclude": [
+            "pro",
+            "solar",
+            "amoled",
+            "sapphire"
+        ]
+    },
+    "35787": {
+        "include": [
+            "instinct 2 ",
+            "solar",
+            "graphite"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "35786": {
+        "include": [
+            "instinct 2 ",
+            "solar",
+            "mist gray"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "35789": {
+        "include": [
+            "instinct 2 ",
+            "solar",
+            "tactical",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "35785": {
+        "include": [
+            "instinct 2 ",
+            "solar",
+            "standard",
+            "electric lime"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "34461": {
+        "include": [
+            "instinct 2 ",
+            "solar",
+            "standard",
+            "graphite"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "35790": {
+        "include": [
+            "instinct 2 ",
+            "solar",
+            "surf",
+            "mavericks"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "35766": {
+        "include": [
+            "instinct 2s",
+            "solar",
+            "camo",
+            "mist"
+        ],
+        "exclude": [
+            "pro",
+            "standard",
+            "amoled"
+        ]
+    },
+    "35761": {
+        "include": [
+            "instinct 2s",
+            "solar",
+            "graphite"
+        ],
+        "exclude": [
+            "pro",
+            "standard",
+            "amoled"
+        ]
+    },
+    "35762": {
+        "include": [
+            "instinct 2s",
+            "solar",
+            "mist gray"
+        ],
+        "exclude": [
+            "pro",
+            "standard",
+            "amoled"
+        ]
+    },
+    "35763": {
+        "include": [
+            "instinct 2s",
+            "solar",
+            "neo tropic"
+        ],
+        "exclude": [
+            "pro",
+            "standard",
+            "amoled"
+        ]
+    },
+    "35764": {
+        "include": [
+            "instinct 2s",
+            "solar",
+            "standard",
+            "deep orchid"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "35765": {
+        "include": [
+            "instinct 2s",
+            "solar",
+            "standard",
+            "graphite"
+        ],
+        "exclude": [
+            "pro",
+            "amoled"
+        ]
+    },
+    "34465": {
+        "include": [
+            "instinct 2x",
+            "flame red"
+        ],
+        "exclude": [
+            "pro",
+            "standard",
+            "amoled"
+        ]
+    },
+    "34466": {
+        "include": [
+            "instinct 2x",
+            "solar",
+            "graphite"
+        ],
+        "exclude": [
+            "pro",
+            "standard",
+            "amoled"
+        ]
+    },
+    "34468": {
+        "include": [
+            "instinct 2x",
+            "solar",
+            "whitestone"
+        ],
+        "exclude": [
+            "pro",
+            "standard",
+            "amoled"
+        ]
+    },
+    "39301": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "45",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "39304": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "45",
+            "neotropic"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "39312": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "solar",
+            "45",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "39314": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "solar",
+            "45",
+            "gray twilight"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "39326": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "solar",
+            "50",
+            "tactical",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "39306": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "50",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "tactical",
+            "solar"
+        ]
+    },
+    "39308": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "50",
+            "neotropic gray"
+        ],
+        "exclude": [
+            "pro",
+            "tactical",
+            "solar"
+        ]
+    },
+    "39310": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "tactical",
+            "50",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "solar"
+        ]
+    },
+    "39317": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "solar",
+            "50",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "tactical"
+        ]
+    },
+    "39321": {
+        "include": [
+            "instinct 3 ",
+            "amoled",
+            "solar",
+            "50",
+            "gray orange"
+        ],
+        "exclude": [
+            "pro",
+            "tactical"
+        ]
+    },
+    "39342": {
+        "include": [
+            "instinct e ",
+            "40",
+            "black charcoal"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39344": {
+        "include": [
+            "instinct e ",
+            "40",
+            "electric lime gray"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39346": {
+        "include": [
+            "instinct e ",
+            "45",
+            "black charcoal"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39347": {
+        "include": [
+            "instinct e ",
+            "45",
+            "electric lime"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35815": {
+        "include": [
+            "marq ",
+            "gen 2",
+            "adventurer",
+            "modern tool watch"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35811": {
+        "include": [
+            "marq ",
+            "gen 2",
+            "athlete",
+            "carbon",
+            "modern tool watch"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35814": {
+        "include": [
+            "marq ",
+            "gen 2",
+            "athlete",
+            "performance",
+            "modern tool watch"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35816": {
+        "include": [
+            "marq ",
+            "gen 2",
+            "aviator",
+            "modern tool watch"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35817": {
+        "include": [
+            "marq ",
+            "gen 2",
+            "captain",
+            "modern tool watch"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35813": {
+        "include": [
+            "marq ",
+            "gen 2",
+            "commander",
+            "carbon",
+            "modern tool watch"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35812": {
+        "include": [
+            "marq ",
+            "gen 2",
+            "golfer",
+            "carbon",
+            "modern tool watch"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39349": {
+        "include": [
+            "venu 3 ",
+            "45",
+            "silver",
+            "whitestone"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39351": {
+        "include": [
+            "venu 3 ",
+            "45",
+            "slate",
+            "black leather"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35797": {
+        "include": [
+            "venu 3 ",
+            "45",
+            "steel bezel",
+            "whitestone case",
+            "silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35798": {
+        "include": [
+            "venu 3 ",
+            "45",
+            "steel bezel",
+            "black case",
+            "silicone band"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39650": {
+        "include": [
+            "venu 3s",
+            "41",
+            "silver stainless",
+            "sage grey"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39656": {
+        "include": [
+            "venu 3s",
+            "41",
+            "slate",
+            "pebble gray"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39354": {
+        "include": [
+            "venu 3s",
+            "41",
+            "soft gold",
+            "dust rose"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39669": {
+        "include": [
+            "venu 3s",
+            "41",
+            "soft gold",
+            "french gray"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39672": {
+        "include": [
+            "venu 3s",
+            "41",
+            "soft gold",
+            "french gray leather"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "39667": {
+        "include": [
+            "venu 3s",
+            "41",
+            "soft gold",
+            "ivory"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35794": {
+        "include": [
+            "venu 3s",
+            "41",
+            "stainless",
+            "steel bezel",
+            "sage gray case"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35793": {
+        "include": [
+            "venu 3s",
+            "41",
+            "stainless",
+            "slate",
+            "steel bezel",
+            "pebble gray case"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35795": {
+        "include": [
+            "venu 3s",
+            "41",
+            "stainless",
+            "soft gold",
+            "steel bezel",
+            "dust rose case"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "35792": {
+        "include": [
+            "venu 3s",
+            "41",
+            "stainless",
+            "soft gold",
+            "steel bezel",
+            "ivory case"
+        ],
+        "exclude": [
+            "pro",
+            "amoled",
+            "solar",
+            "tactical"
+        ]
+    },
+    "40250": {
+        "include": [
+            "forerunner 570 ",
+            "42",
+            "mango"
+        ],
+        "exclude": []
+    },
+    "40248": {
+        "include": [
+            "forerunner 570 ",
+            "42",
+            "slate gray",
+            "translucent",
+            "black/black band"
+        ],
+        "exclude": []
+    },
+    "40249": {
+        "include": [
+            "forerunner 570 ",
+            "42",
+            "white"
+        ],
+        "exclude": []
+    },
+    "40246": {
+        "include": [
+            "forerunner 570 ",
+            "47",
+            "amp yellow",
+            "translucent",
+            "whitestone/turquoise band"
+        ],
+        "exclude": []
+    },
+    "40247": {
+        "include": [
+            "forerunner 570 ",
+            "47",
+            "slate gray",
+            "translucent",
+            "imperial purple/indigo band"
+        ],
+        "exclude": []
+    },
+    "40244": {
+        "include": [
+            "forerunner 570 ",
+            "47",
+            "indigo",
+            "translucent",
+            "black/black band"
+        ],
+        "exclude": []
+    },
+    "40243": {
+        "include": [
+            "forerunner 970 ",
+            "carbon gray",
+            "black case",
+            "whitestone band"
+        ],
+        "exclude": []
+    },
+    "40240": {
+        "include": [
+            "forerunner 970 ",
+            "soft gold violet"
+        ],
+        "exclude": []
+    },
+    "40242": {
+        "include": [
+            "forerunner 970 ",
+            "titanium",
+            "whitestone case",
+            "amp yellow band"
+        ],
+        "exclude": []
+    },
+    "41507": {
+        "include": [
+            "venu",
+            "x1",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41551": {
+        "include": [
+            "venu",
+            "x1",
+            "green"
+        ],
+        "exclude": []
+    }
+}

@@ -1,0 +1,41 @@
+{
+  "@hi_catalog_bot": {
+    "name": "Hi",
+    "numberList": 1,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "txtMessageHandle": "/prices"
+  },
+  "-1001611607679": {
+    "name": "Sunrise",
+    "numberList": 2,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      2882,
+      2883
+    ]
+  },
+  "@tech_online_seller_bot": {
+    "name": "Super Price",
+    "numberList": 4,
+    "readExcel": true,
+    "excelColumns": {
+      "name": 0,
+      "price": 1
+    },
+    "todayMessage": false,
+    "replaceOld": true,
+    "txtMessageHandle": "/prices_file"
+  },
+  "-1001245719268": {
+    "name": "Garmin",
+    "numberList": 6,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageCodeWord": "garmin"
+  }
+}

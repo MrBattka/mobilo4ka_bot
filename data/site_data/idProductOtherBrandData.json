@@ -1,0 +1,6266 @@
+{
+    "30134": {
+        "include": [
+            "rog",
+            "ally",
+            "16/256",
+            "white"
+        ],
+        "exclude": [
+            " x "
+        ]
+    },
+    "27653": {
+        "include": [
+            "rog",
+            "ally",
+            "16/512",
+            "white"
+        ],
+        "exclude": [
+            " x "
+        ]
+    },
+    "36185": {
+        "include": [
+            "rog",
+            "ally",
+            " x ",
+            "12/1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "35690": {
+        "include": [
+            "rog phone 8",
+            "12/256",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "35692": {
+        "include": [
+            "rog phone 8",
+            "12/256",
+            "gray"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "35691": {
+        "include": [
+            "rog phone 8",
+            "16/256",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "35693": {
+        "include": [
+            "rog phone 8",
+            "16/256",
+            "gray"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "35694": {
+        "include": [
+            "rog phone 8 pro",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "35695": {
+        "include": [
+            "rog phone 8 pro",
+            "16/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36474": {
+        "include": [
+            "rog phone 8 pro",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36473": {
+        "include": [
+            "rog phone 8 pro",
+            "24/1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37794": {
+        "include": [
+            "rog phone 9",
+            "12/256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "37812": {
+        "include": [
+            "rog phone 9",
+            "12/256",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "37808": {
+        "include": [
+            "rog phone 9",
+            "16/512",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "37810": {
+        "include": [
+            "rog phone 9",
+            "16/512",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "41704": {
+        "include": [
+            "rog phone 9",
+            "12/512",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "41707": {
+        "include": [
+            "rog phone 9",
+            "12/512",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "41708": {
+        "include": [
+            "rog phone 9 fe",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "37795": {
+        "include": [
+            "rog phone 9 pro",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37814": {
+        "include": [
+            "rog phone 9 pro",
+            "24/1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "28372": {
+        "include": [
+            "zenfone 10",
+            "12/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "28373": {
+        "include": [
+            "zenfone 10",
+            "12/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "28374": {
+        "include": [
+            "zenfone 10",
+            "12/256",
+            "red"
+        ],
+        "exclude": []
+    },
+    "28375": {
+        "include": [
+            "zenfone 10",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "28376": {
+        "include": [
+            "zenfone 10",
+            "12/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "28377": {
+        "include": [
+            "zenfone 10",
+            "16/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "28378": {
+        "include": [
+            "zenfone 10",
+            "16/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "28379": {
+        "include": [
+            "zenfone 10",
+            "16/256",
+            "red"
+        ],
+        "exclude": []
+    },
+    "28380": {
+        "include": [
+            "zenfone 10",
+            "16/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "28381": {
+        "include": [
+            "zenfone 10",
+            "16/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "28382": {
+        "include": [
+            "zenfone 10",
+            "16/512",
+            "green"
+        ],
+        "exclude": []
+    },
+    "28383": {
+        "include": [
+            "zenfone 10",
+            "16/512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "28384": {
+        "include": [
+            "zenfone 10",
+            "16/512",
+            "red"
+        ],
+        "exclude": []
+    },
+    "27802": {
+        "include": [
+            "zenfone 10",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "27801": {
+        "include": [
+            "zenfone 10",
+            "16/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "28387": {
+        "include": [
+            "zenfone 10",
+            "8/128",
+            "green"
+        ],
+        "exclude": []
+    },
+    "28388": {
+        "include": [
+            "zenfone 10",
+            "8/128",
+            "white"
+        ],
+        "exclude": []
+    },
+    "28389": {
+        "include": [
+            "zenfone 10",
+            "8/128",
+            "red"
+        ],
+        "exclude": []
+    },
+    "27798": {
+        "include": [
+            "zenfone 10",
+            "8/128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "28391": {
+        "include": [
+            "zenfone 10",
+            "8/128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "28392": {
+        "include": [
+            "zenfone 10",
+            "8/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "27799": {
+        "include": [
+            "zenfone 10",
+            "8/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "28394": {
+        "include": [
+            "zenfone 10",
+            "8/256",
+            "red"
+        ],
+        "exclude": []
+    },
+    "27800": {
+        "include": [
+            "zenfone 10",
+            "8/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "27803": {
+        "include": [
+            "zenfone 10",
+            "8/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "36170": {
+        "include": [
+            "zenfone 11 ultra",
+            "12/256",
+            "orange"
+        ],
+        "exclude": []
+    },
+    "36159": {
+        "include": [
+            "zenfone 11 ultra",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36168": {
+        "include": [
+            "zenfone 11 ultra",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "36166": {
+        "include": [
+            "zenfone 11 ultra",
+            "12/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "36171": {
+        "include": [
+            "zenfone 11 ultra",
+            "16/512",
+            "orange"
+        ],
+        "exclude": []
+    },
+    "36158": {
+        "include": [
+            "zenfone 11 ultra",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36169": {
+        "include": [
+            "zenfone 11 ultra",
+            "16/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "36167": {
+        "include": [
+            "zenfone 11 ultra",
+            "16/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40340": {
+        "include": [
+            "hs08",
+            "long",
+            "ceramic pop"
+        ],
+        "exclude": []
+    },
+    "40339": {
+        "include": [
+            "hs08",
+            "long",
+            "diffuse",
+            "topaz/vinca",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40341": {
+        "include": [
+            "hs08",
+            "long",
+            "jasper plum"
+        ],
+        "exclude": []
+    },
+    "40350": {
+        "include": [
+            "hs08",
+            "long",
+            "straigh wavy",
+            "topaz/vinca",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40342": {
+        "include": [
+            "hs09",
+            "coanda2x",
+            "ceramic",
+            "pink/roze",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "40343": {
+        "include": [
+            "hs09",
+            "coanda2x",
+            "jasper plum"
+        ],
+        "exclude": []
+    },
+    "40355": {
+        "include": [
+            "hs07",
+            "corrale",
+            "nickel/copper"
+        ],
+        "exclude": []
+    },
+    "40349": {
+        "include": [
+            "v12s",
+            "detect slim",
+            "submarine"
+        ],
+        "exclude": [
+            "sv46"
+        ]
+    },
+    "40336": {
+        "include": [
+            "v12s",
+            "detect slim",
+            "submarine",
+            "sv46"
+        ],
+        "exclude": []
+    },
+    "27087": {
+        "include": [
+            "hs05",
+            "airwrap long",
+            "barrel",
+            "prussian blue/cooper"
+        ],
+        "exclude": []
+    },
+    "27096": {
+        "include": [
+            "hd12 ",
+            "professional",
+            "salon",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "27107": {
+        "include": [
+            "purifier",
+            "humidify",
+            "cool",
+            "formaldehyde",
+            "ph04"
+        ],
+        "exclude": []
+    },
+    "34741": {
+        "include": [
+            "hd15 ",
+            "ceramic pop"
+        ],
+        "exclude": []
+    },
+    "34764": {
+        "include": [
+            "hs05 ",
+            "airwrap long",
+            "barrel",
+            "ceramic pop"
+        ],
+        "exclude": []
+    },
+    "27088": {
+        "include": [
+            "hs",
+            "05 ",
+            "nickel",
+            "copper"
+        ],
+        "exclude": []
+    },
+    "35045": {
+        "include": [
+            "hs",
+            "05 ",
+            "fuchsia",
+            "nickel"
+        ],
+        "exclude": []
+    },
+    "27089": {
+        "include": [
+            "hs",
+            "05 ",
+            "prussian",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "34763": {
+        "include": [
+            "hs",
+            "05 ",
+            "prussian",
+            "topaz"
+        ],
+        "exclude": []
+    },
+    "34745": {
+        "include": [
+            "hd",
+            "07 ",
+            "blue",
+            "cooper"
+        ],
+        "exclude": []
+    },
+    "27106": {
+        "include": [
+            "hd",
+            "07 ",
+            "blue",
+            "blush"
+        ],
+        "exclude": []
+    },
+    "34750": {
+        "include": [
+            "hd",
+            "07 ",
+            "nickel",
+            "fuchsia"
+        ],
+        "exclude": []
+    },
+    "34743": {
+        "include": [
+            "hd",
+            "07 ",
+            "topaz",
+            "orange"
+        ],
+        "exclude": []
+    },
+    "27099": {
+        "include": [
+            "hd",
+            "08 ",
+            "blue",
+            "rose"
+        ],
+        "exclude": []
+    },
+    "27098": {
+        "include": [
+            "hd",
+            "08 ",
+            "nickel",
+            "cooper"
+        ],
+        "exclude": []
+    },
+    "27090": {
+        "include": [
+            "hd",
+            "08 ",
+            "limited",
+            "prussian",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "27095": {
+        "include": [
+            "hd",
+            "08 ",
+            "prussian",
+            "blue",
+            "copper"
+        ],
+        "exclude": []
+    },
+    "27097": {
+        "include": [
+            "hd",
+            "08 ",
+            "rose"
+        ],
+        "exclude": []
+    },
+    "37130": {
+        "include": [
+            "ht",
+            "01 ",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "37129": {
+        "include": [
+            "ht",
+            "01 ",
+            "cooper"
+        ],
+        "exclude": []
+    },
+    "37128": {
+        "include": [
+            "ht",
+            "01 ",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "37123": {
+        "include": [
+            "hd",
+            "16 ",
+            "ceramic",
+            "patina/topaz"
+        ],
+        "exclude": []
+    },
+    "37122": {
+        "include": [
+            "hd",
+            "16 ",
+            "vinca",
+            "blue/topaz"
+        ],
+        "exclude": []
+    },
+    "27101": {
+        "include": [
+            "v15 ",
+            "yellow",
+            "nickel"
+        ],
+        "exclude": []
+    },
+    "37131": {
+        "include": [
+            "v15s",
+            "submarine",
+            "absolute",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "28199": {
+        "include": [
+            "v12 ",
+            "detect",
+            "slim"
+        ],
+        "exclude": []
+    },
+    "28202": {
+        "include": [
+            "v15 ",
+            "detect",
+            "absolute"
+        ],
+        "exclude": []
+    },
+    "28200": {
+        "include": [
+            "v12 ",
+            "detect",
+            "slim",
+            "absolute"
+        ],
+        "exclude": []
+    },
+    "27102": {
+        "include": [
+            "v12 ",
+            "vacuum",
+            "detect",
+            "slim"
+        ],
+        "exclude": []
+    },
+    "34432": {
+        "include": [
+            "v15s ",
+            "sv47",
+            "detect",
+            "submarine"
+        ],
+        "exclude": []
+    },
+    "37444": {
+        "include": [
+            "hs08 ",
+            "airwrap",
+            "i.d.",
+            "curly",
+            "coily",
+            "ceramic",
+            "patina/topaz"
+        ],
+        "exclude": []
+    },
+    "37445": {
+        "include": [
+            "hs08 ",
+            "airwrap",
+            "i.d.",
+            "curly",
+            "coily",
+            "strawberry",
+            "bronze/blush",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "37443": {
+        "include": [
+            "hs08 ",
+            "airwrap",
+            "i.d.",
+            "curly",
+            "coily",
+            "vinca",
+            "blue/topaz"
+        ],
+        "exclude": []
+    },
+    "37446": {
+        "include": [
+            "hs08 ",
+            "airwrap",
+            "i.d.",
+            "straight",
+            "wavy",
+            "ceramic",
+            "patina/topaz"
+        ],
+        "exclude": []
+    },
+    "37447": {
+        "include": [
+            "hs08 ",
+            "airwrap",
+            "i.d.",
+            "straight",
+            "wavy",
+            "strawberry",
+            "bronze/blush",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "37448": {
+        "include": [
+            "hs08 ",
+            "airwrap",
+            "i.d.",
+            "straight",
+            "wavy",
+            "vinca",
+            "blue/topaz"
+        ],
+        "exclude": []
+    },
+    "17531": {
+        "include": [
+            "hero 9"
+        ],
+        "exclude": []
+    },
+    "20821": {
+        "include": [
+            "hero 10"
+        ],
+        "exclude": []
+    },
+    "27657": {
+        "include": [
+            "hero 11"
+        ],
+        "exclude": []
+    },
+    "30285": {
+        "include": [
+            "hero 12"
+        ],
+        "exclude": []
+    },
+    "37167": {
+        "include": [
+            "hero 13"
+        ],
+        "exclude": []
+    },
+    "17242": {
+        "include": [
+            "el grande"
+        ],
+        "exclude": []
+    },
+    "27643": {
+        "include": [
+            "jbl boombox 3 black"
+        ],
+        "exclude": []
+    },
+    "28082": {
+        "include": [
+            "jbl boombox 3 squad"
+        ],
+        "exclude": []
+    },
+    "13691": {
+        "include": [
+            "jbl charge 5 black"
+        ],
+        "exclude": []
+    },
+    "20283": {
+        "include": [
+            "jbl charge 5 blue"
+        ],
+        "exclude": []
+    },
+    "20278": {
+        "include": [
+            "jbl charge 5 green"
+        ],
+        "exclude": []
+    },
+    "20285": {
+        "include": [
+            "jbl charge 5 grey"
+        ],
+        "exclude": []
+    },
+    "20281": {
+        "include": [
+            "jbl charge 5 pink"
+        ],
+        "exclude": []
+    },
+    "20279": {
+        "include": [
+            "jbl charge 5 red"
+        ],
+        "exclude": []
+    },
+    "20280": {
+        "include": [
+            "jbl charge 5 squad"
+        ],
+        "exclude": []
+    },
+    "20282": {
+        "include": [
+            "jbl charge 5 teal"
+        ],
+        "exclude": []
+    },
+    "20286": {
+        "include": [
+            "jbl charge 5 white"
+        ],
+        "exclude": []
+    },
+    "20301": {
+        "include": [
+            "jbl clip 4 black"
+        ],
+        "exclude": []
+    },
+    "20305": {
+        "include": [
+            "jbl clip 4 blue"
+        ],
+        "exclude": []
+    },
+    "20302": {
+        "include": [
+            "jbl clip 4 pink"
+        ],
+        "exclude": []
+    },
+    "27641": {
+        "include": [
+            "jbl clip 4 blue"
+        ],
+        "exclude": []
+    },
+    "20306": {
+        "include": [
+            "jbl clip 4 orange"
+        ],
+        "exclude": []
+    },
+    "20304": {
+        "include": [
+            "jbl clip 4 pink"
+        ],
+        "exclude": []
+    },
+    "20307": {
+        "include": [
+            "jbl clip 4 teal"
+        ],
+        "exclude": []
+    },
+    "20308": {
+        "include": [
+            "jbl clip 4 white"
+        ],
+        "exclude": []
+    },
+    "20303": {
+        "include": [
+            "jbl clip 4 yellow"
+        ],
+        "exclude": []
+    },
+    "15234": {
+        "include": [
+            "jbl flip 5 black"
+        ],
+        "exclude": []
+    },
+    "15235": {
+        "include": [
+            "jbl flip 5 blue"
+        ],
+        "exclude": []
+    },
+    "18972": {
+        "include": [
+            "jbl flip 5 green"
+        ],
+        "exclude": []
+    },
+    "18970": {
+        "include": [
+            "jbl flip 5 blue"
+        ],
+        "exclude": []
+    },
+    "15237": {
+        "include": [
+            "jbl flip 5 grey"
+        ],
+        "exclude": []
+    },
+    "15240": {
+        "include": [
+            "jbl flip 5 yellow"
+        ],
+        "exclude": []
+    },
+    "15241": {
+        "include": [
+            "jbl flip 5 pink"
+        ],
+        "exclude": []
+    },
+    "15236": {
+        "include": [
+            "jbl flip 5 red"
+        ],
+        "exclude": []
+    },
+    "15242": {
+        "include": [
+            "jbl flip 5 sand"
+        ],
+        "exclude": []
+    },
+    "15243": {
+        "include": [
+            "jbl flip 5 squad"
+        ],
+        "exclude": []
+    },
+    "15238": {
+        "include": [
+            "jbl flip 5 teal"
+        ],
+        "exclude": []
+    },
+    "15239": {
+        "include": [
+            "jbl flip 5 white"
+        ],
+        "exclude": []
+    },
+    "27639": {
+        "include": [
+            "jbl flip 6 black"
+        ],
+        "exclude": []
+    },
+    "28084": {
+        "include": [
+            "jbl flip 6 blue"
+        ],
+        "exclude": []
+    },
+    "28086": {
+        "include": [
+            "jbl flip 6 gray"
+        ],
+        "exclude": []
+    },
+    "28085": {
+        "include": [
+            "jbl flip 6 red"
+        ],
+        "exclude": []
+    },
+    "28083": {
+        "include": [
+            "jbl flip 6 squad"
+        ],
+        "exclude": []
+    },
+    "28087": {
+        "include": [
+            "jbl flip 6 teal"
+        ],
+        "exclude": []
+    },
+    "18959": {
+        "include": [
+            "jbl go 3 green"
+        ],
+        "exclude": []
+    },
+    "18961": {
+        "include": [
+            "jbl go 3 grey"
+        ],
+        "exclude": []
+    },
+    "18962": {
+        "include": [
+            "jbl go 3 teal"
+        ],
+        "exclude": []
+    },
+    "18963": {
+        "include": [
+            "jbl go 3 black"
+        ],
+        "exclude": []
+    },
+    "18958": {
+        "include": [
+            "jbl go 3 white"
+        ],
+        "exclude": []
+    },
+    "18964": {
+        "include": [
+            "jbl go 3 blue"
+        ],
+        "exclude": []
+    },
+    "18966": {
+        "include": [
+            "jbl go 3 orange"
+        ],
+        "exclude": []
+    },
+    "18967": {
+        "include": [
+            "jbl go 3 yellow"
+        ],
+        "exclude": []
+    },
+    "18969": {
+        "include": [
+            "jbl go 3 pink"
+        ],
+        "exclude": []
+    },
+    "18965": {
+        "include": [
+            "jbl go 3 ref"
+        ],
+        "exclude": []
+    },
+    "39941": {
+        "include": [
+            "nord 5",
+            "12/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "39944": {
+        "include": [
+            "nord 5",
+            "12/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "39889": {
+        "include": [
+            "nord 5",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "39955": {
+        "include": [
+            "nord 5",
+            "12/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "39956": {
+        "include": [
+            "nord 5",
+            "12/512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "39957": {
+        "include": [
+            "nord 5",
+            "12/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "39949": {
+        "include": [
+            "nord 5",
+            "8/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "39950": {
+        "include": [
+            "nord 5",
+            "8/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "39951": {
+        "include": [
+            "nord 5",
+            "8/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "39890": {
+        "include": [
+            "nord ce5",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "39959": {
+        "include": [
+            "nord ce5",
+            "12/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "39969": {
+        "include": [
+            "nord ce5",
+            "8/128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "39970": {
+        "include": [
+            "nord ce5",
+            "8/128",
+            "white"
+        ],
+        "exclude": []
+    },
+    "39962": {
+        "include": [
+            "nord ce5",
+            "8/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "39963": {
+        "include": [
+            "nord ce5",
+            "8/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "39813": {
+        "include": [
+            "oneplus pad 3",
+            "12/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "39825": {
+        "include": [
+            "oneplus pad 3",
+            "16/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40137": {
+        "include": [
+            "oneplus pad lite",
+            "6/128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40142": {
+        "include": [
+            "oneplus pad lite",
+            "8/128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40043": {
+        "include": [
+            "oneplus watch 3",
+            "43",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40135": {
+        "include": [
+            "oneplus watch 3",
+            "43",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "38771": {
+        "include": [
+            "oneplus watch 3",
+            "46",
+            "black"
+        ],
+        "exclude": []
+    },
+    "38793": {
+        "include": [
+            "oneplus watch 3",
+            "46",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "39693": {
+        "include": [
+            "oneplus 13s",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "39758": {
+        "include": [
+            "oneplus 13s",
+            "12/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "39759": {
+        "include": [
+            "oneplus 13s",
+            "12/256",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "39761": {
+        "include": [
+            "oneplus 13s",
+            "12/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "39763": {
+        "include": [
+            "oneplus 13s",
+            "12/512",
+            "green"
+        ],
+        "exclude": []
+    },
+    "39765": {
+        "include": [
+            "oneplus 13s",
+            "12/512",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "28140": {
+        "include": [
+            "nord 3",
+            "16/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "28141": {
+        "include": [
+            "nord 3",
+            "16/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "28139": {
+        "include": [
+            "nord 3",
+            "8/128",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "28142": {
+        "include": [
+            "nord 3",
+            "8/128",
+            "green"
+        ],
+        "exclude": []
+    },
+    "37155": {
+        "include": [
+            "nord 4",
+            "12/256",
+            "silver"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37156": {
+        "include": [
+            "nord 4",
+            "12/256",
+            "green"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37157": {
+        "include": [
+            "nord 4",
+            "12/256",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37158": {
+        "include": [
+            "nord 4",
+            "16/512",
+            "silver"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37159": {
+        "include": [
+            "nord 4",
+            "16/512",
+            "green"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37160": {
+        "include": [
+            "nord 4",
+            "16/512",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37150": {
+        "include": [
+            "nord 4",
+            "8/128",
+            "silver"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37151": {
+        "include": [
+            "nord 4",
+            "8/128",
+            "green"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37149": {
+        "include": [
+            "nord 4",
+            "8/128",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37152": {
+        "include": [
+            "nord 4",
+            "8/256",
+            "silver"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37153": {
+        "include": [
+            "nord 4",
+            "8/256",
+            "green"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37154": {
+        "include": [
+            "nord 4",
+            "8/256",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "38707": {
+        "include": [
+            "nord ce4",
+            "8/256",
+            "green"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "38708": {
+        "include": [
+            "nord ce4",
+            "8/256",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37134": {
+        "include": [
+            "nord ce4",
+            "8/128",
+            "green"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "37133": {
+        "include": [
+            "nord ce4",
+            "8/128",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "30615": {
+        "include": [
+            "oneplus open",
+            "16/512",
+            "green"
+        ],
+        "exclude": []
+    },
+    "30616": {
+        "include": [
+            "oneplus open",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "19037": {
+        "include": [
+            "oneplus buds",
+            "gray"
+        ],
+        "exclude": [
+            "nord"
+        ]
+    },
+    "19038": {
+        "include": [
+            "oneplus buds",
+            "white"
+        ],
+        "exclude": [
+            "nord"
+        ]
+    },
+    "19039": {
+        "include": [
+            "oneplus buds nord",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "22161": {
+        "include": [
+            "oneplus buds nord",
+            "white"
+        ],
+        "exclude": []
+    },
+    "37136": {
+        "include": [
+            "nord ce4 lite",
+            "8/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "37135": {
+        "include": [
+            "nord ce4 lite",
+            "8/256",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "35886": {
+        "include": [
+            "oneplus 12r",
+            "12/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "35884": {
+        "include": [
+            "oneplus 12r",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "35889": {
+        "include": [
+            "oneplus 12r",
+            "12/256",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "36940": {
+        "include": [
+            "oneplus 12r",
+            "8/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "36941": {
+        "include": [
+            "oneplus 12r",
+            "8/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "35885": {
+        "include": [
+            "oneplus 12r",
+            "16/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "35888": {
+        "include": [
+            "oneplus 12r",
+            "8/128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "35883": {
+        "include": [
+            "oneplus 12r",
+            "8/128",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "37804": {
+        "include": [
+            "oneplus 13r",
+            "12/256",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "37792": {
+        "include": [
+            "oneplus 13r",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37806": {
+        "include": [
+            "oneplus 13r",
+            "16/512",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "37802": {
+        "include": [
+            "oneplus 13r",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37204": {
+        "include": [
+            "oneplus 13 ",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37459": {
+        "include": [
+            "oneplus 13 ",
+            "12/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "37460": {
+        "include": [
+            "oneplus 13 ",
+            "12/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "37461": {
+        "include": [
+            "oneplus 13 ",
+            "12/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37462": {
+        "include": [
+            "oneplus 13 ",
+            "12/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "37463": {
+        "include": [
+            "oneplus 13 ",
+            "12/512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "37464": {
+        "include": [
+            "oneplus 13 ",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37465": {
+        "include": [
+            "oneplus 13 ",
+            "16/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "37466": {
+        "include": [
+            "oneplus 13 ",
+            "16/512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "37467": {
+        "include": [
+            "oneplus 13 ",
+            "24/1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "37468": {
+        "include": [
+            "oneplus 13 ",
+            "24/1tb",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "37469": {
+        "include": [
+            "oneplus 13 ",
+            "24/1tb",
+            "white"
+        ],
+        "exclude": []
+    },
+    "38868": {
+        "include": [
+            "oneplus 13t 12/256 black"
+        ],
+        "exclude": []
+    },
+    "38924": {
+        "include": [
+            "oneplus 13t 12/256 gray"
+        ],
+        "exclude": []
+    },
+    "38926": {
+        "include": [
+            "oneplus 13t 12/256 pink"
+        ],
+        "exclude": []
+    },
+    "38936": {
+        "include": [
+            "oneplus 13t 12/512 black"
+        ],
+        "exclude": []
+    },
+    "38937": {
+        "include": [
+            "oneplus 13t 12/512 gray"
+        ],
+        "exclude": []
+    },
+    "38938": {
+        "include": [
+            "oneplus 13t 12/512 pink"
+        ],
+        "exclude": []
+    },
+    "38948": {
+        "include": [
+            "oneplus 13t 16/1tb black"
+        ],
+        "exclude": []
+    },
+    "38949": {
+        "include": [
+            "oneplus 13t 16/1tb gray"
+        ],
+        "exclude": []
+    },
+    "38950": {
+        "include": [
+            "oneplus 13t 16/1tb pink"
+        ],
+        "exclude": []
+    },
+    "38930": {
+        "include": [
+            "oneplus 13t 16/256 black"
+        ],
+        "exclude": []
+    },
+    "38931": {
+        "include": [
+            "oneplus 13t 16/256 gray"
+        ],
+        "exclude": []
+    },
+    "38932": {
+        "include": [
+            "oneplus 13t 16/256 pink"
+        ],
+        "exclude": []
+    },
+    "38942": {
+        "include": [
+            "oneplus 13t 16/512 black"
+        ],
+        "exclude": []
+    },
+    "38943": {
+        "include": [
+            "oneplus 13t 16/512 gray"
+        ],
+        "exclude": []
+    },
+    "38944": {
+        "include": [
+            "oneplus 13t 16/512 pink"
+        ],
+        "exclude": []
+    },
+    "34452": {
+        "include": [
+            "ace 3 12/256 black"
+        ],
+        "exclude": []
+    },
+    "34455": {
+        "include": [
+            "ace 3 12/256 blue"
+        ],
+        "exclude": []
+    },
+    "34458": {
+        "include": [
+            "ace 3 12/256",
+            "rose"
+        ],
+        "exclude": []
+    },
+    "34454": {
+        "include": [
+            "ace 3 16/1tb black"
+        ],
+        "exclude": []
+    },
+    "34456": {
+        "include": [
+            "ace 3 16/1tb blue"
+        ],
+        "exclude": []
+    },
+    "34459": {
+        "include": [
+            "ace 3 16/1tb",
+            "rose"
+        ],
+        "exclude": []
+    },
+    "34453": {
+        "include": [
+            "ace 3 16/512 black"
+        ],
+        "exclude": []
+    },
+    "34457": {
+        "include": [
+            "ace 3 16/512 blue"
+        ],
+        "exclude": []
+    },
+    "34460": {
+        "include": [
+            "ace 3 16/512",
+            "rose"
+        ],
+        "exclude": []
+    },
+    "37137": {
+        "include": [
+            "ace 3 pro",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "37139": {
+        "include": [
+            "ace 3 pro",
+            "12/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "37138": {
+        "include": [
+            "ace 3 pro",
+            "12/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "37140": {
+        "include": [
+            "ace 3 pro",
+            "16/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "37141": {
+        "include": [
+            "ace 3 pro",
+            "16/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "37142": {
+        "include": [
+            "ace 3 pro",
+            "16/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "37143": {
+        "include": [
+            "ace 3 pro",
+            "16/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "37144": {
+        "include": [
+            "ace 3 pro",
+            "16/512",
+            "green"
+        ],
+        "exclude": []
+    },
+    "37145": {
+        "include": [
+            "ace 3 pro",
+            "16/512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "37146": {
+        "include": [
+            "ace 3 pro",
+            "24/1tb",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "37147": {
+        "include": [
+            "ace 3 pro",
+            "24/1tb",
+            "green"
+        ],
+        "exclude": []
+    },
+    "37148": {
+        "include": [
+            "ace 3 pro",
+            "24/1tb",
+            "white"
+        ],
+        "exclude": []
+    },
+    "38023": {
+        "include": [
+            "ace 5",
+            "12/256",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38027": {
+        "include": [
+            "ace 5",
+            "16/256",
+            "gray"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38028": {
+        "include": [
+            "ace 5",
+            "16/256",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38029": {
+        "include": [
+            "ace 5",
+            "16/256",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38033": {
+        "include": [
+            "ace 5",
+            "12/512",
+            "gray"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38034": {
+        "include": [
+            "ace 5",
+            "12/512",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38035": {
+        "include": [
+            "ace 5",
+            "12/512",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38039": {
+        "include": [
+            "ace 5",
+            "16/512",
+            "gray"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38040": {
+        "include": [
+            "ace 5",
+            "16/512",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38041": {
+        "include": [
+            "ace 5",
+            "16/512",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "38050": {
+        "include": [
+            "ace 5 pro",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "38051": {
+        "include": [
+            "ace 5 pro",
+            "12/256",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "38052": {
+        "include": [
+            "ace 5 pro",
+            "12/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "38053": {
+        "include": [
+            "ace 5 pro",
+            "16/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "38054": {
+        "include": [
+            "ace 5 pro",
+            "16/256",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "38055": {
+        "include": [
+            "ace 5 pro",
+            "16/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "38059": {
+        "include": [
+            "ace 5 pro",
+            "12/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "38060": {
+        "include": [
+            "ace 5 pro",
+            "12/512",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "38061": {
+        "include": [
+            "ace 5 pro",
+            "12/512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "38065": {
+        "include": [
+            "ace 5 pro",
+            "16/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "38066": {
+        "include": [
+            "ace 5 pro",
+            "16/512",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "38067": {
+        "include": [
+            "ace 5 pro",
+            "16/512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "38071": {
+        "include": [
+            "ace 5 pro",
+            "16/1tb",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "38072": {
+        "include": [
+            "ace 5 pro",
+            "16/1tb",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "38073": {
+        "include": [
+            "ace 5 pro",
+            "16/1tb",
+            "white"
+        ],
+        "exclude": []
+    },
+    "40264": {
+        "include": [
+            "ace 5 ultra",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40319": {
+        "include": [
+            "ace 5 ultra",
+            "12/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40327": {
+        "include": [
+            "ace 5 ultra",
+            "12/256",
+            "titan"
+        ],
+        "exclude": []
+    },
+    "40317": {
+        "include": [
+            "ace 5 ultra",
+            "12/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40318": {
+        "include": [
+            "ace 5 ultra",
+            "12/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40328": {
+        "include": [
+            "ace 5 ultra",
+            "12/512",
+            "titan"
+        ],
+        "exclude": []
+    },
+    "40314": {
+        "include": [
+            "ace 5 ultra",
+            "16/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40320": {
+        "include": [
+            "ace 5 ultra",
+            "16/256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40325": {
+        "include": [
+            "ace 5 ultra",
+            "16/256",
+            "titan"
+        ],
+        "exclude": []
+    },
+    "40315": {
+        "include": [
+            "ace 5 ultra",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40321": {
+        "include": [
+            "ace 5 ultra",
+            "16/512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40324": {
+        "include": [
+            "ace 5 ultra",
+            "16/512",
+            "titan"
+        ],
+        "exclude": []
+    },
+    "40316": {
+        "include": [
+            "ace 5 ultra",
+            "16/1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40322": {
+        "include": [
+            "ace 5 ultra",
+            "16/1tb",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "40323": {
+        "include": [
+            "ace 5 ultra",
+            "16/1tb",
+            "titan"
+        ],
+        "exclude": []
+    },
+    "20983": {
+        "include": [
+            "pixel 6",
+            "128",
+            "coral"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "20982": {
+        "include": [
+            "pixel 6",
+            "128",
+            "green"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "20984": {
+        "include": [
+            "pixel 6",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "20985": {
+        "include": [
+            "pixel 6",
+            "256",
+            "coral"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "20986": {
+        "include": [
+            "pixel 6",
+            "256",
+            "green"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "20987": {
+        "include": [
+            "pixel 6",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "20988": {
+        "include": [
+            "pixel 6 pro",
+            "128",
+            "white"
+        ],
+        "exclude": []
+    },
+    "20989": {
+        "include": [
+            "pixel 6 pro",
+            "128",
+            "sunny"
+        ],
+        "exclude": []
+    },
+    "20990": {
+        "include": [
+            "pixel 6 pro",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "20991": {
+        "include": [
+            "pixel 6 pro",
+            "256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "20992": {
+        "include": [
+            "pixel 6 pro",
+            "256",
+            "sunny"
+        ],
+        "exclude": []
+    },
+    "20993": {
+        "include": [
+            "pixel 6 pro",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "28307": {
+        "include": [
+            "pixel 6 pro",
+            "512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "28308": {
+        "include": [
+            "pixel 6 pro",
+            "512",
+            "sunny"
+        ],
+        "exclude": []
+    },
+    "28309": {
+        "include": [
+            "pixel 6 pro",
+            "512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "23961": {
+        "include": [
+            "pixel 7 ",
+            "128",
+            "lemon"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "23959": {
+        "include": [
+            "pixel 7 ",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "23963": {
+        "include": [
+            "pixel 7 ",
+            "128",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "23962": {
+        "include": [
+            "pixel 7 ",
+            "256",
+            "lemon"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "23960": {
+        "include": [
+            "pixel 7 ",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "23964": {
+        "include": [
+            "pixel 7 ",
+            "256",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "23971": {
+        "include": [
+            "pixel 7 pro",
+            "128",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "23965": {
+        "include": [
+            "pixel 7 pro",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "23968": {
+        "include": [
+            "pixel 7 pro",
+            "128",
+            "white"
+        ],
+        "exclude": []
+    },
+    "23972": {
+        "include": [
+            "pixel 7 pro",
+            "256",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "23967": {
+        "include": [
+            "pixel 7 pro",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "23969": {
+        "include": [
+            "pixel 7 pro",
+            "256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "23973": {
+        "include": [
+            "pixel 7 pro",
+            "512",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "23966": {
+        "include": [
+            "pixel 7 pro",
+            "512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "23970": {
+        "include": [
+            "pixel 7 pro",
+            "512",
+            "white"
+        ],
+        "exclude": []
+    },
+    "27902": {
+        "include": [
+            "pixel 7a",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "27903": {
+        "include": [
+            "pixel 7a",
+            "128",
+            "coral"
+        ],
+        "exclude": []
+    },
+    "27905": {
+        "include": [
+            "pixel 7a",
+            "128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "27904": {
+        "include": [
+            "pixel 7a",
+            "128",
+            "white"
+        ],
+        "exclude": []
+    },
+    "30269": {
+        "include": [
+            "pixel 7a",
+            "128",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "30267": {
+        "include": [
+            "pixel 8 ",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "30271": {
+        "include": [
+            "pixel 8 ",
+            "128",
+            "pink"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "30268": {
+        "include": [
+            "pixel 8 ",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "30272": {
+        "include": [
+            "pixel 8 ",
+            "256",
+            "pink"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "30281": {
+        "include": [
+            "pixel 8 pro",
+            "128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "30273": {
+        "include": [
+            "pixel 8 pro",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "30277": {
+        "include": [
+            "pixel 8 pro",
+            "128",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "30282": {
+        "include": [
+            "pixel 8 pro",
+            "1tb",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "30276": {
+        "include": [
+            "pixel 8 pro",
+            "1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "30278": {
+        "include": [
+            "pixel 8 pro",
+            "1tb",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "30283": {
+        "include": [
+            "pixel 8 pro",
+            "256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "30274": {
+        "include": [
+            "pixel 8 pro",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "30279": {
+        "include": [
+            "pixel 8 pro",
+            "256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "30284": {
+        "include": [
+            "pixel 8 pro",
+            "512",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "30275": {
+        "include": [
+            "pixel 8 pro",
+            "512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "30280": {
+        "include": [
+            "pixel 8 pro",
+            "512",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "36335": {
+        "include": [
+            "pixel 8a",
+            "128",
+            "green"
+        ],
+        "exclude": []
+    },
+    "36333": {
+        "include": [
+            "pixel 8a",
+            "128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "36189": {
+        "include": [
+            "pixel 8a",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36334": {
+        "include": [
+            "pixel 8a",
+            "128",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "36381": {
+        "include": [
+            "pixel 8a",
+            "256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "36385": {
+        "include": [
+            "pixel 8a",
+            "256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "36383": {
+        "include": [
+            "pixel 8a",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36384": {
+        "include": [
+            "pixel 8a",
+            "256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "36716": {
+        "include": [
+            "pixel 9 pro",
+            "128",
+            "hazel"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36715": {
+        "include": [
+            "pixel 9 pro",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36683": {
+        "include": [
+            "pixel 9 pro",
+            "128",
+            "gold"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36714": {
+        "include": [
+            "pixel 9 pro",
+            "128",
+            "pink"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36725": {
+        "include": [
+            "pixel 9 pro",
+            "1tb",
+            "hazel"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36726": {
+        "include": [
+            "pixel 9 pro",
+            "1tb",
+            "black"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36727": {
+        "include": [
+            "pixel 9 pro",
+            "1tb",
+            "gold"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36728": {
+        "include": [
+            "pixel 9 pro",
+            "1tb",
+            "pink"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36717": {
+        "include": [
+            "pixel 9 pro",
+            "256",
+            "hazel"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36718": {
+        "include": [
+            "pixel 9 pro",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36719": {
+        "include": [
+            "pixel 9 pro",
+            "256",
+            "gold"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36720": {
+        "include": [
+            "pixel 9 pro",
+            "256",
+            "pink"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36721": {
+        "include": [
+            "pixel 9 pro",
+            "512",
+            "hazel"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36722": {
+        "include": [
+            "pixel 9 pro",
+            "512",
+            "black"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36723": {
+        "include": [
+            "pixel 9 pro",
+            "512",
+            "gold"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36724": {
+        "include": [
+            "pixel 9 pro",
+            "512",
+            "pink"
+        ],
+        "exclude": [
+            "fold",
+            "xl"
+        ]
+    },
+    "36679": {
+        "include": [
+            "pixel 9 pro fold",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "xl"
+        ]
+    },
+    "36689": {
+        "include": [
+            "pixel 9 pro fold",
+            "256",
+            "gold"
+        ],
+        "exclude": [
+            "xl"
+        ]
+    },
+    "36690": {
+        "include": [
+            "pixel 9 pro fold",
+            "512",
+            "black"
+        ],
+        "exclude": [
+            "xl"
+        ]
+    },
+    "36691": {
+        "include": [
+            "pixel 9 pro fold",
+            "512",
+            "gold"
+        ],
+        "exclude": [
+            "xl"
+        ]
+    },
+    "36701": {
+        "include": [
+            "pixel 9 pro xl",
+            "128",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "36700": {
+        "include": [
+            "pixel 9 pro xl",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36684": {
+        "include": [
+            "pixel 9 pro xl",
+            "128",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "36699": {
+        "include": [
+            "pixel 9 pro xl",
+            "128",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "36710": {
+        "include": [
+            "pixel 9 pro xl",
+            "1tb",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "36711": {
+        "include": [
+            "pixel 9 pro xl",
+            "1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36712": {
+        "include": [
+            "pixel 9 pro xl",
+            "1tb",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "36713": {
+        "include": [
+            "pixel 9 pro xl",
+            "1tb",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "36702": {
+        "include": [
+            "pixel 9 pro xl",
+            "256",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "36703": {
+        "include": [
+            "pixel 9 pro xl",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36704": {
+        "include": [
+            "pixel 9 pro xl",
+            "256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "36705": {
+        "include": [
+            "pixel 9 pro xl",
+            "256",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "36706": {
+        "include": [
+            "pixel 9 pro xl",
+            "512",
+            "hazel"
+        ],
+        "exclude": []
+    },
+    "36707": {
+        "include": [
+            "pixel 9 pro xl",
+            "512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "36708": {
+        "include": [
+            "pixel 9 pro xl",
+            "512",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "36709": {
+        "include": [
+            "pixel 9 pro xl",
+            "512",
+            "pink"
+        ],
+        "exclude": []
+    },
+    "36682": {
+        "include": [
+            "pixel 9 ",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "36693": {
+        "include": [
+            "pixel 9 ",
+            "128",
+            "pink"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "36692": {
+        "include": [
+            "pixel 9 ",
+            "128",
+            "gold"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "36694": {
+        "include": [
+            "pixel 9 ",
+            "128",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "36695": {
+        "include": [
+            "pixel 9 ",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "36696": {
+        "include": [
+            "pixel 9 ",
+            "256",
+            "pink"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "36697": {
+        "include": [
+            "pixel 9 ",
+            "256",
+            "gold"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "36698": {
+        "include": [
+            "pixel 9 ",
+            "256",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "38802": {
+        "include": [
+            "pixel 9a",
+            "128",
+            "purple"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38803": {
+        "include": [
+            "pixel 9a",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38804": {
+        "include": [
+            "pixel 9a",
+            "128",
+            "pink"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38805": {
+        "include": [
+            "pixel 9a",
+            "128",
+            "gold"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38810": {
+        "include": [
+            "pixel 9a",
+            "256",
+            "purple"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38811": {
+        "include": [
+            "pixel 9a",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38812": {
+        "include": [
+            "pixel 9a",
+            "256",
+            "pink"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "38813": {
+        "include": [
+            "pixel 9a",
+            "256",
+            "gold"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "40428": {
+        "include": [
+            "pixel 10 ",
+            "128",
+            "frost"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40425": {
+        "include": [
+            "pixel 10 ",
+            "128",
+            "indigo"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40430": {
+        "include": [
+            "pixel 10 ",
+            "128",
+            "lemon"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40424": {
+        "include": [
+            "pixel 10 ",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40427": {
+        "include": [
+            "pixel 10 ",
+            "256",
+            "frost"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40426": {
+        "include": [
+            "pixel 10 ",
+            "256",
+            "indigo"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40431": {
+        "include": [
+            "pixel 10 ",
+            "256",
+            "lemon"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40432": {
+        "include": [
+            "pixel 10 ",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "fe"
+        ]
+    },
+    "40442": {
+        "include": [
+            "pixel 10 pro",
+            "128",
+            "green"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40450": {
+        "include": [
+            "pixel 10 pro",
+            "128",
+            "moon"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40419": {
+        "include": [
+            "pixel 10 pro",
+            "128",
+            "black"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40443": {
+        "include": [
+            "pixel 10 pro",
+            "128",
+            "gold"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40441": {
+        "include": [
+            "pixel 10 pro",
+            "256",
+            "green"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40449": {
+        "include": [
+            "pixel 10 pro",
+            "256",
+            "moon"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40435": {
+        "include": [
+            "pixel 10 pro",
+            "256",
+            "black"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40444": {
+        "include": [
+            "pixel 10 pro",
+            "256",
+            "gold"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40440": {
+        "include": [
+            "pixel 10 pro",
+            "512",
+            "green"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40448": {
+        "include": [
+            "pixel 10 pro",
+            "512",
+            "moon"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40436": {
+        "include": [
+            "pixel 10 pro",
+            "512",
+            "black"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40445": {
+        "include": [
+            "pixel 10 pro",
+            "512",
+            "gold"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40439": {
+        "include": [
+            "pixel 10 pro",
+            "1tb",
+            "green"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40447": {
+        "include": [
+            "pixel 10 pro",
+            "1tb",
+            "moon"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40438": {
+        "include": [
+            "pixel 10 pro",
+            "1tb",
+            "black"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40446": {
+        "include": [
+            "pixel 10 pro",
+            "1tb",
+            "gold"
+        ],
+        "exclude": [
+            "xl",
+            "fold"
+        ]
+    },
+    "40460": {
+        "include": [
+            "pixel 10 pro xl",
+            "256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "40454": {
+        "include": [
+            "pixel 10 pro xl",
+            "256",
+            "moon"
+        ],
+        "exclude": []
+    },
+    "40453": {
+        "include": [
+            "pixel 10 pro xl",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40461": {
+        "include": [
+            "pixel 10 pro xl",
+            "256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "40459": {
+        "include": [
+            "pixel 10 pro xl",
+            "512",
+            "green"
+        ],
+        "exclude": []
+    },
+    "40455": {
+        "include": [
+            "pixel 10 pro xl",
+            "512",
+            "moon"
+        ],
+        "exclude": []
+    },
+    "40452": {
+        "include": [
+            "pixel 10 pro xl",
+            "512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40462": {
+        "include": [
+            "pixel 10 pro xl",
+            "512",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "40457": {
+        "include": [
+            "pixel 10 pro xl",
+            "1tb",
+            "green"
+        ],
+        "exclude": []
+    },
+    "40456": {
+        "include": [
+            "pixel 10 pro xl",
+            "1tb",
+            "moon"
+        ],
+        "exclude": []
+    },
+    "40422": {
+        "include": [
+            "pixel 10 pro xl",
+            "1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "40463": {
+        "include": [
+            "pixel 10 pro xl",
+            "1tb",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "40474": {
+        "include": [
+            "pixel 10 pro fold",
+            "256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "40466": {
+        "include": [
+            "pixel 10 pro fold",
+            "256",
+            "moon"
+        ],
+        "exclude": []
+    },
+    "40473": {
+        "include": [
+            "pixel 10 pro fold",
+            "512",
+            "green"
+        ],
+        "exclude": []
+    },
+    "40470": {
+        "include": [
+            "pixel 10 pro fold",
+            "512",
+            "moon"
+        ],
+        "exclude": []
+    },
+    "40472": {
+        "include": [
+            "pixel 10 pro fold",
+            "1tb",
+            "green"
+        ],
+        "exclude": []
+    },
+    "40471": {
+        "include": [
+            "pixel 10 pro fold",
+            "1tb",
+            "moon"
+        ],
+        "exclude": []
+    },
+    "40492": {
+        "include": [
+            "pixel watch 4",
+            "41",
+            "black",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "40494": {
+        "include": [
+            "pixel watch 4",
+            "41",
+            "silver",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "40495": {
+        "include": [
+            "pixel watch 4",
+            "41",
+            "gold",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "40498": {
+        "include": [
+            "pixel watch 4",
+            "45",
+            "black",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "40499": {
+        "include": [
+            "pixel watch 4",
+            "45",
+            "silver",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "40501": {
+        "include": [
+            "pixel watch 4",
+            "45",
+            "moon",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "40500": {
+        "include": [
+            "pixel watch 4",
+            "41",
+            "moon",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "41536": {
+        "include": [
+            "rb03",
+            "360 robot",
+            "vaccum"
+        ],
+        "exclude": []
+    },
+    "41545": {
+        "include": [
+            "airblade",
+            "V",
+            "hu02"
+        ],
+        "exclude": []
+    },
+    "41458": {
+        "include": [
+            "big ball absolute 2",
+            "cy26"
+        ],
+        "exclude": []
+    },
+    "41562": {
+        "include": [
+            "big ball absolute 2",
+            "cy28"
+        ],
+        "exclude": []
+    },
+    "41459": {
+        "include": [
+            "big ball multifloor 2"
+        ],
+        "exclude": []
+    },
+    "41465": {
+        "include": [
+            "big ball parquet 2"
+        ],
+        "exclude": []
+    },
+    "41539": {
+        "include": [
+            "g1",
+            "wash"
+        ],
+        "exclude": []
+    },
+    "41532": {
+        "include": [
+            "sv50 fc",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41542": {
+        "include": [
+            "v8",
+            "sv25"
+        ],
+        "exclude": []
+    },
+    "41537": {
+        "include": [
+            "bp03"
+        ],
+        "exclude": []
+    },
+    "41556": {
+        "include": [
+            "bp04"
+        ],
+        "exclude": []
+    },
+    "41540": {
+        "include": [
+            "ph05"
+        ],
+        "exclude": []
+    },
+    "41418": {
+        "include": [
+            "nord buds 2r",
+            "deep"
+        ],
+        "exclude": []
+    },
+    "41421": {
+        "include": [
+            "nord buds 2r",
+            "misty"
+        ],
+        "exclude": []
+    },
+    "41420": {
+        "include": [
+            "nord buds 2r",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "41528": {
+        "include": [
+            "nord buds 3",
+            "blue"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "41455": {
+        "include": [
+            "nord buds 3",
+            "gray"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "41527": {
+        "include": [
+            "nord buds 3",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "41456": {
+        "include": [
+            "nord buds 3 pro",
+            "jade"
+        ],
+        "exclude": []
+    },
+    "41529": {
+        "include": [
+            "nord buds 3 pro",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41176": {
+        "include": [
+            "oneplus pad 2",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "41342": {
+        "include": [
+            "oneplus pad 2",
+            "8/128",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "41349": {
+        "include": [
+            "oneplus pad pro",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "41344": {
+        "include": [
+            "oneplus pad pro",
+            "12/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "41350": {
+        "include": [
+            "oneplus pad pro",
+            "16/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "41177": {
+        "include": [
+            "oneplus pad pro",
+            "16/512",
+            "green"
+        ],
+        "exclude": []
+    },
+    "41347": {
+        "include": [
+            "oneplus pad pro",
+            "8/128",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "41346": {
+        "include": [
+            "oneplus pad pro",
+            "8/128",
+            "green"
+        ],
+        "exclude": []
+    },
+    "41348": {
+        "include": [
+            "oneplus pad pro",
+            "8/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "41345": {
+        "include": [
+            "oneplus pad pro",
+            "8/256",
+            "green"
+        ],
+        "exclude": []
+    },
+    "41352": {
+        "include": [
+            "oneplus watch 2 ",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41353": {
+        "include": [
+            "oneplus watch 2 ",
+            "radiant"
+        ],
+        "exclude": []
+    },
+    "41354": {
+        "include": [
+            "oneplus watch 2r",
+            "green"
+        ],
+        "exclude": []
+    },
+    "41182": {
+        "include": [
+            "oneplus watch 2r",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "41663": {
+        "include": [
+            "oneplus 15 ",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41680": {
+        "include": [
+            "oneplus 15 ",
+            "12/256",
+            "storm"
+        ],
+        "exclude": []
+    },
+    "41679": {
+        "include": [
+            "oneplus 15 ",
+            "12/256",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "41672": {
+        "include": [
+            "oneplus 15 ",
+            "12/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41683": {
+        "include": [
+            "oneplus 15 ",
+            "12/512",
+            "storm"
+        ],
+        "exclude": []
+    },
+    "41677": {
+        "include": [
+            "oneplus 15 ",
+            "12/512",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "41674": {
+        "include": [
+            "oneplus 15 ",
+            "16/1tb",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41684": {
+        "include": [
+            "oneplus 15 ",
+            "16/1tb",
+            "storm"
+        ],
+        "exclude": []
+    },
+    "41675": {
+        "include": [
+            "oneplus 15 ",
+            "16/1tb",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "41671": {
+        "include": [
+            "oneplus 15 ",
+            "16/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41681": {
+        "include": [
+            "oneplus 15 ",
+            "16/256",
+            "storm"
+        ],
+        "exclude": []
+    },
+    "41678": {
+        "include": [
+            "oneplus 15 ",
+            "16/256",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "41673": {
+        "include": [
+            "oneplus 15 ",
+            "16/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "41682": {
+        "include": [
+            "oneplus 15 ",
+            "16/512",
+            "storm"
+        ],
+        "exclude": []
+    },
+    "41676": {
+        "include": [
+            "oneplus 15 ",
+            "16/512",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "41669": {
+        "include": [
+            "oneplus ace 6 ",
+            "12/256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41695": {
+        "include": [
+            "oneplus ace 6 ",
+            "12/256",
+            "silver"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41694": {
+        "include": [
+            "oneplus ace 6 ",
+            "12/256",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41688": {
+        "include": [
+            "oneplus ace 6 ",
+            "12/512",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41697": {
+        "include": [
+            "oneplus ace 6 ",
+            "12/512",
+            "silver"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41692": {
+        "include": [
+            "oneplus ace 6 ",
+            "12/512",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41689": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/1tb",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41699": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/1tb",
+            "silver"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41690": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/1tb",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41686": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41696": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/256",
+            "silver"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41693": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/256",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41687": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/512",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41698": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/512",
+            "silver"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "41691": {
+        "include": [
+            "oneplus ace 6 ",
+            "16/512",
+            "white"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42124": {
+        "include": [
+            "oneplus 15r",
+            "12/256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42168": {
+        "include": [
+            "oneplus 15r",
+            "12/256",
+            "purple"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42167": {
+        "include": [
+            "oneplus 15r",
+            "12/256",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42165": {
+        "include": [
+            "oneplus 15r",
+            "12/512",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42169": {
+        "include": [
+            "oneplus 15r",
+            "12/512",
+            "purple"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42166": {
+        "include": [
+            "oneplus 15r",
+            "12/512",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42116": {
+        "include": [
+            "ace 6t",
+            "12/256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42152": {
+        "include": [
+            "ace 6t",
+            "12/256",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42149": {
+        "include": [
+            "ace 6t",
+            "12/256",
+            "purple"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42142": {
+        "include": [
+            "ace 6t",
+            "12/512",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42153": {
+        "include": [
+            "ace 6t",
+            "12/512",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42148": {
+        "include": [
+            "ace 6t",
+            "12/512",
+            "purple"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42145": {
+        "include": [
+            "ace 6t",
+            "16/1tb",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42155": {
+        "include": [
+            "ace 6t",
+            "16/1tb",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42146": {
+        "include": [
+            "ace 6t",
+            "16/1tb",
+            "purple"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42144": {
+        "include": [
+            "ace 6t",
+            "16/256",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42151": {
+        "include": [
+            "ace 6t",
+            "16/256",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42150": {
+        "include": [
+            "ace 6t",
+            "16/256",
+            "purple"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42143": {
+        "include": [
+            "ace 6t",
+            "16/512",
+            "black"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42154": {
+        "include": [
+            "ace 6t",
+            "16/512",
+            "green"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42147": {
+        "include": [
+            "ace 6t",
+            "16/512",
+            "purple"
+        ],
+        "exclude": [
+            "pro",
+            "ultra"
+        ]
+    },
+    "42161": {
+        "include": [
+            "oneplus pad go 2",
+            "8/128",
+            "purple"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42238": {
+        "include": [
+            "oneplus pad go 2",
+            "8/128",
+            "purple",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "42119": {
+        "include": [
+            "oneplus pad go 2",
+            "8/128",
+            "black"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42163": {
+        "include": [
+            "oneplus pad go 2",
+            "8/128",
+            "black",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "42237": {
+        "include": [
+            "oneplus pad go 2",
+            "8/256",
+            "purple",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "42236": {
+        "include": [
+            "oneplus pad go 2",
+            "8/256",
+            "black",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "42160": {
+        "include": [
+            "oneplus pad go 2",
+            "8/256",
+            "purple"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42159": {
+        "include": [
+            "oneplus pad go 2",
+            "8/256",
+            "black"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42117": {
+        "include": [
+            "oneplus watch 3 lite",
+            "43",
+            "black"
+        ],
+        "exclude": []
+    },
+    "42157": {
+        "include": [
+            "oneplus watch 3 lite",
+            "43",
+            "steel"
+        ],
+        "exclude": []
+    },
+    "40353": {
+        "include": [
+            "hd17",
+            "r pro",
+            "pink rose gold"
+        ],
+        "exclude": []
+    },
+    "40352": {
+        "include": [
+            "hd17",
+            "r pro",
+            "jasper plum"
+        ],
+        "exclude": []
+    },
+    "40347": {
+        "include": [
+            "hd16",
+            "nural",
+            "platina",
+            "topaz"
+        ],
+        "exclude": []
+    },
+    "40351": {
+        "include": [
+            "hd16",
+            "nural",
+            "pink",
+            "rose"
+        ],
+        "exclude": []
+    },
+    "40348": {
+        "include": [
+            "hd16",
+            "nural",
+            "strawberry",
+            "bronze"
+        ],
+        "exclude": []
+    },
+    "40346": {
+        "include": [
+            "hd16",
+            "nural",
+            "blue",
+            "topaz"
+        ],
+        "exclude": []
+    },
+    "40345": {
+        "include": [
+            "hd18",
+            "professional",
+            "blue",
+            "topaz"
+        ],
+        "exclude": []
+    },
+    "42255": {
+        "include": [
+            "pixel watch 4 ",
+            "45",
+            "moonstone"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42256": {
+        "include": [
+            "pixel watch 4 ",
+            "41",
+            "silver"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42259": {
+        "include": [
+            "pixel watch 4 ",
+            "41",
+            "moonstone"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42260": {
+        "include": [
+            "pixel watch 4 ",
+            "41",
+            "gold"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42261": {
+        "include": [
+            "pixel watch 4 ",
+            "41",
+            "black"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42262": {
+        "include": [
+            "pixel watch 4 ",
+            "45",
+            "silver"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42263": {
+        "include": [
+            "pixel watch 4 ",
+            "45",
+            "black"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "42266": {
+        "include": [
+            "pixel watch 4 ",
+            "41",
+            "moonstone",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "42488": {
+        "include": [
+            "pixel 10a",
+            "128",
+            "berry"
+        ],
+        "exclude": []
+    },
+    "42491": {
+        "include": [
+            "pixel 10a",
+            "128",
+            "fog"
+        ],
+        "exclude": []
+    },
+    "42487": {
+        "include": [
+            "pixel 10a",
+            "128",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "42363": {
+        "include": [
+            "pixel 10a",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "42489": {
+        "include": [
+            "pixel 10a",
+            "256",
+            "berry"
+        ],
+        "exclude": []
+    },
+    "42490": {
+        "include": [
+            "pixel 10a",
+            "256",
+            "fog"
+        ],
+        "exclude": []
+    },
+    "42486": {
+        "include": [
+            "pixel 10a",
+            "256",
+            "purple"
+        ],
+        "exclude": []
+    },
+    "42485": {
+        "include": [
+            "pixel 10a",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "43199": {
+        "include": [
+            "nord 6",
+            "12/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "43247": {
+        "include": [
+            "nord 6",
+            "12/512",
+            "black"
+        ],
+        "exclude": []
+    },
+    "43248": {
+        "include": [
+            "nord 6",
+            "8/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "43250": {
+        "include": [
+            "nord 6",
+            "12/256",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "43251": {
+        "include": [
+            "nord 6",
+            "12/512",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "43249": {
+        "include": [
+            "nord 6",
+            "8/256",
+            "silver"
+        ],
+        "exclude": []
+    },
+    "43253": {
+        "include": [
+            "nord 6",
+            "12/256",
+            "mint"
+        ],
+        "exclude": []
+    },
+    "43252": {
+        "include": [
+            "nord 6",
+            "12/512",
+            "mint"
+        ],
+        "exclude": []
+    },
+    "43254": {
+        "include": [
+            "nord 6",
+            "8/256",
+            "mint"
+        ],
+        "exclude": []
+    },
+    "43198": {
+        "include": [
+            "oneplus 15t",
+            "12/256",
+            "brown"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43256": {
+        "include": [
+            "oneplus 15t",
+            "12/512",
+            "brown"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43257": {
+        "include": [
+            "oneplus 15t",
+            "16/512",
+            "brown"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43258": {
+        "include": [
+            "oneplus 15t",
+            "16/1tb",
+            "brown"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43259": {
+        "include": [
+            "oneplus 15t",
+            "16/256",
+            "brown"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43264": {
+        "include": [
+            "oneplus 15t",
+            "12/256",
+            "green"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43263": {
+        "include": [
+            "oneplus 15t",
+            "12/512",
+            "green"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43261": {
+        "include": [
+            "oneplus 15t",
+            "16/512",
+            "green"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43262": {
+        "include": [
+            "oneplus 15t",
+            "16/1tb",
+            "green"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43260": {
+        "include": [
+            "oneplus 15t",
+            "16/256",
+            "green"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43265": {
+        "include": [
+            "oneplus 15t",
+            "12/256",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43266": {
+        "include": [
+            "oneplus 15t",
+            "12/512",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43268": {
+        "include": [
+            "oneplus 15t",
+            "16/512",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43269": {
+        "include": [
+            "oneplus 15t",
+            "16/1tb",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43267": {
+        "include": [
+            "oneplus 15t",
+            "16/256",
+            "white"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43202": {
+        "include": [
+            "oneplus pad 4",
+            "8/256",
+            "glow"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43292": {
+        "include": [
+            "oneplus pad 4",
+            "8/256",
+            "mint"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43293": {
+        "include": [
+            "oneplus pad 4",
+            "12/512",
+            "glow"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43294": {
+        "include": [
+            "oneplus pad 4",
+            "12/512",
+            "mint"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "43401": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "12/256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43321": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "12/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "43400": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "12/512",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43393": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "12/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "43399": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "16/1tb",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43395": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "16/1tb",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "43397": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "16/256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43396": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "16/256",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "43398": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "16/512",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43394": {
+        "include": [
+            "oneplus ace 6 ultra",
+            "16/512",
+            "gray"
+        ],
+        "exclude": []
+    },
+    "43409": {
+        "include": [
+            "oppo find x9 ultra",
+            "12/256",
+            "orange"
+        ],
+        "exclude": []
+    },
+    "43410": {
+        "include": [
+            "oppo find x9 ultra",
+            "12/256",
+            "glacier"
+        ],
+        "exclude": []
+    },
+    "43322": {
+        "include": [
+            "oppo find x9 ultra",
+            "12/256",
+            "umber"
+        ],
+        "exclude": []
+    },
+    "43408": {
+        "include": [
+            "oppo find x9 ultra",
+            "12/512",
+            "orange"
+        ],
+        "exclude": []
+    },
+    "43411": {
+        "include": [
+            "oppo find x9 ultra",
+            "12/512",
+            "glacier"
+        ],
+        "exclude": []
+    },
+    "43403": {
+        "include": [
+            "oppo find x9 ultra",
+            "12/512",
+            "umber"
+        ],
+        "exclude": []
+    },
+    "43406": {
+        "include": [
+            "oppo find x9 ultra",
+            "16/1tb",
+            "orange"
+        ],
+        "exclude": []
+    },
+    "43413": {
+        "include": [
+            "oppo find x9 ultra",
+            "16/1tb",
+            "glacier"
+        ],
+        "exclude": []
+    },
+    "43405": {
+        "include": [
+            "oppo find x9 ultra",
+            "16/1tb",
+            "umber"
+        ],
+        "exclude": []
+    },
+    "43407": {
+        "include": [
+            "oppo find x9 ultra",
+            "16/512",
+            "orange"
+        ],
+        "exclude": []
+    },
+    "43412": {
+        "include": [
+            "oppo find x9 ultra",
+            "16/512",
+            "glacier"
+        ],
+        "exclude": []
+    },
+    "43404": {
+        "include": [
+            "oppo find x9 ultra",
+            "16/512",
+            "umber"
+        ],
+        "exclude": []
+    },
+    "43324": {
+        "include": [
+            "oppo reno15 pro",
+            "12/256",
+            "brown"
+        ],
+        "exclude": []
+    },
+    "43421": {
+        "include": [
+            "oppo reno15 pro",
+            "12/256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43419": {
+        "include": [
+            "oppo reno15 pro",
+            "12/512",
+            "brown"
+        ],
+        "exclude": []
+    },
+    "43420": {
+        "include": [
+            "oppo reno15 pro",
+            "12/512",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43417": {
+        "include": [
+            "oppo reno15 pro max",
+            "12/256",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43323": {
+        "include": [
+            "oppo reno15 pro max",
+            "12/256",
+            "brown"
+        ],
+        "exclude": []
+    },
+    "43416": {
+        "include": [
+            "oppo reno15 pro max",
+            "12/512",
+            "gold"
+        ],
+        "exclude": []
+    },
+    "43415": {
+        "include": [
+            "oppo reno15 pro max",
+            "12/512",
+            "brown"
+        ],
+        "exclude": []
+    },
+    "44127": {
+        "include": [
+            "jbl",
+            "boombox",
+            "4",
+            "white"
+        ],
+        "exclude": []
+    },
+    "44119": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "black",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "44172": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "silver",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "44173": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "black"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "44174": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "silver"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "44175": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "gold",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "44176": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "gold"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "44177": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "pyrite",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "44178": {
+        "include": [
+            "pixel watch 5",
+            "41",
+            "pyrite"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "44179": {
+        "include": [
+            "pixel watch 5",
+            "44",
+            "pyrite",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "44180": {
+        "include": [
+            "pixel watch 5",
+            "44",
+            "pyrite"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "44181": {
+        "include": [
+            "pixel watch 5",
+            "44",
+            "silver",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "44182": {
+        "include": [
+            "pixel watch 5",
+            "44",
+            "silver"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "44183": {
+        "include": [
+            "pixel watch 5",
+            "44",
+            "black",
+            "5g"
+        ],
+        "exclude": []
+    },
+    "44184": {
+        "include": [
+            "pixel watch 5",
+            "44",
+            "black"
+        ],
+        "exclude": [
+            "5g"
+        ]
+    },
+    "44123": {
+        "include": [
+            "pixel 11",
+            "256",
+            "obsidian"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44133": {
+        "include": [
+            "pixel 11",
+            "512",
+            "obsidian"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44134": {
+        "include": [
+            "pixel 11",
+            "512",
+            "hibiscus"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44135": {
+        "include": [
+            "pixel 11",
+            "256",
+            "hibiscus"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44136": {
+        "include": [
+            "pixel 11",
+            "256",
+            "pistachio"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44137": {
+        "include": [
+            "pixel 11",
+            "512",
+            "pistachio"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44138": {
+        "include": [
+            "pixel 11",
+            "512",
+            "frost"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44139": {
+        "include": [
+            "pixel 11",
+            "256",
+            "frost"
+        ],
+        "exclude": [
+            "pro"
+        ]
+    },
+    "44122": {
+        "include": [
+            "pixel 11 pro",
+            "1TB",
+            "obsidian"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44141": {
+        "include": [
+            "pixel 11 pro",
+            "512",
+            "obsidian"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44142": {
+        "include": [
+            "pixel 11 pro",
+            "256",
+            "obsidian"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44143": {
+        "include": [
+            "pixel 11 pro",
+            "256",
+            "canyon"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44144": {
+        "include": [
+            "pixel 11 pro",
+            "512",
+            "canyon"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44145": {
+        "include": [
+            "pixel 11 pro",
+            "1TB",
+            "canyon"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44146": {
+        "include": [
+            "pixel 11 pro",
+            "1TB",
+            "fog"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44147": {
+        "include": [
+            "pixel 11 pro",
+            "512",
+            "fog"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44148": {
+        "include": [
+            "pixel 11 pro",
+            "256",
+            "fog"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44150": {
+        "include": [
+            "pixel 11 pro",
+            "256",
+            "olive"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44151": {
+        "include": [
+            "pixel 11 pro",
+            "512",
+            "olive"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44152": {
+        "include": [
+            "pixel 11 pro",
+            "1TB",
+            "olive"
+        ],
+        "exclude": [
+            "pro",
+            "fold"
+        ]
+    },
+    "44124": {
+        "include": [
+            "pixel 11 pro xl",
+            "256",
+            "obsidian"
+        ],
+        "exclude": []
+    },
+    "44154": {
+        "include": [
+            "pixel 11 pro xl",
+            "512",
+            "obsidian"
+        ],
+        "exclude": []
+    },
+    "44155": {
+        "include": [
+            "pixel 11 pro xl",
+            "1TB",
+            "obsidian"
+        ],
+        "exclude": []
+    },
+    "44156": {
+        "include": [
+            "pixel 11 pro xl",
+            "1TB",
+            "canyon"
+        ],
+        "exclude": []
+    },
+    "44157": {
+        "include": [
+            "pixel 11 pro xl",
+            "512",
+            "canyon"
+        ],
+        "exclude": []
+    },
+    "44158": {
+        "include": [
+            "pixel 11 pro xl",
+            "256",
+            "canyon"
+        ],
+        "exclude": []
+    },
+    "44159": {
+        "include": [
+            "pixel 11 pro xl",
+            "256",
+            "olive"
+        ],
+        "exclude": []
+    },
+    "44160": {
+        "include": [
+            "pixel 11 pro xl",
+            "512",
+            "olive"
+        ],
+        "exclude": []
+    },
+    "44161": {
+        "include": [
+            "pixel 11 pro xl",
+            "1TB",
+            "olive"
+        ],
+        "exclude": []
+    },
+    "44162": {
+        "include": [
+            "pixel 11 pro xl",
+            "1TB",
+            "fog"
+        ],
+        "exclude": []
+    },
+    "44163": {
+        "include": [
+            "pixel 11 pro xl",
+            "512",
+            "fog"
+        ],
+        "exclude": []
+    },
+    "44164": {
+        "include": [
+            "pixel 11 pro xl",
+            "256",
+            "fog"
+        ],
+        "exclude": []
+    },
+    "44125": {
+        "include": [
+            "pixel 11 pro fold",
+            "1TB",
+            "olive"
+        ],
+        "exclude": []
+    },
+    "44165": {
+        "include": [
+            "pixel 11 pro fold",
+            "512",
+            "olive"
+        ],
+        "exclude": []
+    },
+    "44166": {
+        "include": [
+            "pixel 11 pro fold",
+            "256",
+            "olive"
+        ],
+        "exclude": []
+    },
+    "44167": {
+        "include": [
+            "pixel 11 pro fold",
+            "256",
+            "obsidian"
+        ],
+        "exclude": []
+    },
+    "44168": {
+        "include": [
+            "pixel 11 pro fold",
+            "512",
+            "obsidian"
+        ],
+        "exclude": []
+    },
+    "44169": {
+        "include": [
+            "pixel 11 pro fold",
+            "1TB",
+            "obsidian"
+        ],
+        "exclude": []
+    }
+
+    ,
+    "977311": {
+        "include": [
+            "nord ce6",
+            "128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "909912": {
+        "include": [
+            "nord ce6",
+            "128",
+            "pear"
+        ],
+        "exclude": []
+    },
+    "629580": {
+        "include": [
+            "nord ce6",
+            "128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "509893": {
+        "include": [
+            "nord ce6",
+            "256",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "421160": {
+        "include": [
+            "nord ce6",
+            "256",
+            "pear"
+        ],
+        "exclude": []
+    },
+    "775179": {
+        "include": [
+            "nord ce6",
+            "256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "885108": {
+        "include": [
+            "fitbit air berry"
+        ],
+        "exclude": []
+    },
+    "835677": {
+        "include": [
+            "fitbit air obsidian"
+        ],
+        "exclude": []
+    },
+    "43672": {
+        "include": [
+            "nord buds 3r",
+            "ash black"
+        ],
+        "exclude": []
+    },
+    "43826": {
+        "include": [
+            "nord buds 3r",
+            "aura blue"
+        ],
+        "exclude": []
+    },
+    "43679": {
+        "include": [
+            "oneplus buds pro 2",
+            "obsidian black"
+        ],
+        "exclude": []
+    },
+    "43823": {
+        "include": [
+            "oneplus buds pro 2",
+            "arbor green"
+        ],
+        "exclude": []
+    },
+    "43824": {
+        "include": [
+            "oneplus buds pro 2",
+            "misty white"
+        ],
+        "exclude": []
+    },
+    "43673": {
+        "include": [
+            "oneplus buds 4",
+            "storm gray"
+        ],
+        "exclude": []
+    },
+    "43820": {
+        "include": [
+            "oneplus buds 4",
+            "zen green"
+        ],
+        "exclude": []
+    },
+    "43678": {
+        "include": [
+            "oneplus buds pro 3",
+            "sapphire blue"
+        ],
+        "exclude": []
+    },
+    "43817": {
+        "include": [
+            "oneplus buds pro 3",
+            "lunar radiance"
+        ],
+        "exclude": []
+    },
+    "43818": {
+        "include": [
+            "oneplus buds pro 3",
+            "midnight opus"
+        ],
+        "exclude": []
+    },
+    "43682": {
+        "include": [
+            "nord ce6",
+            "8/256",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "43805": {
+        "include": [
+            "nord ce6",
+            "8/128",
+            "black"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "43806": {
+        "include": [
+            "nord ce6",
+            "8/128",
+            "pearl"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "43807": {
+        "include": [
+            "nord ce6",
+            "8/256",
+            "pearl"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "43808": {
+        "include": [
+            "nord ce6",
+            "8/256",
+            "blue"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "43809": {
+        "include": [
+            "nord ce6",
+            "8/128",
+            "blue"
+        ],
+        "exclude": [
+            "lite"
+        ]
+    },
+    "43681": {
+        "include": [
+            "nord ce6 lite",
+            "8/256",
+            "black"
+        ],
+        "exclude": []
+    },
+    "43811": {
+        "include": [
+            "nord ce6 lite",
+            "8/128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "43812": {
+        "include": [
+            "nord ce6 lite",
+            "6/128",
+            "black"
+        ],
+        "exclude": []
+    },
+    "43813": {
+        "include": [
+            "nord ce6 lite",
+            "6/128",
+            "mint"
+        ],
+        "exclude": []
+    },
+    "43814": {
+        "include": [
+            "nord ce6 lite",
+            "8/128",
+            "mint"
+        ],
+        "exclude": []
+    },
+    "43815": {
+        "include": [
+            "nord ce6 lite",
+            "8/256",
+            "mint"
+        ],
+        "exclude": []
+    }
+}

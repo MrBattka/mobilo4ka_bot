@@ -1,0 +1,11410 @@
+  {
+    "12529": {
+      "include": [
+        "airpods 2"
+      ],
+      "exclude": []
+    },
+    "28524": {
+      "include": [
+        "airpods pro",
+        "2",
+        "usb"
+      ],
+      "exclude": []
+    },
+    "23458": {
+      "include": [
+        "airpods pro 2"
+      ],
+      "exclude": [
+        "type",
+        "usb"
+      ]
+    },
+    "27128": {
+      "include": [
+        "airpods 3",
+        "magsafe"
+      ],
+      "exclude": []
+    },
+    "20959": {
+      "include": [
+        "airpods 3"
+      ],
+      "exclude": [
+        "magsafe"
+      ]
+    },
+    "36587": {
+      "include": [
+        "airpods 4",
+        "anc"
+      ],
+      "exclude": []
+    },
+    "36586": {
+      "include": [
+        "airpods 4"
+      ],
+      "exclude": [
+        "anc"
+      ]
+    },
+    "36593": {
+      "include": [
+        "airpods max",
+        "2",
+        "blue"
+      ],
+      "exclude": [
+        "sky",
+        "2026"
+      ]
+    },
+    "36588": {
+      "include": [
+        "airpods max",
+        "2",
+        "green"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36595": {
+      "include": [
+        "airpods max",
+        "2",
+        "midnight"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36596": {
+      "include": [
+        "airpods max",
+        "2",
+        "starlight"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36597": {
+      "include": [
+        "airpods max",
+        "2",
+        "orange"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36589": {
+      "include": [
+        "airpods max",
+        "2",
+        "pink"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36594": {
+      "include": [
+        "airpods max",
+        "2",
+        "purple"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36590": {
+      "include": [
+        "airpods max",
+        "2",
+        "silver"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36591": {
+      "include": [
+        "airpods max",
+        "2",
+        "sky blue"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "36592": {
+      "include": [
+        "airpods max",
+        "2",
+        "gray"
+      ],
+      "exclude": [
+        "2026"
+      ]
+    },
+    "18979": {
+      "include": [
+        "airpods max green"
+      ],
+      "exclude": [
+        "2024",
+        "2",
+        "usb"
+      ]
+    },
+    "18981": {
+      "include": [
+        "airpods max pink"
+      ],
+      "exclude": [
+        "2024",
+        "2",
+        "usb"
+      ]
+    },
+    "18978": {
+      "include": [
+        "airpods max ",
+        "silver"
+      ],
+      "exclude": [
+        "2024",
+        "2",
+        "usb"
+      ]
+    },
+    "18980": {
+      "include": [
+        "airpods max",
+        "blue"
+      ],
+      "exclude": [
+        "2024",
+        "2",
+        "usb"
+      ]
+    },
+    "18977": {
+      "include": [
+        "airpods max",
+        "gray"
+      ],
+      "exclude": [
+        "2024",
+        "2",
+        "usb"
+      ]
+    },
+    "20151": {
+      "include": [
+        "apple tv",
+        "32"
+      ],
+      "exclude": []
+    },
+    "27026": {
+      "include": [
+        "apple tv",
+        "64"
+      ],
+      "exclude": []
+    },
+    "40468": {
+      "include": [
+        "mac studio",
+        "m3 ultra",
+        "96/1tb",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "18952": {
+      "include": [
+        "home",
+        "pod",
+        "mini",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "18954": {
+      "include": [
+        "home",
+        "pod",
+        "mini",
+        "white"
+      ],
+      "exclude": []
+    },
+    "18955": {
+      "include": [
+        "home",
+        "pod",
+        "gray"
+      ],
+      "exclude": [
+        "mini"
+      ]
+    },
+    "18957": {
+      "include": [
+        "home",
+        "pod",
+        "gray"
+      ],
+      "exclude": [
+        "mini"
+      ]
+    },
+    "34313": {
+      "include": [
+        "se2",
+        "40",
+        "midnight"
+      ],
+      "exclude": []
+    },
+    "34314": {
+      "include": [
+        "se2",
+        "40",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "34315": {
+      "include": [
+        "se2",
+        "40"
+      ],
+      "exclude": []
+    },
+    "34316": {
+      "include": [
+        "se2",
+        "44",
+        "midnight"
+      ],
+      "exclude": []
+    },
+    "34317": {
+      "include": [
+        "se2",
+        "44",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "34318": {
+      "include": [
+        "se2",
+        "44"
+      ],
+      "exclude": []
+    },
+    "38249": {
+      "include": [
+        "s10",
+        "42",
+        "gold ti",
+        "natural",
+        "bracelete"
+      ],
+      "exclude": []
+    },
+    "36603": {
+      "include": [
+        "s10",
+        "42",
+        "black"
+      ],
+      "exclude": [
+        "milanese",
+        "steel"
+      ]
+    },
+    "36601": {
+      "include": [
+        "s10",
+        "42",
+        "rose"
+      ],
+      "exclude": [
+        "milanese",
+        "steel"
+      ]
+    },
+    "36598": {
+      "include": [
+        "s10",
+        "42",
+        "silver"
+      ],
+      "exclude": [
+        "milanese",
+        "steel"
+      ]
+    },
+    "36604": {
+      "include": [
+        "s10",
+        "46",
+        "black"
+      ],
+      "exclude": [
+        "milanese",
+        "steel"
+      ]
+    },
+    "36602": {
+      "include": [
+        "s10",
+        "46",
+        "rose"
+      ],
+      "exclude": [
+        "milanese",
+        "steel"
+      ]
+    },
+    "36600": {
+      "include": [
+        "s10",
+        "46",
+        "steel",
+        "silver"
+      ],
+      "exclude": [
+        "milanese"
+      ]
+    },
+    "23536": {
+      "include": [
+        "ul black gray"
+      ],
+      "exclude": []
+    },
+    "23535": {
+      "include": [
+        "ul blue gray"
+      ],
+      "exclude": []
+    },
+    "23530": {
+      "include": [
+        "ul green"
+      ],
+      "exclude": []
+    },
+    "23533": {
+      "include": [
+        "ul midnight"
+      ],
+      "exclude": []
+    },
+    "23537": {
+      "include": [
+        "ul orange"
+      ],
+      "exclude": []
+    },
+    "23531": {
+      "include": [
+        "ul starlight"
+      ],
+      "exclude": []
+    },
+    "23532": {
+      "include": [
+        "ul white"
+      ],
+      "exclude": []
+    },
+    "23463": {
+      "include": [
+        "ul yellow"
+      ],
+      "exclude": []
+    },
+    "28306": {
+      "include": [
+        "ultra 2",
+        "blue",
+        "ob"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28305": {
+      "include": [
+        "ultra 2",
+        "white",
+        "ob"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28304": {
+      "include": [
+        "ultra 2",
+        "orange",
+        "ob"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28303": {
+      "include": [
+        "ultra 2",
+        "orange",
+        "trail loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28302": {
+      "include": [
+        "ultra 2",
+        "black",
+        "trail loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28301": {
+      "include": [
+        "ultra 2",
+        "green",
+        "trail loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28300": {
+      "include": [
+        "ultra 2",
+        "olive",
+        "alpine loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28299": {
+      "include": [
+        "ultra 2",
+        "indigo",
+        "alpine loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "28298": {
+      "include": [
+        "ultra 2",
+        "blue",
+        "alpine loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "36966": {
+      "include": [
+        "ultra 2",
+        "natural",
+        "tan",
+        "alpine loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "36965": {
+      "include": [
+        "ultra 2",
+        "black",
+        "black",
+        "ob"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "36963": {
+      "include": [
+        "ultra 2",
+        "black",
+        "black",
+        "trail loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "36964": {
+      "include": [
+        "ultra 2",
+        "blue",
+        "black",
+        "trail loop"
+      ],
+      "exclude": [
+        "2024"
+      ]
+    },
+    "37701": {
+      "include": [
+        "ultra 2",
+        "navy",
+        "natural ti",
+        "alpine loop",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37703": {
+      "include": [
+        "ultra 2",
+        "green",
+        "natural ti",
+        "alpine loop",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37707": {
+      "include": [
+        "ultra 2",
+        "green",
+        "black ti",
+        "alpine loop",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37708": {
+      "include": [
+        "ultra 2",
+        "navy",
+        "black ti",
+        "alpine loop",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37709": {
+      "include": [
+        "ultra 2",
+        "tan",
+        "black ti",
+        "alpine loop",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37711": {
+      "include": [
+        "ultra 2",
+        "blue",
+        "natural ti",
+        "trail loop",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37713": {
+      "include": [
+        "ultra 2",
+        "navy",
+        "natural ti",
+        "ob",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37716": {
+      "include": [
+        "ultra 2",
+        "black",
+        "black",
+        "milanese",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "37717": {
+      "include": [
+        "ultra 2",
+        "natural",
+        "natural ti",
+        "milanese",
+        "2024"
+      ],
+      "exclude": []
+    },
+    "36571": {
+      "include": [
+        "pencil",
+        "usb"
+      ],
+      "exclude": []
+    },
+    "2072": {
+      "include": [
+        "pencil",
+        "lightning"
+      ],
+      "exclude": []
+    },
+    "11873": {
+      "include": [
+        "pencil",
+        " 2"
+      ],
+      "exclude": []
+    },
+    "36178": {
+      "include": [
+        "pencil",
+        "pro"
+      ],
+      "exclude": []
+    },
+    "13769": {
+      "include": [
+        "magic mouse 2",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "2071": {
+      "include": [
+        "magic mouse 2",
+        "white"
+      ],
+      "exclude": []
+    },
+    "38001": {
+      "include": [
+        "magic mouse 3",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38011": {
+      "include": [
+        "magic mouse 3",
+        "white"
+      ],
+      "exclude": []
+    },
+    "36954": {
+      "include": [
+        "magic keyboard",
+        "pro 11",
+        "m4",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36953": {
+      "include": [
+        "magic keyboard",
+        "pro 11",
+        "m4",
+        "white"
+      ],
+      "exclude": []
+    },
+    "36957": {
+      "include": [
+        "magic keyboard",
+        "pro 13",
+        "m4",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36956": {
+      "include": [
+        "magic keyboard",
+        "pro 13",
+        "m4",
+        "white"
+      ],
+      "exclude": []
+    },
+    "36958": {
+      "include": [
+        "magic keyboard",
+        "pro 12.9",
+        "white"
+      ],
+      "exclude": []
+    },
+    "36960": {
+      "include": [
+        "magic keyboard",
+        "pro 12.9",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36961": {
+      "include": [
+        "magic keyboard",
+        "pro 10.9",
+        "white"
+      ],
+      "exclude": []
+    },
+    "36962": {
+      "include": [
+        "magic keyboard",
+        "pro 10.9",
+        "black"
+      ],
+      "exclude": []
+    },
+    "16160": {
+      "include": [
+        "magic keyboard",
+        "pro 11",
+        "2020",
+        "black"
+      ],
+      "exclude": []
+    },
+    "16161": {
+      "include": [
+        "magic keyboard",
+        "pro 12.9",
+        "2020",
+        "black"
+      ],
+      "exclude": []
+    },
+    "18663": {
+      "include": [
+        "magic keyboard",
+        "numeric",
+        "ru",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "18664": {
+      "include": [
+        "magic keyboard",
+        "numeric",
+        "ru",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "13909": {
+      "include": [
+        "smart keyboard",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38756": {
+      "include": [
+        "magic keyboard with touch",
+        "numeric",
+        "mac",
+        "silicon",
+        "usb-c",
+        "white"
+      ],
+      "exclude": []
+    },
+    "38757": {
+      "include": [
+        "magic keyboard with touch",
+        "numeric",
+        "mac",
+        "silicon",
+        "usb-c",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38758": {
+      "include": [
+        "magic keyboard",
+        "usb-c",
+        "white"
+      ],
+      "exclude": [
+        "numeric",
+        "mac"
+      ]
+    },
+    "38759": {
+      "include": [
+        "magic keyboard with touch",
+        "usb-c",
+        "mac",
+        "silicon",
+        "white"
+      ],
+      "exclude": [
+        "numeric",
+        "mac"
+      ]
+    },
+    "37307": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37310": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37311": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37320": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37317": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37313": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37314": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37318": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37321": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37312": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37319": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "37322": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "20659": {
+      "include": [
+        "ipad 9",
+        "64",
+        "wi-fi",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "20658": {
+      "include": [
+        "ipad 9",
+        "64",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "20660": {
+      "include": [
+        "ipad 9",
+        "256",
+        "wi-fi",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "20661": {
+      "include": [
+        "ipad 9",
+        "256",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "20664": {
+      "include": [
+        "ipad 9",
+        "64",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "20662": {
+      "include": [
+        "ipad 9",
+        "64",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "20665": {
+      "include": [
+        "ipad 9",
+        "256",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "20666": {
+      "include": [
+        "ipad 9",
+        "256",
+        "5g",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "24837": {
+      "include": [
+        "ipad 10",
+        "256",
+        "wi-fi",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "24839": {
+      "include": [
+        "ipad 10",
+        "256",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "24843": {
+      "include": [
+        "ipad 10",
+        "256",
+        "wi-fi",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "24847": {
+      "include": [
+        "ipad 10",
+        "256",
+        "wi-fi",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "24838": {
+      "include": [
+        "ipad 10",
+        "256",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "24840": {
+      "include": [
+        "ipad 10",
+        "256",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "24844": {
+      "include": [
+        "ipad 10",
+        "256",
+        "5g",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "24848": {
+      "include": [
+        "ipad 10",
+        "256",
+        "5g",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "24836": {
+      "include": [
+        "ipad 10",
+        "64",
+        "wi-fi",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "24841": {
+      "include": [
+        "ipad 10",
+        "64",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "24845": {
+      "include": [
+        "ipad 10",
+        "64",
+        "wi-fi",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "24849": {
+      "include": [
+        "ipad 10",
+        "64",
+        "wi-fi",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "24842": {
+      "include": [
+        "ipad 10",
+        "64",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "24846": {
+      "include": [
+        "ipad 10",
+        "64",
+        "5g",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "24835": {
+      "include": [
+        "ipad 10",
+        "64",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "24850": {
+      "include": [
+        "ipad 10",
+        "64",
+        "5g",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "38598": {
+      "include": [
+        "ipad 11",
+        "128",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38625": {
+      "include": [
+        "ipad 11",
+        "128",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38599": {
+      "include": [
+        "ipad 11",
+        "128",
+        "wi-fi",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "38600": {
+      "include": [
+        "ipad 11",
+        "128",
+        "wi-fi",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38618": {
+      "include": [
+        "ipad 11",
+        "128",
+        "wi-fi",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "38623": {
+      "include": [
+        "ipad 11",
+        "128",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38624": {
+      "include": [
+        "ipad 11",
+        "128",
+        "5g",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "38626": {
+      "include": [
+        "ipad 11",
+        "128",
+        "5g",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "38606": {
+      "include": [
+        "ipad 11",
+        "256",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38607": {
+      "include": [
+        "ipad 11",
+        "256",
+        "wi-fi",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "38608": {
+      "include": [
+        "ipad 11",
+        "256",
+        "wi-fi",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38609": {
+      "include": [
+        "ipad 11",
+        "256",
+        "wi-fi",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "38631": {
+      "include": [
+        "ipad 11",
+        "256",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38632": {
+      "include": [
+        "ipad 11",
+        "256",
+        "5g",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "38633": {
+      "include": [
+        "ipad 11",
+        "256",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38634": {
+      "include": [
+        "ipad 11",
+        "256",
+        "5g",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "38614": {
+      "include": [
+        "ipad 11",
+        "512",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38615": {
+      "include": [
+        "ipad 11",
+        "512",
+        "wi-fi",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "38616": {
+      "include": [
+        "ipad 11",
+        "512",
+        "wi-fi",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38617": {
+      "include": [
+        "ipad 11",
+        "512",
+        "wi-fi",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "38639": {
+      "include": [
+        "ipad 11",
+        "512",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38640": {
+      "include": [
+        "ipad 11",
+        "512",
+        "5g",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "38641": {
+      "include": [
+        "ipad 11",
+        "512",
+        "5g",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38642": {
+      "include": [
+        "ipad 11",
+        "512",
+        "5g",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "24854": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "1tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24861": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "1tb",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24862": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "1tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24856": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "1tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24855": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "2tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24863": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "2tb",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24857": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "2tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24864": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "2tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24851": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "128",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24865": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "128",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24858": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "128",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24866": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24852": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "256",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24867": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "256",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24859": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "256",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24868": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24853": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "512",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24869": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "512",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "24860": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "512",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "24870": {
+      "include": [
+        "pro 11",
+        " m2 ",
+        "512",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20098": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "128",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20099": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "128",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20088": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "128",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20089": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20104": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "1tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20105": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "1tb",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20094": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "1tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20095": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "1tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20100": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "256",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20101": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "256",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20090": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "256",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20091": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20106": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "2tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20107": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "2tb",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20096": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "2tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20097": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "2tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20102": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "512",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20103": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "512",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "20092": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "512",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "20093": {
+      "include": [
+        "pro 12.9",
+        " m1 ",
+        "512",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36484": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "silver",
+        "wi-fi",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36483": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "black",
+        "wi-fi",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36485": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "silver",
+        "5g",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36486": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "black",
+        "5g",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36487": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "silver",
+        "wi-fi",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36488": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "black",
+        "wi-fi",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36489": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "silver",
+        "5g",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36490": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "black",
+        "5g",
+        "nano"
+      ],
+      "exclude": []
+    },
+    "36260": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36261": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36262": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36263": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "1tb",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36268": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36269": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36270": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36271": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "2tb",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36176": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "256",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36250": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "256",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36177": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "256",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36251": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36256": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "512",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36257": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "512",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36258": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "512",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "36259": {
+      "include": [
+        "pro 13",
+        " m4 ",
+        "512",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "nano"
+      ]
+    },
+    "22175": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "blue",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22173": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "pink",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22174": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "purple",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22171": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22172": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "starlight",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22176": {
+      "include": [
+        "air 5",
+        "256",
+        "blue",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22177": {
+      "include": [
+        "air 5",
+        "256",
+        "pink",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22178": {
+      "include": [
+        "air 5",
+        "256",
+        "purple",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22179": {
+      "include": [
+        "air 5",
+        "256",
+        "gray",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22180": {
+      "include": [
+        "air 5",
+        "256",
+        "starlight",
+        "wi-fi"
+      ],
+      "exclude": []
+    },
+    "22186": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22187": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "pink",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22188": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22189": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22190": {
+      "include": [
+        "air 5",
+        " 64 ",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22181": {
+      "include": [
+        "air 5",
+        "256",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22182": {
+      "include": [
+        "air 5",
+        "256",
+        "pink",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22183": {
+      "include": [
+        "air 5",
+        "256",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22184": {
+      "include": [
+        "air 5",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "22185": {
+      "include": [
+        "air 5",
+        "256",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36208": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36207": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36172": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36206": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36401": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36402": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36403": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36404": {
+      "include": [
+        "air 11",
+        "m2",
+        "128",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36217": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36218": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36219": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36220": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36405": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36406": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36407": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36408": {
+      "include": [
+        "air 11",
+        "m2",
+        "1tb",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36209": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36210": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36211": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36212": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36409": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36410": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36411": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36412": {
+      "include": [
+        "air 11",
+        "m2",
+        "256",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36213": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36214": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36215": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36216": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36413": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36414": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36415": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "36416": {
+      "include": [
+        "air 11",
+        "m2",
+        "512",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38470": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38471": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38472": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38473": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38502": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38503": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38504": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38505": {
+      "include": [
+        "air 11",
+        "m3",
+        "128",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38494": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38495": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38496": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38497": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38526": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38527": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38528": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38529": {
+      "include": [
+        "air 11",
+        "m3",
+        "1tb",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38478": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38479": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38480": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38481": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38510": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38511": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38512": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38513": {
+      "include": [
+        "air 11",
+        "m3",
+        "256",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38486": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38487": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38488": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38489": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38518": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38519": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38520": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38521": {
+      "include": [
+        "air 11",
+        "m3",
+        "512",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "38535": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38536": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38537": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38538": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38567": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38568": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38569": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38570": {
+      "include": [
+        "air 13",
+        "m3",
+        "128",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38559": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38560": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38561": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38562": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38591": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38592": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38593": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38594": {
+      "include": [
+        "air 13",
+        "m3",
+        "1tb",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38543": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38544": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38545": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38546": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38575": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38576": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38577": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38578": {
+      "include": [
+        "air 13",
+        "m3",
+        "256",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38551": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38552": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38553": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38554": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38583": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38584": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38585": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38586": {
+      "include": [
+        "air 13",
+        "m3",
+        "512",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36455": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36456": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36454": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36457": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36232": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36233": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36234": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36235": {
+      "include": [
+        "air 13",
+        "m2",
+        "1tb",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36459": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36460": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36458": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36461": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "38657": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38655": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38656": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38658": {
+      "include": [
+        "air 13",
+        "m2",
+        "128",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36463": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36464": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36462": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36465": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36224": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38659": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38660": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "38661": {
+      "include": [
+        "air 13",
+        "m2",
+        "256",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36467": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36468": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36466": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36469": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "36228": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "gray",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36229": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36230": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36231": {
+      "include": [
+        "air 13",
+        "m2",
+        "512",
+        "starlight",
+        "5g"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "36417": {
+      "include": [
+        "pro 11",
+        "m4",
+        "1tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "36418": {
+      "include": [
+        "pro 11",
+        "m4",
+        "1tb",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "36242": {
+      "include": [
+        "pro 11",
+        "m4",
+        "1tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "36240": {
+      "include": [
+        "pro 11",
+        "m4",
+        "1tb",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "36419": {
+      "include": [
+        "pro 11",
+        "m4",
+        "2tb",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "36420": {
+      "include": [
+        "pro 11",
+        "m4",
+        "2tb",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "36247": {
+      "include": [
+        "pro 11",
+        "m4",
+        "2tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "36246": {
+      "include": [
+        "pro 11",
+        "m4",
+        "2tb",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "36174": {
+      "include": [
+        "pro 11",
+        "m4",
+        "256",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "38667": {
+      "include": [
+        "pro 11",
+        "m4",
+        "256",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "36421": {
+      "include": [
+        "pro 11",
+        "m4",
+        "256",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "36422": {
+      "include": [
+        "pro 11",
+        "m4",
+        "256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "36238": {
+      "include": [
+        "pro 11",
+        "m4",
+        "512",
+        "silver",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "36244": {
+      "include": [
+        "pro 11",
+        "m4",
+        "512",
+        "black",
+        "wi-fi"
+      ],
+      "exclude": [
+        "5g",
+        "2025"
+      ]
+    },
+    "36423": {
+      "include": [
+        "pro 11",
+        "m4",
+        "512",
+        "silver",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "36424": {
+      "include": [
+        "pro 11",
+        "m4",
+        "512",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "2025"
+      ]
+    },
+    "38245": {
+      "include": [
+        "mu9d3"
+      ],
+      "exclude": []
+    },
+    "40266": {
+      "include": [
+        "mu963"
+      ],
+      "exclude": []
+    },
+    "38246": {
+      "include": [
+        "mu9e3"
+      ],
+      "exclude": []
+    },
+    "38247": {
+      "include": [
+        "mvyt4"
+      ],
+      "exclude": []
+    },
+    "38248": {
+      "include": [
+        "mcx44"
+      ],
+      "exclude": []
+    },
+    "16220": {
+      "include": [
+        "mxnf2"
+      ],
+      "exclude": []
+    },
+    "16219": {
+      "include": [
+        "mxnf2"
+      ],
+      "exclude": []
+    },
+    "18688": {
+      "include": [
+        "mgnr3"
+      ],
+      "exclude": []
+    },
+    "18689": {
+      "include": [
+        "mgnt3"
+      ],
+      "exclude": []
+    },
+    "20108": {
+      "include": [
+        "mgtf3"
+      ],
+      "exclude": []
+    },
+    "20109": {
+      "include": [
+        "mjv83"
+      ],
+      "exclude": []
+    },
+    "20110": {
+      "include": [
+        "mjv93"
+      ],
+      "exclude": []
+    },
+    "20111": {
+      "include": [
+        "mjva3"
+      ],
+      "exclude": []
+    },
+    "20112": {
+      "include": [
+        "mgpc3"
+      ],
+      "exclude": []
+    },
+    "20113": {
+      "include": [
+        "mgph3"
+      ],
+      "exclude": []
+    },
+    "20114": {
+      "include": [
+        "mgpk3"
+      ],
+      "exclude": []
+    },
+    "20115": {
+      "include": [
+        "mgpm3"
+      ],
+      "exclude": []
+    },
+    "20116": {
+      "include": [
+        "z12simac01"
+      ],
+      "exclude": []
+    },
+    "20117": {
+      "include": [
+        "z130imac01"
+      ],
+      "exclude": []
+    },
+    "20118": {
+      "include": [
+        "z132imac01"
+      ],
+      "exclude": []
+    },
+    "20119": {
+      "include": [
+        "mgpd3"
+      ],
+      "exclude": []
+    },
+    "20120": {
+      "include": [
+        "mgpj3"
+      ],
+      "exclude": []
+    },
+    "20121": {
+      "include": [
+        "mgpl3"
+      ],
+      "exclude": []
+    },
+    "20122": {
+      "include": [
+        "mgpn3"
+      ],
+      "exclude": []
+    },
+    "20123": {
+      "include": [
+        "z12timac01"
+      ],
+      "exclude": []
+    },
+    "20124": {
+      "include": [
+        "z131imac01"
+      ],
+      "exclude": []
+    },
+    "20125": {
+      "include": [
+        "z133imac01"
+      ],
+      "exclude": []
+    },
+    "30627": {
+      "include": [
+        "mqr93"
+      ],
+      "exclude": []
+    },
+    "30626": {
+      "include": [
+        "mqra3"
+      ],
+      "exclude": []
+    },
+    "30628": {
+      "include": [
+        "mqrc3"
+      ],
+      "exclude": []
+    },
+    "30629": {
+      "include": [
+        "mqrd3"
+      ],
+      "exclude": []
+    },
+    "30631": {
+      "include": [
+        "mqrj3"
+      ],
+      "exclude": []
+    },
+    "30632": {
+      "include": [
+        "mqrn3"
+      ],
+      "exclude": []
+    },
+    "30633": {
+      "include": [
+        "mqrq3"
+      ],
+      "exclude": []
+    },
+    "30630": {
+      "include": [
+        "mqrt3"
+      ],
+      "exclude": []
+    },
+    "30637": {
+      "include": [
+        "mqrk3"
+      ],
+      "exclude": []
+    },
+    "30634": {
+      "include": [
+        "mqrp3"
+      ],
+      "exclude": []
+    },
+    "30635": {
+      "include": [
+        "mqrr3"
+      ],
+      "exclude": []
+    },
+    "30636": {
+      "include": [
+        "mqru3"
+      ],
+      "exclude": []
+    },
+    "37361": {
+      "include": [
+        "mwuu3"
+      ],
+      "exclude": []
+    },
+    "37362": {
+      "include": [
+        "mwuw3"
+      ],
+      "exclude": []
+    },
+    "37363": {
+      "include": [
+        "mwuy3"
+      ],
+      "exclude": []
+    },
+    "37364": {
+      "include": [
+        "mwv13"
+      ],
+      "exclude": []
+    },
+    "37365": {
+      "include": [
+        "mwv43"
+      ],
+      "exclude": []
+    },
+    "37366": {
+      "include": [
+        "mwv63"
+      ],
+      "exclude": []
+    },
+    "37367": {
+      "include": [
+        "mwv83"
+      ],
+      "exclude": []
+    },
+    "37370": {
+      "include": [
+        "mwuc3"
+      ],
+      "exclude": []
+    },
+    "37371": {
+      "include": [
+        "mwud3"
+      ],
+      "exclude": []
+    },
+    "37372": {
+      "include": [
+        "mwue3"
+      ],
+      "exclude": []
+    },
+    "37373": {
+      "include": [
+        "mwuf3"
+      ],
+      "exclude": []
+    },
+    "37374": {
+      "include": [
+        "mwug3"
+      ],
+      "exclude": []
+    },
+    "37375": {
+      "include": [
+        "mwuh3"
+      ],
+      "exclude": []
+    },
+    "37376": {
+      "include": [
+        "mwuj3"
+      ],
+      "exclude": []
+    },
+    "37354": {
+      "include": [
+        "mwuv3"
+      ],
+      "exclude": []
+    },
+    "37355": {
+      "include": [
+        "mwux3"
+      ],
+      "exclude": []
+    },
+    "37356": {
+      "include": [
+        "mwv03"
+      ],
+      "exclude": []
+    },
+    "37357": {
+      "include": [
+        "mwv33"
+      ],
+      "exclude": []
+    },
+    "37358": {
+      "include": [
+        "mwv53"
+      ],
+      "exclude": []
+    },
+    "37359": {
+      "include": [
+        "mwv73"
+      ],
+      "exclude": []
+    },
+    "37360": {
+      "include": [
+        "mwv93"
+      ],
+      "exclude": []
+    },
+    "37343": {
+      "include": [
+        "mcr24"
+      ],
+      "exclude": []
+    },
+    "37350": {
+      "include": [
+        "md2p4"
+      ],
+      "exclude": []
+    },
+    "37344": {
+      "include": [
+        "md2q4"
+      ],
+      "exclude": []
+    },
+    "37345": {
+      "include": [
+        "md2t4"
+      ],
+      "exclude": []
+    },
+    "37352": {
+      "include": [
+        "md2u4"
+      ],
+      "exclude": []
+    },
+    "37353": {
+      "include": [
+        "md2v4"
+      ],
+      "exclude": []
+    },
+    "37351": {
+      "include": [
+        "md2w4"
+      ],
+      "exclude": []
+    },
+    "40374": {
+      "include": [
+        "mc6c4"
+      ],
+      "exclude": []
+    },
+    "40357": {
+      "include": [
+        "mc654"
+      ],
+      "exclude": []
+    },
+    "40376": {
+      "include": [
+        "mc6v4"
+      ],
+      "exclude": []
+    },
+    "40375": {
+      "include": [
+        "mc6a4"
+      ],
+      "exclude": []
+    },
+    "40364": {
+      "include": [
+        "mc6l4"
+      ],
+      "exclude": []
+    },
+    "40361": {
+      "include": [
+        "mc6j4"
+      ],
+      "exclude": []
+    },
+    "40365": {
+      "include": [
+        "mc7d4"
+      ],
+      "exclude": []
+    },
+    "40362": {
+      "include": [
+        "mc6k4"
+      ],
+      "exclude": []
+    },
+    "38896": {
+      "include": [
+        "mw123"
+      ],
+      "exclude": []
+    },
+    "38900": {
+      "include": [
+        "mw0w3"
+      ],
+      "exclude": []
+    },
+    "38898": {
+      "include": [
+        "mc6t4"
+      ],
+      "exclude": []
+    },
+    "38902": {
+      "include": [
+        "mw0y3"
+      ],
+      "exclude": []
+    },
+    "40359": {
+      "include": [
+        "mw133"
+      ],
+      "exclude": []
+    },
+    "38908": {
+      "include": [
+        "mw0x3"
+      ],
+      "exclude": []
+    },
+    "40358": {
+      "include": [
+        "mc6u4"
+      ],
+      "exclude": []
+    },
+    "38910": {
+      "include": [
+        "mw103"
+      ],
+      "exclude": []
+    },
+    "38884": {
+      "include": [
+        "mw1l3"
+      ],
+      "exclude": []
+    },
+    "38882": {
+      "include": [
+        "mw1g3"
+      ],
+      "exclude": []
+    },
+    "38880": {
+      "include": [
+        "mc7a4"
+      ],
+      "exclude": []
+    },
+    "38886": {
+      "include": [
+        "mw1j3"
+      ],
+      "exclude": []
+    },
+    "38891": {
+      "include": [
+        "mw1m3"
+      ],
+      "exclude": []
+    },
+    "38892": {
+      "include": [
+        "mw1h3"
+      ],
+      "exclude": []
+    },
+    "38893": {
+      "include": [
+        "mc7c4"
+      ],
+      "exclude": []
+    },
+    "38894": {
+      "include": [
+        "mw1k3"
+      ],
+      "exclude": []
+    },
+    "27983": {
+      "include": [
+        "mqku3"
+      ],
+      "exclude": []
+    },
+    "18682": {
+      "include": [
+        "mgn63"
+      ],
+      "exclude": []
+    },
+    "18683": {
+      "include": [
+        "mgn93"
+      ],
+      "exclude": []
+    },
+    "18684": {
+      "include": [
+        "mgnd3"
+      ],
+      "exclude": []
+    },
+    "26905": {
+      "include": [
+        "mlxx3"
+      ],
+      "exclude": []
+    },
+    "26904": {
+      "include": [
+        "mly03"
+      ],
+      "exclude": []
+    },
+    "26907": {
+      "include": [
+        "mly23"
+      ],
+      "exclude": []
+    },
+    "26906": {
+      "include": [
+        "mly43"
+      ],
+      "exclude": []
+    },
+    "26971": {
+      "include": [
+        "mlxw3"
+      ],
+      "exclude": []
+    },
+    "26972": {
+      "include": [
+        "mlxy3"
+      ],
+      "exclude": []
+    },
+    "26973": {
+      "include": [
+        "mly13"
+      ],
+      "exclude": []
+    },
+    "26970": {
+      "include": [
+        "mly33"
+      ],
+      "exclude": []
+    },
+    "36006": {
+      "include": [
+        "mxcv3"
+      ],
+      "exclude": []
+    },
+    "36014": {
+      "include": [
+        "mxct3"
+      ],
+      "exclude": []
+    },
+    "36011": {
+      "include": [
+        "mxcr3"
+      ],
+      "exclude": []
+    },
+    "36008": {
+      "include": [
+        "mxcu3"
+      ],
+      "exclude": []
+    },
+    "35831": {
+      "include": [
+        "mrxv3"
+      ],
+      "exclude": []
+    },
+    "36015": {
+      "include": [
+        "mrxq3"
+      ],
+      "exclude": []
+    },
+    "36012": {
+      "include": [
+        "mrxn3"
+      ],
+      "exclude": []
+    },
+    "36009": {
+      "include": [
+        "mrxt3"
+      ],
+      "exclude": []
+    },
+    "36005": {
+      "include": [
+        "mrxw3"
+      ],
+      "exclude": []
+    },
+    "36016": {
+      "include": [
+        "mrxr3"
+      ],
+      "exclude": []
+    },
+    "36013": {
+      "include": [
+        "mrxp3"
+      ],
+      "exclude": []
+    },
+    "36010": {
+      "include": [
+        "mrxu3"
+      ],
+      "exclude": []
+    },
+    "27981": {
+      "include": [
+        "mqkp3"
+      ],
+      "exclude": []
+    },
+    "27982": {
+      "include": [
+        "mqkr3"
+      ],
+      "exclude": []
+    },
+    "27984": {
+      "include": [
+        "mqkw3"
+      ],
+      "exclude": []
+    },
+    "27985": {
+      "include": [
+        "mqkq3"
+      ],
+      "exclude": []
+    },
+    "27988": {
+      "include": [
+        "mqkt3"
+      ],
+      "exclude": []
+    },
+    "27987": {
+      "include": [
+        "mqkv3"
+      ],
+      "exclude": []
+    },
+    "27986": {
+      "include": [
+        "mqkx3"
+      ],
+      "exclude": []
+    },
+    "36019": {
+      "include": [
+        "mxd43"
+      ],
+      "exclude": []
+    },
+    "36027": {
+      "include": [
+        "mxd23"
+      ],
+      "exclude": []
+    },
+    "36024": {
+      "include": [
+        "mxd13"
+      ],
+      "exclude": []
+    },
+    "36021": {
+      "include": [
+        "mxd33"
+      ],
+      "exclude": []
+    },
+    "36017": {
+      "include": [
+        "mryu3"
+      ],
+      "exclude": []
+    },
+    "36026": {
+      "include": [
+        "mryp3"
+      ],
+      "exclude": []
+    },
+    "36023": {
+      "include": [
+        "mrym3"
+      ],
+      "exclude": []
+    },
+    "36020": {
+      "include": [
+        "mryr3"
+      ],
+      "exclude": []
+    },
+    "36018": {
+      "include": [
+        "mryv3"
+      ],
+      "exclude": []
+    },
+    "36028": {
+      "include": [
+        "mryq3"
+      ],
+      "exclude": []
+    },
+    "36025": {
+      "include": [
+        "mryn3"
+      ],
+      "exclude": []
+    },
+    "36022": {
+      "include": [
+        "mryt3"
+      ],
+      "exclude": []
+    },
+    "27014": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27015": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27016": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27017": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27010": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27011": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27012": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27013": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27022": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27023": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27024": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27025": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27018": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27019": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27020": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27021": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27006": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27007": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27008": {
+      "include": [
+        "mbpm2"
+      ],
+      "exclude": []
+    },
+    "27009": {
+      "include": [
+        "mbpm2sl"
+      ],
+      "exclude": []
+    },
+    "27002": {
+      "include": [
+        "mneh3"
+      ],
+      "exclude": []
+    },
+    "27003": {
+      "include": [
+        "mnep3"
+      ],
+      "exclude": []
+    },
+    "27004": {
+      "include": [
+        "mnej3"
+      ],
+      "exclude": []
+    },
+    "27005": {
+      "include": [
+        "mneq3"
+      ],
+      "exclude": []
+    },
+    "34311": {
+      "include": [
+        "z1aw001lv"
+      ],
+      "exclude": []
+    },
+    "30647": {
+      "include": [
+        "mrx53"
+      ],
+      "exclude": []
+    },
+    "30648": {
+      "include": [
+        "mrx83"
+      ],
+      "exclude": []
+    },
+    "34312": {
+      "include": [
+        "z1aw001fy"
+      ],
+      "exclude": []
+    },
+    "34308": {
+      "include": [
+        "z1aw001ns"
+      ],
+      "exclude": []
+    },
+    "30645": {
+      "include": [
+        "mrx43"
+      ],
+      "exclude": []
+    },
+    "30646": {
+      "include": [
+        "mrx73"
+      ],
+      "exclude": []
+    },
+    "30644": {
+      "include": [
+        "mrx33"
+      ],
+      "exclude": []
+    },
+    "30642": {
+      "include": [
+        "mrx63"
+      ],
+      "exclude": []
+    },
+    "30640": {
+      "include": [
+        "mr7k3"
+      ],
+      "exclude": []
+    },
+    "30641": {
+      "include": [
+        "mtl83"
+      ],
+      "exclude": []
+    },
+    "30639": {
+      "include": [
+        "mr7j3"
+      ],
+      "exclude": []
+    },
+    "30638": {
+      "include": [
+        "mtl73"
+      ],
+      "exclude": []
+    },
+    "30649": {
+      "include": [
+        "mrw33"
+      ],
+      "exclude": []
+    },
+    "30650": {
+      "include": [
+        "mrw73"
+      ],
+      "exclude": []
+    },
+    "30651": {
+      "include": [
+        "muw63"
+      ],
+      "exclude": []
+    },
+    "30652": {
+      "include": [
+        "muw73"
+      ],
+      "exclude": []
+    },
+    "30653": {
+      "include": [
+        "mrw13"
+      ],
+      "exclude": []
+    },
+    "30654": {
+      "include": [
+        "mrw43"
+      ],
+      "exclude": []
+    },
+    "30655": {
+      "include": [
+        "mrw23"
+      ],
+      "exclude": []
+    },
+    "30656": {
+      "include": [
+        "mrw63"
+      ],
+      "exclude": []
+    },
+    "37389": {
+      "include": [
+        "mw2w3"
+      ],
+      "exclude": []
+    },
+    "37390": {
+      "include": [
+        "mw2u3"
+      ],
+      "exclude": []
+    },
+    "37391": {
+      "include": [
+        "mw2x3"
+      ],
+      "exclude": []
+    },
+    "37392": {
+      "include": [
+        "mw2v3"
+      ],
+      "exclude": []
+    },
+    "37393": {
+      "include": [
+        "mcx14"
+      ],
+      "exclude": []
+    },
+    "37394": {
+      "include": [
+        "mcx04"
+      ],
+      "exclude": []
+    },
+    "37395": {
+      "include": [
+        "mx2g3"
+      ],
+      "exclude": []
+    },
+    "37396": {
+      "include": [
+        "mx2k3"
+      ],
+      "exclude": []
+    },
+    "37401": {
+      "include": [
+        "mx2e3"
+      ],
+      "exclude": []
+    },
+    "37402": {
+      "include": [
+        "mx2h3"
+      ],
+      "exclude": []
+    },
+    "37403": {
+      "include": [
+        "mx2f3"
+      ],
+      "exclude": []
+    },
+    "37404": {
+      "include": [
+        "mx2j3"
+      ],
+      "exclude": []
+    },
+    "37397": {
+      "include": [
+        "mx2v3"
+      ],
+      "exclude": []
+    },
+    "37398": {
+      "include": [
+        "mx303"
+      ],
+      "exclude": []
+    },
+    "37399": {
+      "include": [
+        "mx2w3"
+      ],
+      "exclude": []
+    },
+    "37400": {
+      "include": [
+        "mx313"
+      ],
+      "exclude": []
+    },
+    "37405": {
+      "include": [
+        "mx2t3"
+      ],
+      "exclude": []
+    },
+    "37406": {
+      "include": [
+        "mx2x3"
+      ],
+      "exclude": []
+    },
+    "37407": {
+      "include": [
+        "mx2u3"
+      ],
+      "exclude": []
+    },
+    "37408": {
+      "include": [
+        "mx2y3"
+      ],
+      "exclude": []
+    },
+    "22162": {
+      "include": [
+        "se3 64 black"
+      ],
+      "exclude": []
+    },
+    "22164": {
+      "include": [
+        "se3 64 red"
+      ],
+      "exclude": []
+    },
+    "22163": {
+      "include": [
+        "se3 64 white"
+      ],
+      "exclude": []
+    },
+    "22165": {
+      "include": [
+        "se3 128 black"
+      ],
+      "exclude": []
+    },
+    "22166": {
+      "include": [
+        "se3 128 red"
+      ],
+      "exclude": []
+    },
+    "22167": {
+      "include": [
+        "se3 128 white"
+      ],
+      "exclude": []
+    },
+    "22168": {
+      "include": [
+        "se3 256 black"
+      ],
+      "exclude": []
+    },
+    "22169": {
+      "include": [
+        "se3 256 red"
+      ],
+      "exclude": []
+    },
+    "22170": {
+      "include": [
+        "se3 256 white"
+      ],
+      "exclude": []
+    },
+    "13582": {
+      "include": [
+        "11 64 black"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13591": {
+      "include": [
+        "11 64 yellow"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13580": {
+      "include": [
+        "11 64 white"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13595": {
+      "include": [
+        "11 64 red"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13592": {
+      "include": [
+        "11 64 purple"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13586": {
+      "include": [
+        "11 64 green"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13589": {
+      "include": [
+        "11 128 yellow"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13579": {
+      "include": [
+        "11 128 white"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13597": {
+      "include": [
+        "11 128 red"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13594": {
+      "include": [
+        "11 128 purple"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13588": {
+      "include": [
+        "11 128 green"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "13584": {
+      "include": [
+        "11 128 black"
+      ],
+      "exclude": [
+        "pro",
+        "air"
+      ]
+    },
+    "17654": {
+      "include": [
+        "12 64 black"
+      ],
+      "exclude": []
+    },
+    "17658": {
+      "include": [
+        "12 64 blue"
+      ],
+      "exclude": []
+    },
+    "17657": {
+      "include": [
+        "12 64 green"
+      ],
+      "exclude": []
+    },
+    "17655": {
+      "include": [
+        "12 64 red"
+      ],
+      "exclude": []
+    },
+    "20128": {
+      "include": [
+        "12 64 purple"
+      ],
+      "exclude": []
+    },
+    "17656": {
+      "include": [
+        "12 64 white"
+      ],
+      "exclude": []
+    },
+    "17659": {
+      "include": [
+        "12 128 black"
+      ],
+      "exclude": []
+    },
+    "17660": {
+      "include": [
+        "12 128 blue"
+      ],
+      "exclude": []
+    },
+    "17661": {
+      "include": [
+        "12 128 green"
+      ],
+      "exclude": []
+    },
+    "17662": {
+      "include": [
+        "12 128 red"
+      ],
+      "exclude": []
+    },
+    "20126": {
+      "include": [
+        "12 128 purple"
+      ],
+      "exclude": []
+    },
+    "17663": {
+      "include": [
+        "12 128 white"
+      ],
+      "exclude": []
+    },
+    "17664": {
+      "include": [
+        "12 256 black"
+      ],
+      "exclude": []
+    },
+    "17665": {
+      "include": [
+        "12 256 blue"
+      ],
+      "exclude": []
+    },
+    "17666": {
+      "include": [
+        "12 256 green"
+      ],
+      "exclude": []
+    },
+    "17667": {
+      "include": [
+        "12 256 red"
+      ],
+      "exclude": []
+    },
+    "20127": {
+      "include": [
+        "12 256 purple"
+      ],
+      "exclude": []
+    },
+    "17668": {
+      "include": [
+        "12 256 white"
+      ],
+      "exclude": []
+    },
+    "17674": {
+      "include": [
+        "12 mini 128 black"
+      ],
+      "exclude": []
+    },
+    "17675": {
+      "include": [
+        "12 mini 128 blue"
+      ],
+      "exclude": []
+    },
+    "17676": {
+      "include": [
+        "12 mini 128 green"
+      ],
+      "exclude": []
+    },
+    "20129": {
+      "include": [
+        "12 mini 128 purple"
+      ],
+      "exclude": []
+    },
+    "17677": {
+      "include": [
+        "12 mini 128 red"
+      ],
+      "exclude": []
+    },
+    "17678": {
+      "include": [
+        "12 mini 128 white"
+      ],
+      "exclude": []
+    },
+    "17679": {
+      "include": [
+        "12 mini 256 black"
+      ],
+      "exclude": []
+    },
+    "17680": {
+      "include": [
+        "12 mini 256 blue"
+      ],
+      "exclude": []
+    },
+    "17681": {
+      "include": [
+        "12 mini 256 green"
+      ],
+      "exclude": []
+    },
+    "20130": {
+      "include": [
+        "12 mini 256 purple"
+      ],
+      "exclude": []
+    },
+    "17682": {
+      "include": [
+        "12 mini 256 red"
+      ],
+      "exclude": []
+    },
+    "17683": {
+      "include": [
+        "12 mini 256 white"
+      ],
+      "exclude": []
+    },
+    "17669": {
+      "include": [
+        "12 mini 64 black"
+      ],
+      "exclude": []
+    },
+    "17672": {
+      "include": [
+        "12 mini 64 blue"
+      ],
+      "exclude": []
+    },
+    "17673": {
+      "include": [
+        "12 mini 64 green"
+      ],
+      "exclude": []
+    },
+    "20131": {
+      "include": [
+        "12 mini 64 purple"
+      ],
+      "exclude": []
+    },
+    "17670": {
+      "include": [
+        "12 mini 64 red"
+      ],
+      "exclude": []
+    },
+    "17671": {
+      "include": [
+        "12 mini 64 white"
+      ],
+      "exclude": []
+    },
+    "17686": {
+      "include": [
+        "12 pro 128 gold"
+      ],
+      "exclude": []
+    },
+    "17684": {
+      "include": [
+        "12 pro 128 black"
+      ],
+      "exclude": []
+    },
+    "17687": {
+      "include": [
+        "12 pro 128 blue"
+      ],
+      "exclude": []
+    },
+    "17685": {
+      "include": [
+        "12 pro 128 silver"
+      ],
+      "exclude": []
+    },
+    "17688": {
+      "include": [
+        "12 pro 256 gold"
+      ],
+      "exclude": []
+    },
+    "17689": {
+      "include": [
+        "12 pro 256 black"
+      ],
+      "exclude": []
+    },
+    "17690": {
+      "include": [
+        "12 pro 256 blue"
+      ],
+      "exclude": []
+    },
+    "17691": {
+      "include": [
+        "12 pro 256 silver"
+      ],
+      "exclude": []
+    },
+    "17692": {
+      "include": [
+        "12 pro 512 gold"
+      ],
+      "exclude": []
+    },
+    "17693": {
+      "include": [
+        "12 pro 512 black"
+      ],
+      "exclude": []
+    },
+    "17694": {
+      "include": [
+        "12 pro 512 blue"
+      ],
+      "exclude": []
+    },
+    "17695": {
+      "include": [
+        "12 pro 512 silver"
+      ],
+      "exclude": []
+    },
+    "17699": {
+      "include": [
+        "12 pro max 128 gold"
+      ],
+      "exclude": []
+    },
+    "17696": {
+      "include": [
+        "12 pro max 128 black"
+      ],
+      "exclude": []
+    },
+    "17698": {
+      "include": [
+        "12 pro max 128 blue"
+      ],
+      "exclude": []
+    },
+    "17697": {
+      "include": [
+        "12 pro max 128 silver"
+      ],
+      "exclude": []
+    },
+    "17700": {
+      "include": [
+        "12 pro max 256 gold"
+      ],
+      "exclude": []
+    },
+    "17701": {
+      "include": [
+        "12 pro max 256 black"
+      ],
+      "exclude": []
+    },
+    "17702": {
+      "include": [
+        "12 pro max 256 blue"
+      ],
+      "exclude": []
+    },
+    "17703": {
+      "include": [
+        "12 pro max 256 silver"
+      ],
+      "exclude": []
+    },
+    "17704": {
+      "include": [
+        "12 pro max 512 gold"
+      ],
+      "exclude": []
+    },
+    "17705": {
+      "include": [
+        "12 pro max 512 black"
+      ],
+      "exclude": []
+    },
+    "17706": {
+      "include": [
+        "12 pro max 512 blue"
+      ],
+      "exclude": []
+    },
+    "17707": {
+      "include": [
+        "12 pro max 512 silver"
+      ],
+      "exclude": []
+    },
+    "20576": {
+      "include": [
+        "13 128 blue"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20575": {
+      "include": [
+        "13 128 midnight"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20569": {
+      "include": [
+        "13 128 pink"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20578": {
+      "include": [
+        "13 128 red"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20577": {
+      "include": [
+        "13 128 starlight"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "22194": {
+      "include": [
+        "13 128 green"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20580": {
+      "include": [
+        "13 256 blue"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20573": {
+      "include": [
+        "13 256 midnight"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20581": {
+      "include": [
+        "13 256 pink"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20582": {
+      "include": [
+        "13 256 red"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20583": {
+      "include": [
+        "13 256 starlight"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "22195": {
+      "include": [
+        "13 256 green"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20586": {
+      "include": [
+        "13 512 blue"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20574": {
+      "include": [
+        "13 512 midnight"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20585": {
+      "include": [
+        "13 512 pink"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20588": {
+      "include": [
+        "13 512 red"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20587": {
+      "include": [
+        "13 512 starlight"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "22196": {
+      "include": [
+        "13 512 green"
+      ],
+      "exclude": [
+        "air",
+        "pro"
+      ]
+    },
+    "20590": {
+      "include": [
+        "13 mini 128 blue"
+      ],
+      "exclude": []
+    },
+    "20570": {
+      "include": [
+        "13 mini 128 midnight"
+      ],
+      "exclude": []
+    },
+    "20589": {
+      "include": [
+        "13 mini 128 pink"
+      ],
+      "exclude": []
+    },
+    "20592": {
+      "include": [
+        "13 mini 128 red"
+      ],
+      "exclude": []
+    },
+    "20591": {
+      "include": [
+        "13 mini 128 starlight"
+      ],
+      "exclude": []
+    },
+    "22191": {
+      "include": [
+        "13 mini 128 green"
+      ],
+      "exclude": []
+    },
+    "20594": {
+      "include": [
+        "13 mini 256 blue"
+      ],
+      "exclude": []
+    },
+    "20593": {
+      "include": [
+        "13 mini 256 midnight"
+      ],
+      "exclude": []
+    },
+    "20598": {
+      "include": [
+        "13 mini 256 pink"
+      ],
+      "exclude": []
+    },
+    "20596": {
+      "include": [
+        "13 mini 256 red"
+      ],
+      "exclude": []
+    },
+    "20595": {
+      "include": [
+        "13 mini 256 starlight"
+      ],
+      "exclude": []
+    },
+    "22192": {
+      "include": [
+        "13 mini 256 green"
+      ],
+      "exclude": []
+    },
+    "20599": {
+      "include": [
+        "13 mini 512 blue"
+      ],
+      "exclude": []
+    },
+    "20597": {
+      "include": [
+        "13 mini 512 midnight"
+      ],
+      "exclude": []
+    },
+    "20600": {
+      "include": [
+        "13 mini 512 pink"
+      ],
+      "exclude": []
+    },
+    "20602": {
+      "include": [
+        "13 mini 512 red"
+      ],
+      "exclude": []
+    },
+    "20601": {
+      "include": [
+        "13 mini 512 starlight"
+      ],
+      "exclude": []
+    },
+    "22193": {
+      "include": [
+        "13 mini 512 green"
+      ],
+      "exclude": []
+    },
+    "20605": {
+      "include": [
+        "13 pro 128 gold"
+      ],
+      "exclude": []
+    },
+    "20571": {
+      "include": [
+        "13 pro 128 graphite"
+      ],
+      "exclude": []
+    },
+    "20603": {
+      "include": [
+        "13 pro 128 blue"
+      ],
+      "exclude": []
+    },
+    "20604": {
+      "include": [
+        "13 pro 128 silver"
+      ],
+      "exclude": []
+    },
+    "22197": {
+      "include": [
+        "13 pro 128 green"
+      ],
+      "exclude": []
+    },
+    "20610": {
+      "include": [
+        "13 pro 256 gold"
+      ],
+      "exclude": []
+    },
+    "20612": {
+      "include": [
+        "13 pro 256 graphite"
+      ],
+      "exclude": []
+    },
+    "20611": {
+      "include": [
+        "13 pro 256 blue"
+      ],
+      "exclude": []
+    },
+    "20613": {
+      "include": [
+        "13 pro 256 silver"
+      ],
+      "exclude": []
+    },
+    "22199": {
+      "include": [
+        "13 pro 256 green"
+      ],
+      "exclude": []
+    },
+    "20609": {
+      "include": [
+        "13 pro 512 gold"
+      ],
+      "exclude": []
+    },
+    "20606": {
+      "include": [
+        "13 pro 512 graphite"
+      ],
+      "exclude": []
+    },
+    "20607": {
+      "include": [
+        "13 pro 512 blue"
+      ],
+      "exclude": []
+    },
+    "20608": {
+      "include": [
+        "13 pro 512 silver"
+      ],
+      "exclude": []
+    },
+    "22200": {
+      "include": [
+        "13 pro 512 green"
+      ],
+      "exclude": []
+    },
+    "20616": {
+      "include": [
+        "13 pro 1tb gold"
+      ],
+      "exclude": []
+    },
+    "20614": {
+      "include": [
+        "13 pro 1tb graphite"
+      ],
+      "exclude": []
+    },
+    "20615": {
+      "include": [
+        "13 pro 1tb blue"
+      ],
+      "exclude": []
+    },
+    "20617": {
+      "include": [
+        "13 pro 1tb silver"
+      ],
+      "exclude": []
+    },
+    "22198": {
+      "include": [
+        "13 pro 1tb green"
+      ],
+      "exclude": []
+    },
+    "20623": {
+      "include": [
+        "13 pro max 128 gold"
+      ],
+      "exclude": []
+    },
+    "20621": {
+      "include": [
+        "13 pro max 128 graphite"
+      ],
+      "exclude": []
+    },
+    "20622": {
+      "include": [
+        "13 pro max 128 blue"
+      ],
+      "exclude": []
+    },
+    "20624": {
+      "include": [
+        "13 pro max 128 silver"
+      ],
+      "exclude": []
+    },
+    "22201": {
+      "include": [
+        "13 pro max 128 green"
+      ],
+      "exclude": []
+    },
+    "20620": {
+      "include": [
+        "13 pro max 256 gold"
+      ],
+      "exclude": []
+    },
+    "20572": {
+      "include": [
+        "13 pro max 256 graphite"
+      ],
+      "exclude": []
+    },
+    "20618": {
+      "include": [
+        "13 pro max 256 blue"
+      ],
+      "exclude": []
+    },
+    "20619": {
+      "include": [
+        "13 pro max 256 silver"
+      ],
+      "exclude": []
+    },
+    "22203": {
+      "include": [
+        "13 pro max 256 green"
+      ],
+      "exclude": []
+    },
+    "20628": {
+      "include": [
+        "13 pro max 512 gold"
+      ],
+      "exclude": []
+    },
+    "20625": {
+      "include": [
+        "13 pro max 512 graphite"
+      ],
+      "exclude": []
+    },
+    "20626": {
+      "include": [
+        "13 pro max 512 blue"
+      ],
+      "exclude": []
+    },
+    "20627": {
+      "include": [
+        "13 pro max 512 silver"
+      ],
+      "exclude": []
+    },
+    "22204": {
+      "include": [
+        "13 pro max 512 green"
+      ],
+      "exclude": []
+    },
+    "20632": {
+      "include": [
+        "13 pro max 1tb gold"
+      ],
+      "exclude": []
+    },
+    "20629": {
+      "include": [
+        "13 pro max 1tb graphite"
+      ],
+      "exclude": []
+    },
+    "20630": {
+      "include": [
+        "13 pro max 1tb blue"
+      ],
+      "exclude": []
+    },
+    "20631": {
+      "include": [
+        "13 pro max 1tb silver"
+      ],
+      "exclude": []
+    },
+    "22202": {
+      "include": [
+        "13 pro max 1tb green"
+      ],
+      "exclude": []
+    },
+    "23466": {
+      "include": [
+        "14 128 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23465": {
+      "include": [
+        "14 128 midnight"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23464": {
+      "include": [
+        "14 128 purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23538": {
+      "include": [
+        "14 128 red"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23454": {
+      "include": [
+        "14 128 starlight"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "27181": {
+      "include": [
+        "14 128 yellow"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "30428": {
+      "include": [
+        "14 128 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30429": {
+      "include": [
+        "14 128 midnight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30430": {
+      "include": [
+        "14 128 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30431": {
+      "include": [
+        "14 128 red",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30432": {
+      "include": [
+        "14 128 starlight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30433": {
+      "include": [
+        "14 128 yellow",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30434": {
+      "include": [
+        "14 256 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "23467": {
+      "include": [
+        "14 256 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23468": {
+      "include": [
+        "14 256 midnight"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23469": {
+      "include": [
+        "14 256 purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23539": {
+      "include": [
+        "14 256 red"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "23470": {
+      "include": [
+        "14 256 starlight"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "27183": {
+      "include": [
+        "14 256 yellow"
+      ],
+      "exclude": [
+        "dual",
+        "🇺🇸"
+      ]
+    },
+    "30435": {
+      "include": [
+        "14 256 midnight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30436": {
+      "include": [
+        "14 256 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30437": {
+      "include": [
+        "14 256 red",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30438": {
+      "include": [
+        "14 256 starlight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30439": {
+      "include": [
+        "14 256 yellow",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30440": {
+      "include": [
+        "14 512 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30441": {
+      "include": [
+        "14 512 midnight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30442": {
+      "include": [
+        "14 512 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30443": {
+      "include": [
+        "14 512 red",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30444": {
+      "include": [
+        "14 512 starlight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30445": {
+      "include": [
+        "14 512 yellow",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30464": {
+      "include": [
+        "14 plus 128 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30465": {
+      "include": [
+        "14 plus 128 midnight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30466": {
+      "include": [
+        "14 plus 128 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30467": {
+      "include": [
+        "14 plus 128 red",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30468": {
+      "include": [
+        "14 plus 128 starlight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30469": {
+      "include": [
+        "14 plus 128 yellow",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30470": {
+      "include": [
+        "14 plus 256 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30471": {
+      "include": [
+        "14 plus 256 midnight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30472": {
+      "include": [
+        "14 plus 256 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30473": {
+      "include": [
+        "14 plus 256 red",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30474": {
+      "include": [
+        "14 plus 256 starlight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30475": {
+      "include": [
+        "14 plus 256 yellow",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30476": {
+      "include": [
+        "14 plus 512 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30477": {
+      "include": [
+        "14 plus 512 midnight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30478": {
+      "include": [
+        "14 plus 512 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30479": {
+      "include": [
+        "14 plus 512 red",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30480": {
+      "include": [
+        "14 plus 512 starlight",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30481": {
+      "include": [
+        "14 plus 512 yellow",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30504": {
+      "include": [
+        "14 pro 128 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30505": {
+      "include": [
+        "14 pro 128 gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30506": {
+      "include": [
+        "14 pro 128 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30507": {
+      "include": [
+        "14 pro 128 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30508": {
+      "include": [
+        "14 pro 256 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30509": {
+      "include": [
+        "14 pro 256 gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30510": {
+      "include": [
+        "14 pro 256 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30511": {
+      "include": [
+        "14 pro 256 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30512": {
+      "include": [
+        "14 pro 512 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30513": {
+      "include": [
+        "14 pro 512 gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30514": {
+      "include": [
+        "14 pro 512 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30515": {
+      "include": [
+        "14 pro 512 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30500": {
+      "include": [
+        "14 pro 1tb purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30501": {
+      "include": [
+        "14 pro 1tb gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30502": {
+      "include": [
+        "14 pro 1tb silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30503": {
+      "include": [
+        "14 pro 1tb black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30536": {
+      "include": [
+        "14 pro max 128 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30537": {
+      "include": [
+        "14 pro max 128 gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30538": {
+      "include": [
+        "14 pro max 128 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30539": {
+      "include": [
+        "14 pro max 128 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30540": {
+      "include": [
+        "14 pro max 256 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30541": {
+      "include": [
+        "14 pro max 256 gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30542": {
+      "include": [
+        "14 pro max 256 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30543": {
+      "include": [
+        "14 pro max 256 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30544": {
+      "include": [
+        "14 pro max 512 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30545": {
+      "include": [
+        "14 pro max 512 gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30546": {
+      "include": [
+        "14 pro max 512 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30547": {
+      "include": [
+        "14 pro max 512 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30532": {
+      "include": [
+        "14 pro max 1tb purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30533": {
+      "include": [
+        "14 pro max 1tb gold",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30534": {
+      "include": [
+        "14 pro max 1tb silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "30535": {
+      "include": [
+        "14 pro max 1tb black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "23472": {
+      "include": [
+        "14 512 midnight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23473": {
+      "include": [
+        "14 512 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23540": {
+      "include": [
+        "14 512 red"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23474": {
+      "include": [
+        "14 512 starlight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "27182": {
+      "include": [
+        "14 512 yellow"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23476": {
+      "include": [
+        "14 plus 128 blue"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23475": {
+      "include": [
+        "14 plus 128 midnight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23477": {
+      "include": [
+        "14 plus 128 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23541": {
+      "include": [
+        "14 plus 128 red"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23455": {
+      "include": [
+        "14 plus 128 starlight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "27186": {
+      "include": [
+        "14 plus 128 yellow"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23478": {
+      "include": [
+        "14 plus 256 blue"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23479": {
+      "include": [
+        "14 plus 256 midnight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23482": {
+      "include": [
+        "14 plus 256 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23542": {
+      "include": [
+        "14 plus 256 red"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23480": {
+      "include": [
+        "14 plus 256 starlight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "27185": {
+      "include": [
+        "14 plus 256 yellow"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23483": {
+      "include": [
+        "14 plus 512 blue"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23484": {
+      "include": [
+        "14 plus 512 midnight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23485": {
+      "include": [
+        "14 plus 512 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23543": {
+      "include": [
+        "14 plus 512 red"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23486": {
+      "include": [
+        "14 plus 512 starlight"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "27184": {
+      "include": [
+        "14 plus 512 yellow"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23498": {
+      "include": [
+        "14 pro 1tb purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23499": {
+      "include": [
+        "14 pro 1tb gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23500": {
+      "include": [
+        "14 pro 1tb silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23501": {
+      "include": [
+        "14 pro 1tb black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23488": {
+      "include": [
+        "14 pro 128 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23487": {
+      "include": [
+        "14 pro 128 gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23489": {
+      "include": [
+        "14 pro 128 silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23456": {
+      "include": [
+        "14 pro 128 black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23490": {
+      "include": [
+        "14 pro 256 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23491": {
+      "include": [
+        "14 pro 256 gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23492": {
+      "include": [
+        "14 pro 256 silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23493": {
+      "include": [
+        "14 pro 256 black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23494": {
+      "include": [
+        "14 pro 512 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23495": {
+      "include": [
+        "14 pro 512 gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23496": {
+      "include": [
+        "14 pro 512 silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23497": {
+      "include": [
+        "14 pro 512 black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23513": {
+      "include": [
+        "14 pro max 1tb purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23514": {
+      "include": [
+        "14 pro max 1tb gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23515": {
+      "include": [
+        "14 pro max 1tb silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23516": {
+      "include": [
+        "14 pro max 1tb black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23503": {
+      "include": [
+        "14 pro max 128 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23502": {
+      "include": [
+        "14 pro max 128 gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23504": {
+      "include": [
+        "14 pro max 128 silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23457": {
+      "include": [
+        "14 pro max 128 black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23505": {
+      "include": [
+        "14 pro max 256 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23506": {
+      "include": [
+        "14 pro max 256 gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23507": {
+      "include": [
+        "14 pro max 256 silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23508": {
+      "include": [
+        "14 pro max 256 black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23509": {
+      "include": [
+        "14 pro max 512 purple"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23510": {
+      "include": [
+        "14 pro max 512 gold"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23511": {
+      "include": [
+        "14 pro max 512 silver"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "23512": {
+      "include": [
+        "14 pro max 512 black"
+      ],
+      "exclude": [
+        "🇺🇸",
+        "dual"
+      ]
+    },
+    "28224": {
+      "include": [
+        "15 128 midnight"
+      ],
+      "exclude": []
+    },
+    "28227": {
+      "include": [
+        "15 128 blue"
+      ],
+      "exclude": []
+    },
+    "28230": {
+      "include": [
+        "15 128 green"
+      ],
+      "exclude": []
+    },
+    "28236": {
+      "include": [
+        "15 128 pink"
+      ],
+      "exclude": []
+    },
+    "28233": {
+      "include": [
+        "15 128 yellow"
+      ],
+      "exclude": []
+    },
+    "28225": {
+      "include": [
+        "15 256 midnight"
+      ],
+      "exclude": []
+    },
+    "28228": {
+      "include": [
+        "15 256 blue"
+      ],
+      "exclude": []
+    },
+    "28231": {
+      "include": [
+        "15 256 green"
+      ],
+      "exclude": []
+    },
+    "28237": {
+      "include": [
+        "15 256 pink"
+      ],
+      "exclude": []
+    },
+    "28234": {
+      "include": [
+        "15 256 yellow"
+      ],
+      "exclude": []
+    },
+    "28226": {
+      "include": [
+        "15 512 midnight"
+      ],
+      "exclude": []
+    },
+    "28229": {
+      "include": [
+        "15 512 blue"
+      ],
+      "exclude": []
+    },
+    "28232": {
+      "include": [
+        "15 512 green"
+      ],
+      "exclude": []
+    },
+    "28238": {
+      "include": [
+        "15 512 pink"
+      ],
+      "exclude": []
+    },
+    "28235": {
+      "include": [
+        "15 512 yellow"
+      ],
+      "exclude": []
+    },
+    "28239": {
+      "include": [
+        "15 plus 128 midnight"
+      ],
+      "exclude": []
+    },
+    "28242": {
+      "include": [
+        "15 plus 128 blue"
+      ],
+      "exclude": []
+    },
+    "28245": {
+      "include": [
+        "15 plus 128 green"
+      ],
+      "exclude": []
+    },
+    "28248": {
+      "include": [
+        "15 plus 128 pink"
+      ],
+      "exclude": []
+    },
+    "28251": {
+      "include": [
+        "15 plus 128 yellow"
+      ],
+      "exclude": []
+    },
+    "28240": {
+      "include": [
+        "15 plus 256 midnight"
+      ],
+      "exclude": []
+    },
+    "28243": {
+      "include": [
+        "15 plus 256 blue"
+      ],
+      "exclude": []
+    },
+    "28246": {
+      "include": [
+        "15 plus 256 green"
+      ],
+      "exclude": []
+    },
+    "28249": {
+      "include": [
+        "15 plus 256 pink"
+      ],
+      "exclude": []
+    },
+    "28252": {
+      "include": [
+        "15 plus 256 yellow"
+      ],
+      "exclude": []
+    },
+    "28241": {
+      "include": [
+        "15 plus 512 midnight"
+      ],
+      "exclude": []
+    },
+    "28244": {
+      "include": [
+        "15 plus 512 blue"
+      ],
+      "exclude": []
+    },
+    "28247": {
+      "include": [
+        "15 plus 512 green"
+      ],
+      "exclude": []
+    },
+    "28250": {
+      "include": [
+        "15 plus 512 pink"
+      ],
+      "exclude": []
+    },
+    "28253": {
+      "include": [
+        "15 plus 512 yellow"
+      ],
+      "exclude": []
+    },
+    "28257": {
+      "include": [
+        "15 pro 1tb black"
+      ],
+      "exclude": []
+    },
+    "28258": {
+      "include": [
+        "15 pro 1tb blue"
+      ],
+      "exclude": []
+    },
+    "28262": {
+      "include": [
+        "15 pro 1tb natural"
+      ],
+      "exclude": []
+    },
+    "28266": {
+      "include": [
+        "15 pro 1tb white"
+      ],
+      "exclude": []
+    },
+    "28254": {
+      "include": [
+        "15 pro 128 black"
+      ],
+      "exclude": []
+    },
+    "28259": {
+      "include": [
+        "15 pro 128 blue"
+      ],
+      "exclude": []
+    },
+    "28263": {
+      "include": [
+        "15 pro 128 natural"
+      ],
+      "exclude": []
+    },
+    "28267": {
+      "include": [
+        "15 pro 128 white"
+      ],
+      "exclude": []
+    },
+    "28255": {
+      "include": [
+        "15 pro 256 black"
+      ],
+      "exclude": []
+    },
+    "28260": {
+      "include": [
+        "15 pro 256 blue"
+      ],
+      "exclude": []
+    },
+    "28264": {
+      "include": [
+        "15 pro 256 natural"
+      ],
+      "exclude": []
+    },
+    "28268": {
+      "include": [
+        "15 pro 256 white"
+      ],
+      "exclude": []
+    },
+    "28256": {
+      "include": [
+        "15 pro 512 black"
+      ],
+      "exclude": []
+    },
+    "28261": {
+      "include": [
+        "15 pro 512 blue"
+      ],
+      "exclude": []
+    },
+    "28265": {
+      "include": [
+        "15 pro 512 natural"
+      ],
+      "exclude": []
+    },
+    "28269": {
+      "include": [
+        "15 pro 512 white"
+      ],
+      "exclude": []
+    },
+    "28272": {
+      "include": [
+        "15 pro max 1tb black"
+      ],
+      "exclude": []
+    },
+    "28273": {
+      "include": [
+        "15 pro max 1tb blue"
+      ],
+      "exclude": []
+    },
+    "28276": {
+      "include": [
+        "15 pro max 1tb natural"
+      ],
+      "exclude": []
+    },
+    "28279": {
+      "include": [
+        "15 pro max 1tb white"
+      ],
+      "exclude": []
+    },
+    "28270": {
+      "include": [
+        "15 pro max 256 black"
+      ],
+      "exclude": []
+    },
+    "28274": {
+      "include": [
+        "15 pro max 256 blue"
+      ],
+      "exclude": []
+    },
+    "28277": {
+      "include": [
+        "15 pro max 256 natural"
+      ],
+      "exclude": []
+    },
+    "28280": {
+      "include": [
+        "15 pro max 256 white"
+      ],
+      "exclude": []
+    },
+    "28271": {
+      "include": [
+        "15 pro max 512 black"
+      ],
+      "exclude": []
+    },
+    "28275": {
+      "include": [
+        "15 pro max 512 blue"
+      ],
+      "exclude": []
+    },
+    "28278": {
+      "include": [
+        "15 pro max 512 natural"
+      ],
+      "exclude": []
+    },
+    "28281": {
+      "include": [
+        "15 pro max 512 white"
+      ],
+      "exclude": []
+    },
+    "36611": {
+      "include": [
+        "16 128 black"
+      ],
+      "exclude": []
+    },
+    "36618": {
+      "include": [
+        "16 128 pink"
+      ],
+      "exclude": []
+    },
+    "36617": {
+      "include": [
+        "16 128 teal"
+      ],
+      "exclude": []
+    },
+    "36615": {
+      "include": [
+        "16 128 ultramarine"
+      ],
+      "exclude": []
+    },
+    "36616": {
+      "include": [
+        "16 128 white"
+      ],
+      "exclude": []
+    },
+    "36619": {
+      "include": [
+        "16 256 black"
+      ],
+      "exclude": []
+    },
+    "36620": {
+      "include": [
+        "16 256 pink"
+      ],
+      "exclude": []
+    },
+    "36621": {
+      "include": [
+        "16 256 teal"
+      ],
+      "exclude": []
+    },
+    "36622": {
+      "include": [
+        "16 256 ultramarine"
+      ],
+      "exclude": []
+    },
+    "36623": {
+      "include": [
+        "16 256 white"
+      ],
+      "exclude": []
+    },
+    "36624": {
+      "include": [
+        "16 512 black"
+      ],
+      "exclude": []
+    },
+    "36625": {
+      "include": [
+        "16 512 pink"
+      ],
+      "exclude": []
+    },
+    "36626": {
+      "include": [
+        "16 512 teal"
+      ],
+      "exclude": []
+    },
+    "36627": {
+      "include": [
+        "16 512 ultramarine"
+      ],
+      "exclude": []
+    },
+    "36628": {
+      "include": [
+        "16 512 white"
+      ],
+      "exclude": []
+    },
+    "36612": {
+      "include": [
+        "16 plus 128 black"
+      ],
+      "exclude": []
+    },
+    "36630": {
+      "include": [
+        "16 plus 128 pink"
+      ],
+      "exclude": []
+    },
+    "36629": {
+      "include": [
+        "16 plus 128 teal"
+      ],
+      "exclude": []
+    },
+    "36632": {
+      "include": [
+        "16 plus 128 ultramarine"
+      ],
+      "exclude": []
+    },
+    "36631": {
+      "include": [
+        "16 plus 128 white"
+      ],
+      "exclude": []
+    },
+    "36633": {
+      "include": [
+        "16 plus 256 black"
+      ],
+      "exclude": []
+    },
+    "36634": {
+      "include": [
+        "16 plus 256 pink"
+      ],
+      "exclude": []
+    },
+    "36635": {
+      "include": [
+        "16 plus 256 teal"
+      ],
+      "exclude": []
+    },
+    "36636": {
+      "include": [
+        "16 plus 256 ultramarine"
+      ],
+      "exclude": []
+    },
+    "36637": {
+      "include": [
+        "16 plus 256 white"
+      ],
+      "exclude": []
+    },
+    "36638": {
+      "include": [
+        "16 plus 512 black"
+      ],
+      "exclude": []
+    },
+    "36639": {
+      "include": [
+        "16 plus 512 pink"
+      ],
+      "exclude": []
+    },
+    "36640": {
+      "include": [
+        "16 plus 512 teal"
+      ],
+      "exclude": []
+    },
+    "36641": {
+      "include": [
+        "16 plus 512 ultramarine"
+      ],
+      "exclude": []
+    },
+    "36642": {
+      "include": [
+        "16 plus 512 white"
+      ],
+      "exclude": []
+    },
+    "36655": {
+      "include": [
+        "16 pro 1tb black"
+      ],
+      "exclude": []
+    },
+    "36645": {
+      "include": [
+        "16 pro 1tb desert"
+      ],
+      "exclude": []
+    },
+    "36661": {
+      "include": [
+        "16 pro 1tb natural"
+      ],
+      "exclude": []
+    },
+    "36658": {
+      "include": [
+        "16 pro 1tb white"
+      ],
+      "exclude": []
+    },
+    "38662": {
+      "include": [
+        "16 pro 128 black"
+      ],
+      "exclude": []
+    },
+    "36652": {
+      "include": [
+        "16 pro 128 desert"
+      ],
+      "exclude": []
+    },
+    "36659": {
+      "include": [
+        "16 pro 128 natural"
+      ],
+      "exclude": []
+    },
+    "36657": {
+      "include": [
+        "16 pro 128 white"
+      ],
+      "exclude": []
+    },
+    "36653": {
+      "include": [
+        "16 pro 256 black"
+      ],
+      "exclude": []
+    },
+    "36650": {
+      "include": [
+        "16 pro 256 desert"
+      ],
+      "exclude": []
+    },
+    "36660": {
+      "include": [
+        "16 pro 256 natural"
+      ],
+      "exclude": []
+    },
+    "36613": {
+      "include": [
+        "16 pro 256 white"
+      ],
+      "exclude": []
+    },
+    "36654": {
+      "include": [
+        "16 pro 512 black"
+      ],
+      "exclude": []
+    },
+    "36651": {
+      "include": [
+        "16 pro 512 desert"
+      ],
+      "exclude": []
+    },
+    "36644": {
+      "include": [
+        "16 pro 512 natural"
+      ],
+      "exclude": []
+    },
+    "39418": {
+      "include": [
+        "16 pro 512 white"
+      ],
+      "exclude": []
+    },
+    "36664": {
+      "include": [
+        "16 pro max 1tb black"
+      ],
+      "exclude": []
+    },
+    "36673": {
+      "include": [
+        "16 pro max 1tb desert"
+      ],
+      "exclude": []
+    },
+    "36665": {
+      "include": [
+        "16 pro max 1tb natural"
+      ],
+      "exclude": []
+    },
+    "38663": {
+      "include": [
+        "16 pro max 1tb white"
+      ],
+      "exclude": []
+    },
+    "36662": {
+      "include": [
+        "16 pro max 256 black"
+      ],
+      "exclude": []
+    },
+    "36675": {
+      "include": [
+        "16 pro max 256 desert"
+      ],
+      "exclude": []
+    },
+    "36667": {
+      "include": [
+        "16 pro max 256 natural"
+      ],
+      "exclude": []
+    },
+    "38664": {
+      "include": [
+        "16 pro max 256 white"
+      ],
+      "exclude": []
+    },
+    "36663": {
+      "include": [
+        "16 pro max 512 black"
+      ],
+      "exclude": []
+    },
+    "36676": {
+      "include": [
+        "16 pro max 512 desert"
+      ],
+      "exclude": []
+    },
+    "36668": {
+      "include": [
+        "16 pro max 512 natural"
+      ],
+      "exclude": []
+    },
+    "38665": {
+      "include": [
+        "16 pro max 512 white"
+      ],
+      "exclude": []
+    },
+    "38256": {
+      "include": [
+        "16e 128 black"
+      ],
+      "exclude": []
+    },
+    "38257": {
+      "include": [
+        "16e 128 white"
+      ],
+      "exclude": []
+    },
+    "38258": {
+      "include": [
+        "16e 256 black"
+      ],
+      "exclude": []
+    },
+    "38259": {
+      "include": [
+        "16e 256 white"
+      ],
+      "exclude": []
+    },
+    "38262": {
+      "include": [
+        "16e 512 black"
+      ],
+      "exclude": []
+    },
+    "38263": {
+      "include": [
+        "16e 512 white"
+      ],
+      "exclude": []
+    },
+    "40514": {
+      "include": [
+        "17 256 black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40523": {
+      "include": [
+        "17 512 black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40525": {
+      "include": [
+        "17 256 white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40524": {
+      "include": [
+        "17 512 white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40526": {
+      "include": [
+        "17 256 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40527": {
+      "include": [
+        "17 512 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40529": {
+      "include": [
+        "17 256 green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40528": {
+      "include": [
+        "17 512 green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40530": {
+      "include": [
+        "17 256 purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40531": {
+      "include": [
+        "17 512 purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "41141": {
+      "include": [
+        "17 256 black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41142": {
+      "include": [
+        "17 512 black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41145": {
+      "include": [
+        "17 256 white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41146": {
+      "include": [
+        "17 512 white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41144": {
+      "include": [
+        "17 256 blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41143": {
+      "include": [
+        "17 512 blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41149": {
+      "include": [
+        "17 256 green",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41150": {
+      "include": [
+        "17 512 green",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41148": {
+      "include": [
+        "17 256 purple",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41147": {
+      "include": [
+        "17 512 purple",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "40518": {
+      "include": [
+        "17 pro 256 silver"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40534": {
+      "include": [
+        "17 pro 1tb silver"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40533": {
+      "include": [
+        "17 pro 512 silver"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40537": {
+      "include": [
+        "17 pro 256 orange"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40536": {
+      "include": [
+        "17 pro 512 orange"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40535": {
+      "include": [
+        "17 pro 1tb orange"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40538": {
+      "include": [
+        "17 pro 256 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40539": {
+      "include": [
+        "17 pro 512 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40540": {
+      "include": [
+        "17 pro 1tb blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40519": {
+      "include": [
+        "17 pro max 256 silver"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40542": {
+      "include": [
+        "17 pro max 512 silver"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40543": {
+      "include": [
+        "17 pro max 1tb silver"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40544": {
+      "include": [
+        "17 pro max 2tb silver"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40548": {
+      "include": [
+        "17 pro max 256 orange"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40547": {
+      "include": [
+        "17 pro max 512 orange"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40546": {
+      "include": [
+        "17 pro max 1tb orange"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40545": {
+      "include": [
+        "17 pro max 2tb orange"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40549": {
+      "include": [
+        "17 pro max 256 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40550": {
+      "include": [
+        "17 pro max 512 blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40552": {
+      "include": [
+        "17 pro max 1tb blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40553": {
+      "include": [
+        "17 pro max 2tb blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "40982": {
+      "include": [
+        "17 pro 1tb orange",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40983": {
+      "include": [
+        "17 pro 1tb blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40977": {
+      "include": [
+        "17 pro 1tb silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40980": {
+      "include": [
+        "17 pro 256 orange",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40984": {
+      "include": [
+        "17 pro 256 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40979": {
+      "include": [
+        "17 pro 256 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40981": {
+      "include": [
+        "17 pro 512 orange",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40985": {
+      "include": [
+        "17 pro 512 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40978": {
+      "include": [
+        "17 pro 512 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40973": {
+      "include": [
+        "17 pro max 1tb orange",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40997": {
+      "include": [
+        "17 pro max 1tb blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40994": {
+      "include": [
+        "17 pro max 1tb silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40988": {
+      "include": [
+        "17 pro max 2tb orange",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40996": {
+      "include": [
+        "17 pro max 2tb blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40995": {
+      "include": [
+        "17 pro max 2tb silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40991": {
+      "include": [
+        "17 pro max 256 orange",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40999": {
+      "include": [
+        "17 pro max 256 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40992": {
+      "include": [
+        "17 pro max 256 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40989": {
+      "include": [
+        "17 pro max 512 orange",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40998": {
+      "include": [
+        "17 pro max 512 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40993": {
+      "include": [
+        "17 pro max 512 silver",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "40515": {
+      "include": [
+        "air 256 black"
+      ],
+      "exclude": []
+    },
+    "40555": {
+      "include": [
+        "air 512 black"
+      ],
+      "exclude": []
+    },
+    "40556": {
+      "include": [
+        "air 1tb black"
+      ],
+      "exclude": []
+    },
+    "40559": {
+      "include": [
+        "air 256 white"
+      ],
+      "exclude": []
+    },
+    "40558": {
+      "include": [
+        "air 512 white"
+      ],
+      "exclude": []
+    },
+    "40557": {
+      "include": [
+        "air 1tb white"
+      ],
+      "exclude": []
+    },
+    "40560": {
+      "include": [
+        "air 256 gold"
+      ],
+      "exclude": []
+    },
+    "40561": {
+      "include": [
+        "air 512 gold"
+      ],
+      "exclude": []
+    },
+    "40562": {
+      "include": [
+        "air 1tb gold"
+      ],
+      "exclude": []
+    },
+    "40565": {
+      "include": [
+        "air 256 blue"
+      ],
+      "exclude": []
+    },
+    "40564": {
+      "include": [
+        "air 512 blue"
+      ],
+      "exclude": []
+    },
+    "40563": {
+      "include": [
+        "air 1tb blue"
+      ],
+      "exclude": []
+    },
+    "40521": {
+      "include": [
+        "s11",
+        "42",
+        "rose gold"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40567": {
+      "include": [
+        "s11",
+        "42",
+        "gold",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40579": {
+      "include": [
+        "s11",
+        "46",
+        "rose gold"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40580": {
+      "include": [
+        "s11",
+        "46",
+        "silver"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40582": {
+      "include": [
+        "s11",
+        "42",
+        "silver"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40583": {
+      "include": [
+        "s11",
+        "42",
+        "gray"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40584": {
+      "include": [
+        "s11",
+        "42",
+        "black"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40585": {
+      "include": [
+        "s11",
+        "46",
+        "black"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40586": {
+      "include": [
+        "s11",
+        "46",
+        "gray"
+      ],
+      "exclude": [
+        "titan"
+      ]
+    },
+    "40587": {
+      "include": [
+        "s11",
+        "42",
+        "natural",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40741": {
+      "include": [
+        "s11",
+        "42",
+        "slate",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40738": {
+      "include": [
+        "s11",
+        "42",
+        "gold",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "40737": {
+      "include": [
+        "s11",
+        "42",
+        "natural",
+        "natural link"
+      ],
+      "exclude": []
+    },
+    "40740": {
+      "include": [
+        "s11",
+        "42",
+        "slate",
+        "slate link"
+      ],
+      "exclude": []
+    },
+    "40590": {
+      "include": [
+        "s11",
+        "46",
+        "slate",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40592": {
+      "include": [
+        "s11",
+        "46",
+        "steel",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40931": {
+      "include": [
+        "s11",
+        "46",
+        "natural",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40736": {
+      "include": [
+        "s11",
+        "46",
+        "slate",
+        "slate link"
+      ],
+      "exclude": []
+    },
+    "40734": {
+      "include": [
+        "s11",
+        "46",
+        "natural",
+        "natural link"
+      ],
+      "exclude": []
+    },
+    "40597": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "natural",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40596": {
+      "include": [
+        "ultra 3",
+        "black",
+        "black",
+        "milanese"
+      ],
+      "exclude": []
+    },
+    "40748": {
+      "include": [
+        "ultra 3",
+        "black",
+        "green",
+        "ob"
+      ],
+      "exclude": []
+    },
+    "40749": {
+      "include": [
+        "ultra 3",
+        "black",
+        "blue",
+        "ob"
+      ],
+      "exclude": []
+    },
+    "40750": {
+      "include": [
+        "ultra 3",
+        "black",
+        "black",
+        "ob"
+      ],
+      "exclude": []
+    },
+    "40751": {
+      "include": [
+        "ultra 3",
+        "black",
+        "bright blue"
+      ],
+      "exclude": []
+    },
+    "40752": {
+      "include": [
+        "ultra 3",
+        "black",
+        "green",
+        "tl"
+      ],
+      "exclude": []
+    },
+    "40753": {
+      "include": [
+        "ultra 3",
+        "black",
+        "black",
+        "tl"
+      ],
+      "exclude": []
+    },
+    "40754": {
+      "include": [
+        "ultra 3",
+        "black",
+        "blue",
+        "al"
+      ],
+      "exclude": []
+    },
+    "40755": {
+      "include": [
+        "ultra 3",
+        "black",
+        "terra",
+        "al"
+      ],
+      "exclude": []
+    },
+    "40756": {
+      "include": [
+        "ultra 3",
+        "black",
+        "black",
+        "al"
+      ],
+      "exclude": []
+    },
+    "40757": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "green",
+        "ob"
+      ],
+      "exclude": []
+    },
+    "40758": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "blue",
+        "ob"
+      ],
+      "exclude": []
+    },
+    "40760": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "black",
+        "ob"
+      ],
+      "exclude": []
+    },
+    "40761": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "blue",
+        "tl"
+      ],
+      "exclude": []
+    },
+    "40762": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "green",
+        "tl"
+      ],
+      "exclude": []
+    },
+    "40763": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "black",
+        "tl"
+      ],
+      "exclude": []
+    },
+    "40764": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "blue",
+        "al"
+      ],
+      "exclude": []
+    },
+    "40765": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "terra",
+        "al"
+      ],
+      "exclude": []
+    },
+    "40568": {
+      "include": [
+        "se3",
+        "40",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40574": {
+      "include": [
+        "se3",
+        "44",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40575": {
+      "include": [
+        "se3",
+        "44",
+        "white"
+      ],
+      "exclude": []
+    },
+    "40576": {
+      "include": [
+        "se3",
+        "40",
+        "white"
+      ],
+      "exclude": []
+    },
+    "40572": {
+      "include": [
+        "airpods pro 3"
+      ],
+      "exclude": []
+    },
+    "41107": {
+      "include": [
+        "17 256 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41108": {
+      "include": [
+        "17 512 black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41115": {
+      "include": [
+        "17 256 white",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41116": {
+      "include": [
+        "17 512 white",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41111": {
+      "include": [
+        "17 256 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41112": {
+      "include": [
+        "17 512 blue",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41114": {
+      "include": [
+        "17 256 green",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41113": {
+      "include": [
+        "17 512 green",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41110": {
+      "include": [
+        "17 256 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41109": {
+      "include": [
+        "17 512 purple",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "41118": {
+      "include": [
+        "17 pro 1tb orange",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41124": {
+      "include": [
+        "17 pro 1tb blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41123": {
+      "include": [
+        "17 pro 1tb silver",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41119": {
+      "include": [
+        "17 pro 256 orange",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41126": {
+      "include": [
+        "17 pro 256 blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41122": {
+      "include": [
+        "17 pro 256 silver",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41120": {
+      "include": [
+        "17 pro 512 orange",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41125": {
+      "include": [
+        "17 pro 512 blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41121": {
+      "include": [
+        "17 pro 512 silver",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41128": {
+      "include": [
+        "17 pro max 1tb orange",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41137": {
+      "include": [
+        "17 pro max 1tb blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41134": {
+      "include": [
+        "17 pro max 1tb silver",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41129": {
+      "include": [
+        "17 pro max 2tb orange",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41136": {
+      "include": [
+        "17 pro max 2tb blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41135": {
+      "include": [
+        "17 pro max 2tb silver",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41131": {
+      "include": [
+        "17 pro max 256 orange",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41139": {
+      "include": [
+        "17 pro max 256 blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41132": {
+      "include": [
+        "17 pro max 256 silver",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41130": {
+      "include": [
+        "17 pro max 512 orange",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41138": {
+      "include": [
+        "17 pro max 512 blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41133": {
+      "include": [
+        "17 pro max 512 silver",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "41521": {
+      "include": [
+        "pro 11",
+        "m5",
+        "256",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41522": {
+      "include": [
+        "pro 11",
+        "m5",
+        "256",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41510": {
+      "include": [
+        "pro 11",
+        "m5",
+        "512",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41523": {
+      "include": [
+        "pro 11",
+        "m5",
+        "512",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41503": {
+      "include": [
+        "pro 11",
+        "m5",
+        "1tb",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41524": {
+      "include": [
+        "pro 11",
+        "m5",
+        "1tb",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41509": {
+      "include": [
+        "pro 11",
+        "m5",
+        "2tb",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41525": {
+      "include": [
+        "pro 11",
+        "m5",
+        "2tb",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41515": {
+      "include": [
+        "pro 13",
+        "m5",
+        "256",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41516": {
+      "include": [
+        "pro 13",
+        "m5",
+        "256",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41514": {
+      "include": [
+        "pro 13",
+        "m5",
+        "512",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41517": {
+      "include": [
+        "pro 13",
+        "m5",
+        "512",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41504": {
+      "include": [
+        "pro 13",
+        "m5",
+        "1tb",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41519": {
+      "include": [
+        "pro 13",
+        "m5",
+        "1tb",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41513": {
+      "include": [
+        "pro 13",
+        "m5",
+        "2tb",
+        "silver"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "41520": {
+      "include": [
+        "pro 13",
+        "m5",
+        "2tb",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "20972": {
+      "include": [
+        "mk1h3"
+      ],
+      "exclude": []
+    },
+    "42474": {
+      "include": [
+        "17e 256",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42481": {
+      "include": [
+        "17e 256",
+        "black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "42351": {
+      "include": [
+        "17e 256",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "42472": {
+      "include": [
+        "17e 256",
+        "pink",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42479": {
+      "include": [
+        "17e 256",
+        "pink",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "42459": {
+      "include": [
+        "17e 256",
+        "pink"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "42477": {
+      "include": [
+        "17e 256",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42482": {
+      "include": [
+        "17e 256",
+        "white",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "42457": {
+      "include": [
+        "17e 256",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "42475": {
+      "include": [
+        "17e 512",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42480": {
+      "include": [
+        "17e 512",
+        "black",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "42455": {
+      "include": [
+        "17e 512",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "42463": {
+      "include": [
+        "17e 512",
+        "pink",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42462": {
+      "include": [
+        "17e 512",
+        "pink",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "42460": {
+      "include": [
+        "17e 512",
+        "pink"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "42476": {
+      "include": [
+        "17e 512",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42483": {
+      "include": [
+        "17e 512",
+        "white",
+        "🇺🇸"
+      ],
+      "exclude": []
+    },
+    "42510": {
+      "include": [
+        "17e 512",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳",
+        "🇧🇭",
+        "🇨🇦",
+        "🇬🇺",
+        "🇯🇵",
+        "🇰🇼",
+        "🇲🇽",
+        "🇴🇲",
+        "🇶🇦",
+        "🇸🇦",
+        "🇦🇪",
+        "🇺🇸",
+        "🇻🇮"
+      ]
+    },
+    "42523": {
+      "include": [
+        "mde14"
+      ],
+      "exclude": []
+    },
+    "42644": {
+      "include": [
+        "mde54"
+      ],
+      "exclude": []
+    },
+    "42640": {
+      "include": [
+        "mde34"
+      ],
+      "exclude": []
+    },
+    "42643": {
+      "include": [
+        "mde64"
+      ],
+      "exclude": []
+    },
+    "42572": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42571": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42563": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42564": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42589": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42588": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "5g",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "42579": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "5g",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42580": {
+      "include": [
+        "air 11",
+        "m4",
+        "1tb",
+        "5g",
+        "starlight"
+      ],
+      "exclude": []
+    },
+    "42575": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42568": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42516": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42567": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42590": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42585": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "5g",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "42518": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "5g",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42584": {
+      "include": [
+        "air 11",
+        "m4",
+        "128",
+        "5g",
+        "starlight"
+      ],
+      "exclude": []
+    },
+    "42574": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42569": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42561": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42566": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42591": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42586": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "5g",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "42577": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "5g",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42583": {
+      "include": [
+        "air 11",
+        "m4",
+        "256",
+        "5g",
+        "starlight"
+      ],
+      "exclude": []
+    },
+    "42573": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42570": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42562": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42565": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42592": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42587": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "5g",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "42581": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "5g",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42582": {
+      "include": [
+        "air 11",
+        "m4",
+        "512",
+        "5g",
+        "starlight"
+      ],
+      "exclude": []
+    },
+    "42605": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42604": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42596": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42597": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42623": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42622": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "5g",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "42614": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "5g",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42615": {
+      "include": [
+        "air 13",
+        "m4",
+        "1tb",
+        "5g",
+        "starlight"
+      ],
+      "exclude": []
+    },
+    "42606": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42601": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42520": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42600": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42624": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "5g",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42619": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "5g",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "42521": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "5g",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42618": {
+      "include": [
+        "air 13",
+        "m4",
+        "128",
+        "5g",
+        "starlight"
+      ],
+      "exclude": []
+    },
+    "42607": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42602": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42610": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42599": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42625": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "5g",
+        "blue"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42620": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "5g",
+        "purple"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42611": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "5g",
+        "gray"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42617": {
+      "include": [
+        "air 13",
+        "m4",
+        "256",
+        "5g",
+        "starlight"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42608": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "wi-fi",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42603": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "wi-fi",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42612": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "wi-fi",
+        "gray"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42598": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "wi-fi",
+        "starlight"
+      ],
+      "exclude": [
+        "5g",
+        "mac"
+      ]
+    },
+    "42626": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "5g",
+        "blue"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42621": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "5g",
+        "purple"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42613": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "5g",
+        "gray"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42616": {
+      "include": [
+        "air 13",
+        "m4",
+        "512",
+        "5g",
+        "starlight"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42727": {
+      "include": [
+        "pro 13",
+        "m5",
+        "256",
+        "5g",
+        "silver"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42737": {
+      "include": [
+        "pro 13",
+        "m5",
+        "256",
+        "5g",
+        "black"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42726": {
+      "include": [
+        "pro 13",
+        "m5",
+        "512",
+        "5g",
+        "silver"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42725": {
+      "include": [
+        "pro 13",
+        "m5",
+        "512",
+        "5g",
+        "black"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42721": {
+      "include": [
+        "pro 13",
+        "m5",
+        "1tb",
+        "5g",
+        "silver"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42722": {
+      "include": [
+        "pro 13",
+        "m5",
+        "1tb",
+        "5g",
+        "black"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42719": {
+      "include": [
+        "pro 13",
+        "m5",
+        "2tb",
+        "5g",
+        "silver"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42720": {
+      "include": [
+        "pro 13",
+        "m5",
+        "2tb",
+        "5g",
+        "black"
+      ],
+      "exclude": [
+        "mac"
+      ]
+    },
+    "42864": {
+      "include": [
+        "mdh84"
+      ],
+      "exclude": []
+    },
+    "42863": {
+      "include": [
+        "mdhc4"
+      ],
+      "exclude": []
+    },
+    "42859": {
+      "include": [
+        "mdhf4"
+      ],
+      "exclude": []
+    },
+    "42867": {
+      "include": [
+        "mdhj4"
+      ],
+      "exclude": []
+    },
+    "42766": {
+      "include": [
+        "mdh74"
+      ],
+      "exclude": []
+    },
+    "42765": {
+      "include": [
+        "mdha4"
+      ],
+      "exclude": []
+    },
+    "42531": {
+      "include": [
+        "mdhe4"
+      ],
+      "exclude": []
+    },
+    "42767": {
+      "include": [
+        "mdhh4"
+      ],
+      "exclude": []
+    },
+    "42799": {
+      "include": [
+        "mdh94"
+      ],
+      "exclude": []
+    },
+    "42785": {
+      "include": [
+        "mdhd4"
+      ],
+      "exclude": []
+    },
+    "42782": {
+      "include": [
+        "mdhg4"
+      ],
+      "exclude": []
+    },
+    "42769": {
+      "include": [
+        "mdhk4"
+      ],
+      "exclude": []
+    },
+    "42826": {
+      "include": [
+        "mdva4"
+      ],
+      "exclude": []
+    },
+    "42823": {
+      "include": [
+        "mdve4"
+      ],
+      "exclude": []
+    },
+    "42802": {
+      "include": [
+        "mdvk4"
+      ],
+      "exclude": []
+    },
+    "42848": {
+      "include": [
+        "mdvt4"
+      ],
+      "exclude": []
+    },
+    "42825": {
+      "include": [
+        "mdv94"
+      ],
+      "exclude": []
+    },
+    "42824": {
+      "include": [
+        "mdvd4"
+      ],
+      "exclude": []
+    },
+    "42532": {
+      "include": [
+        "mdvh4"
+      ],
+      "exclude": []
+    },
+    "42849": {
+      "include": [
+        "mdvq4"
+      ],
+      "exclude": []
+    },
+    "42831": {
+      "include": [
+        "mdvc4"
+      ],
+      "exclude": []
+    },
+    "42818": {
+      "include": [
+        "mdvf4"
+      ],
+      "exclude": []
+    },
+    "42807": {
+      "include": [
+        "mdvn4"
+      ],
+      "exclude": []
+    },
+    "42843": {
+      "include": [
+        "mdvu4"
+      ],
+      "exclude": []
+    },
+    "42630": {
+      "include": [
+        "mhfa4"
+      ],
+      "exclude": []
+    },
+    "42634": {
+      "include": [
+        "mhfd4"
+      ],
+      "exclude": []
+    },
+    "42530": {
+      "include": [
+        "mhff4"
+      ],
+      "exclude": []
+    },
+    "42631": {
+      "include": [
+        "mhfh4"
+      ],
+      "exclude": []
+    },
+    "42629": {
+      "include": [
+        "mhfc4"
+      ],
+      "exclude": []
+    },
+    "42628": {
+      "include": [
+        "mhfe4"
+      ],
+      "exclude": []
+    },
+    "42633": {
+      "include": [
+        "mhfg4"
+      ],
+      "exclude": []
+    },
+    "42632": {
+      "include": [
+        "mhfj4"
+      ],
+      "exclude": []
+    },
+    "42854": {
+      "include": [
+        "mde04"
+      ],
+      "exclude": []
+    },
+    "42855": {
+      "include": [
+        "mde44"
+      ],
+      "exclude": []
+    },
+    "42671": {
+      "include": [
+        "mj3d4"
+      ],
+      "exclude": []
+    },
+    "42659": {
+      "include": [
+        "mgdq4"
+      ],
+      "exclude": []
+    },
+    "42527": {
+      "include": [
+        "mgdu4"
+      ],
+      "exclude": []
+    },
+    "42654": {
+      "include": [
+        "mgdn4"
+      ],
+      "exclude": []
+    },
+    "42524": {
+      "include": [
+        "mgdr4"
+      ],
+      "exclude": []
+    },
+    "42653": {
+      "include": [
+        "mjlv4"
+      ],
+      "exclude": []
+    },
+    "42652": {
+      "include": [
+        "mjlw4"
+      ],
+      "exclude": []
+    },
+    "42869": {
+      "include": [
+        "mgdp4"
+      ],
+      "exclude": []
+    },
+    "42884": {
+      "include": [
+        "mgdt4"
+      ],
+      "exclude": []
+    },
+    "42743": {
+      "include": [
+        "mge74"
+      ],
+      "exclude": []
+    },
+    "42528": {
+      "include": [
+        "mged4"
+      ],
+      "exclude": []
+    },
+    "42888": {
+      "include": [
+        "mge94"
+      ],
+      "exclude": []
+    },
+    "42763": {
+      "include": [
+        "mgee4"
+      ],
+      "exclude": []
+    },
+    "42715": {
+      "include": [
+        "mge44"
+      ],
+      "exclude": []
+    },
+    "42529": {
+      "include": [
+        "mgea4"
+      ],
+      "exclude": []
+    },
+    "42710": {
+      "include": [
+        "mge64"
+      ],
+      "exclude": []
+    },
+    "42703": {
+      "include": [
+        "mgec4"
+      ],
+      "exclude": []
+    },
+    "37779": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37783": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37787": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "blue",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37780": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37781": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37785": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37789": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37784": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37786": {
+      "include": [
+        "mini 7 ",
+        "256",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37782": {
+      "include": [
+        "mini 7 ",
+        "128",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37788": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "purple",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "37790": {
+      "include": [
+        "mini 7 ",
+        "512",
+        "starlight",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42636": {
+      "include": [
+        "pro 11",
+        "m5",
+        "256",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42735": {
+      "include": [
+        "pro 11",
+        "m5",
+        "256",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42729": {
+      "include": [
+        "pro 11",
+        "m5",
+        "512",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42734": {
+      "include": [
+        "pro 11",
+        "m5",
+        "512",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42730": {
+      "include": [
+        "pro 11",
+        "m5",
+        "1tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42733": {
+      "include": [
+        "pro 11",
+        "m5",
+        "1tb",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42731": {
+      "include": [
+        "pro 11",
+        "m5",
+        "2tb",
+        "silver",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42732": {
+      "include": [
+        "pro 11",
+        "m5",
+        "2tb",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42670": {
+      "include": [
+        "z1kn - late 2026"
+      ],
+      "exclude": []
+    },
+    "40735": {
+      "include": [
+        "s11",
+        "46",
+        "gold",
+        "gold link"
+      ],
+      "exclude": []
+    },
+    "40766": {
+      "include": [
+        "ultra 3",
+        "natural",
+        "black",
+        "al"
+      ],
+      "exclude": []
+    },
+    "43272": {
+      "include": [
+        "airpods max 2",
+        "2026",
+        "midnight"
+      ],
+      "exclude": []
+    },
+    "43300": {
+      "include": [
+        "airpods max 2",
+        "2026",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43301": {
+      "include": [
+        "airpods max 2",
+        "2026",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "43302": {
+      "include": [
+        "airpods max 2",
+        "2026",
+        "starlight"
+      ],
+      "exclude": []
+    },
+    "43303": {
+      "include": [
+        "airpods max 2",
+        "2026",
+        "orange"
+      ],
+      "exclude": []
+    }
+  }

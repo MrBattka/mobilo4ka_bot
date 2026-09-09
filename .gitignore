@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+.git
+.venv
+
+acc.json
+credentials.json
+token.json
+price-from-base-39198cff139d.json

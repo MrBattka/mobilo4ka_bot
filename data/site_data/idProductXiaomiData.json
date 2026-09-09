@@ -1,0 +1,10449 @@
+  {
+    "37014": {
+      "include": [
+        "poco m6 6/128 black"
+      ],
+      "exclude": []
+    },
+    "37015": {
+      "include": [
+        "poco m6 6/128 purple"
+      ],
+      "exclude": []
+    },
+    "37016": {
+      "include": [
+        "poco m6 6/128 silver"
+      ],
+      "exclude": []
+    },
+    "37017": {
+      "include": [
+        "poco m6 8/128 black"
+      ],
+      "exclude": []
+    },
+    "37018": {
+      "include": [
+        "poco m6 8/128 purple"
+      ],
+      "exclude": []
+    },
+    "37019": {
+      "include": [
+        "poco m6 8/128 silver"
+      ],
+      "exclude": []
+    },
+    "38858": {
+      "include": [
+        "poco m7 pro",
+        "6/128",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38852": {
+      "include": [
+        "poco m7 pro",
+        "6/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "38859": {
+      "include": [
+        "poco m7 pro",
+        "6/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "38860": {
+      "include": [
+        "poco m7 pro",
+        "12/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "38864": {
+      "include": [
+        "poco m7 pro",
+        "8/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38865": {
+      "include": [
+        "poco m7 pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "38863": {
+      "include": [
+        "poco m7 pro",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "38861": {
+      "include": [
+        "poco m7 pro",
+        "12/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38862": {
+      "include": [
+        "poco m7 pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "38687": {
+      "include": [
+        "c61 3/64 black"
+      ],
+      "exclude": []
+    },
+    "38688": {
+      "include": [
+        "c61 3/64 blue"
+      ],
+      "exclude": []
+    },
+    "38689": {
+      "include": [
+        "c61 3/64 green"
+      ],
+      "exclude": []
+    },
+    "38690": {
+      "include": [
+        "c61 3/64 white"
+      ],
+      "exclude": []
+    },
+    "38684": {
+      "include": [
+        "c61 4/128 white"
+      ],
+      "exclude": []
+    },
+    "38685": {
+      "include": [
+        "c61 4/64 white"
+      ],
+      "exclude": []
+    },
+    "38686": {
+      "include": [
+        "c61 6/128 white"
+      ],
+      "exclude": []
+    },
+    "36917": {
+      "include": [
+        "c61 4/128 black"
+      ],
+      "exclude": []
+    },
+    "36918": {
+      "include": [
+        "c61 4/128 blue"
+      ],
+      "exclude": []
+    },
+    "36919": {
+      "include": [
+        "c61 4/128 green"
+      ],
+      "exclude": []
+    },
+    "36892": {
+      "include": [
+        "c61 4/64 black"
+      ],
+      "exclude": []
+    },
+    "36894": {
+      "include": [
+        "c61 4/64 blue"
+      ],
+      "exclude": []
+    },
+    "36896": {
+      "include": [
+        "c61 4/64 green"
+      ],
+      "exclude": []
+    },
+    "36893": {
+      "include": [
+        "c61 6/128 black"
+      ],
+      "exclude": []
+    },
+    "36895": {
+      "include": [
+        "c61 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "36897": {
+      "include": [
+        "c61 6/128 green"
+      ],
+      "exclude": []
+    },
+    "30609": {
+      "include": [
+        "c65 6/128 black"
+      ],
+      "exclude": []
+    },
+    "30611": {
+      "include": [
+        "c65 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "30613": {
+      "include": [
+        "c65 6/128 purple"
+      ],
+      "exclude": []
+    },
+    "30610": {
+      "include": [
+        "c65 8/256 black"
+      ],
+      "exclude": []
+    },
+    "30612": {
+      "include": [
+        "c65 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "30614": {
+      "include": [
+        "c65 8/256 purple"
+      ],
+      "exclude": []
+    },
+    "38874": {
+      "include": [
+        "c71 4/64 black"
+      ],
+      "exclude": []
+    },
+    "38973": {
+      "include": [
+        "c71 4/64 blue"
+      ],
+      "exclude": []
+    },
+    "38974": {
+      "include": [
+        "c71 4/64 gold"
+      ],
+      "exclude": []
+    },
+    "38978": {
+      "include": [
+        "c71 6/128 black"
+      ],
+      "exclude": []
+    },
+    "38979": {
+      "include": [
+        "c71 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "38980": {
+      "include": [
+        "c71 6/128 gold"
+      ],
+      "exclude": []
+    },
+    "37385": {
+      "include": [
+        "c75 6/128 black"
+      ],
+      "exclude": []
+    },
+    "37475": {
+      "include": [
+        "c75 6/128 gold"
+      ],
+      "exclude": []
+    },
+    "37474": {
+      "include": [
+        "c75 6/128 green"
+      ],
+      "exclude": []
+    },
+    "37476": {
+      "include": [
+        "c75 8/256 black"
+      ],
+      "exclude": []
+    },
+    "37477": {
+      "include": [
+        "c75 8/256 gold"
+      ],
+      "exclude": []
+    },
+    "37478": {
+      "include": [
+        "c75 8/256 green"
+      ],
+      "exclude": []
+    },
+    "27672": {
+      "include": [
+        "poco f5 pro 12/256 black"
+      ],
+      "exclude": []
+    },
+    "27673": {
+      "include": [
+        "poco f5 pro 12/256 white"
+      ],
+      "exclude": []
+    },
+    "27670": {
+      "include": [
+        "poco f5 pro 12/512 black"
+      ],
+      "exclude": []
+    },
+    "27674": {
+      "include": [
+        "poco f5 pro 12/512 white"
+      ],
+      "exclude": []
+    },
+    "27671": {
+      "include": [
+        "poco f5 pro 8/256 black"
+      ],
+      "exclude": []
+    },
+    "27675": {
+      "include": [
+        "poco f5 pro 8/256 white"
+      ],
+      "exclude": []
+    },
+    "36289": {
+      "include": [
+        "poco f6 12/512 black"
+      ],
+      "exclude": []
+    },
+    "36290": {
+      "include": [
+        "poco f6 12/512 green"
+      ],
+      "exclude": []
+    },
+    "36291": {
+      "include": [
+        "poco f6 12/512 titan"
+      ],
+      "exclude": []
+    },
+    "36181": {
+      "include": [
+        "poco f6 8/256 black"
+      ],
+      "exclude": []
+    },
+    "36284": {
+      "include": [
+        "poco f6 8/256 green"
+      ],
+      "exclude": []
+    },
+    "36285": {
+      "include": [
+        "poco f6 8/256 titan"
+      ],
+      "exclude": []
+    },
+    "36182": {
+      "include": [
+        "poco f6 pro 12/256 black"
+      ],
+      "exclude": []
+    },
+    "36292": {
+      "include": [
+        "poco f6 pro 12/256 white"
+      ],
+      "exclude": []
+    },
+    "36293": {
+      "include": [
+        "poco f6 pro 12/512 black"
+      ],
+      "exclude": []
+    },
+    "36295": {
+      "include": [
+        "poco f6 pro 12/512 white"
+      ],
+      "exclude": []
+    },
+    "36296": {
+      "include": [
+        "poco f6 pro 16/1tb black"
+      ],
+      "exclude": []
+    },
+    "36297": {
+      "include": [
+        "poco f6 pro 16/1tb white"
+      ],
+      "exclude": []
+    },
+    "31108": {
+      "include": [
+        "poco m6 6/128 black"
+      ],
+      "exclude": []
+    },
+    "31109": {
+      "include": [
+        "poco m6 6/128 purple"
+      ],
+      "exclude": []
+    },
+    "36789": {
+      "include": [
+        "poco m6 6/128 silver"
+      ],
+      "exclude": []
+    },
+    "31110": {
+      "include": [
+        "poco m6 8/256 black"
+      ],
+      "exclude": []
+    },
+    "31111": {
+      "include": [
+        "poco m6 8/256 purple"
+      ],
+      "exclude": []
+    },
+    "36790": {
+      "include": [
+        "poco m6 8/256 silver"
+      ],
+      "exclude": []
+    },
+    "31126": {
+      "include": [
+        "poco m6 pro 12/512 black"
+      ],
+      "exclude": []
+    },
+    "31124": {
+      "include": [
+        "poco m6 pro 12/512 blue"
+      ],
+      "exclude": []
+    },
+    "31125": {
+      "include": [
+        "poco m6 pro 12/512 purple"
+      ],
+      "exclude": []
+    },
+    "30184": {
+      "include": [
+        "poco m6 pro 4/64 forest green"
+      ],
+      "exclude": []
+    },
+    "30182": {
+      "include": [
+        "poco m6 pro 4/64 black"
+      ],
+      "exclude": []
+    },
+    "30185": {
+      "include": [
+        "poco m6 pro 6/128 forest green"
+      ],
+      "exclude": []
+    },
+    "30183": {
+      "include": [
+        "poco m6 pro 6/128 black"
+      ],
+      "exclude": []
+    },
+    "31123": {
+      "include": [
+        "poco m6 pro 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "31121": {
+      "include": [
+        "poco m6 pro 8/256 black"
+      ],
+      "exclude": []
+    },
+    "31122": {
+      "include": [
+        "poco m6 pro 8/256 purple"
+      ],
+      "exclude": []
+    },
+    "27245": {
+      "include": [
+        "poco x5 6/128 black"
+      ],
+      "exclude": []
+    },
+    "27247": {
+      "include": [
+        "poco x5 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "27249": {
+      "include": [
+        "poco x5 6/128 green"
+      ],
+      "exclude": []
+    },
+    "27246": {
+      "include": [
+        "poco x5 8/256 black"
+      ],
+      "exclude": []
+    },
+    "27248": {
+      "include": [
+        "poco x5 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "27250": {
+      "include": [
+        "poco x5 8/256 green"
+      ],
+      "exclude": []
+    },
+    "27239": {
+      "include": [
+        "poco x5 pro 6/128 black"
+      ],
+      "exclude": []
+    },
+    "27241": {
+      "include": [
+        "poco x5 pro 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "27243": {
+      "include": [
+        "poco x5 pro 6/128 yellow"
+      ],
+      "exclude": []
+    },
+    "27240": {
+      "include": [
+        "poco x5 pro 8/256 black"
+      ],
+      "exclude": []
+    },
+    "27242": {
+      "include": [
+        "poco x5 pro 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "27244": {
+      "include": [
+        "poco x5 pro 8/256 yellow"
+      ],
+      "exclude": []
+    },
+    "31115": {
+      "include": [
+        "poco x6 12/256 black"
+      ],
+      "exclude": []
+    },
+    "31117": {
+      "include": [
+        "poco x6 12/256 blue"
+      ],
+      "exclude": []
+    },
+    "31116": {
+      "include": [
+        "poco x6 12/256 white"
+      ],
+      "exclude": []
+    },
+    "31118": {
+      "include": [
+        "poco x6 12/512 black"
+      ],
+      "exclude": []
+    },
+    "31120": {
+      "include": [
+        "poco x6 12/512 blue"
+      ],
+      "exclude": []
+    },
+    "31119": {
+      "include": [
+        "poco x6 12/512 white"
+      ],
+      "exclude": []
+    },
+    "31112": {
+      "include": [
+        "poco x6 8/256 black"
+      ],
+      "exclude": []
+    },
+    "31114": {
+      "include": [
+        "poco x6 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "31113": {
+      "include": [
+        "poco x6 8/256 white"
+      ],
+      "exclude": []
+    },
+    "31130": {
+      "include": [
+        "poco x6 pro 12/256 black"
+      ],
+      "exclude": []
+    },
+    "31132": {
+      "include": [
+        "poco x6 pro 12/256 gray"
+      ],
+      "exclude": []
+    },
+    "31131": {
+      "include": [
+        "poco x6 pro 12/256 yellow"
+      ],
+      "exclude": []
+    },
+    "31133": {
+      "include": [
+        "poco x6 pro 12/512 black"
+      ],
+      "exclude": []
+    },
+    "31135": {
+      "include": [
+        "poco x6 pro 12/512 gray"
+      ],
+      "exclude": []
+    },
+    "31134": {
+      "include": [
+        "poco x6 pro 12/512 yellow"
+      ],
+      "exclude": []
+    },
+    "31127": {
+      "include": [
+        "poco x6 pro 8/256 black"
+      ],
+      "exclude": []
+    },
+    "31129": {
+      "include": [
+        "poco x6 pro 8/256 gray"
+      ],
+      "exclude": []
+    },
+    "31128": {
+      "include": [
+        "poco x6 pro 8/256 yellow"
+      ],
+      "exclude": []
+    },
+    "23850": {
+      "include": [
+        "m5 4/128 black"
+      ],
+      "exclude": []
+    },
+    "23851": {
+      "include": [
+        "m5 4/128 green"
+      ],
+      "exclude": []
+    },
+    "23852": {
+      "include": [
+        "m5 4/128 yellow"
+      ],
+      "exclude": []
+    },
+    "23847": {
+      "include": [
+        "m5 4/64 black"
+      ],
+      "exclude": []
+    },
+    "23848": {
+      "include": [
+        "m5 4/64 green"
+      ],
+      "exclude": []
+    },
+    "23849": {
+      "include": [
+        "m5 4/64 yellow"
+      ],
+      "exclude": []
+    },
+    "23853": {
+      "include": [
+        "m5 6/128 black"
+      ],
+      "exclude": []
+    },
+    "23854": {
+      "include": [
+        "m5 6/128 green"
+      ],
+      "exclude": []
+    },
+    "23855": {
+      "include": [
+        "m5 6/128 yellow"
+      ],
+      "exclude": []
+    },
+    "23859": {
+      "include": [
+        "m5s 4/128 blue"
+      ],
+      "exclude": []
+    },
+    "23860": {
+      "include": [
+        "m5s 4/128 gray"
+      ],
+      "exclude": []
+    },
+    "23861": {
+      "include": [
+        "m5s 4/128 white"
+      ],
+      "exclude": []
+    },
+    "23858": {
+      "include": [
+        "m5s 4/64 blue"
+      ],
+      "exclude": []
+    },
+    "23856": {
+      "include": [
+        "m5s 4/64 gray"
+      ],
+      "exclude": []
+    },
+    "23857": {
+      "include": [
+        "m5s 4/64 white"
+      ],
+      "exclude": []
+    },
+    "23862": {
+      "include": [
+        "m5s 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "23863": {
+      "include": [
+        "m5s 6/128 gray"
+      ],
+      "exclude": []
+    },
+    "23864": {
+      "include": [
+        "m5s 6/128 white"
+      ],
+      "exclude": []
+    },
+    "30657": {
+      "include": [
+        "m5s 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "30658": {
+      "include": [
+        "m5s 8/256 gray"
+      ],
+      "exclude": []
+    },
+    "30659": {
+      "include": [
+        "m5s 8/256 white"
+      ],
+      "exclude": []
+    },
+    "31106": {
+      "include": [
+        "poco m6 4/128 black"
+      ],
+      "exclude": []
+    },
+    "31107": {
+      "include": [
+        "poco m6 4/128 blue"
+      ],
+      "exclude": []
+    },
+    "37796": {
+      "include": [
+        "poco x7 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37817": {
+      "include": [
+        "poco x7 ",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37818": {
+      "include": [
+        "poco x7 ",
+        "8/128",
+        "silver"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37822": {
+      "include": [
+        "poco x7 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37823": {
+      "include": [
+        "poco x7 ",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37824": {
+      "include": [
+        "poco x7 ",
+        "8/256",
+        "silver"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37828": {
+      "include": [
+        "poco x7 ",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37829": {
+      "include": [
+        "poco x7 ",
+        "12/512",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37830": {
+      "include": [
+        "poco x7 ",
+        "12/512",
+        "silver"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37833": {
+      "include": [
+        "poco x7 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37834": {
+      "include": [
+        "poco x7 pro",
+        "8/256",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "37841": {
+      "include": [
+        "poco x7 pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37840": {
+      "include": [
+        "poco x7 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37837": {
+      "include": [
+        "poco x7 pro",
+        "12/256",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "37842": {
+      "include": [
+        "poco x7 pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37846": {
+      "include": [
+        "poco x7 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37847": {
+      "include": [
+        "poco x7 pro",
+        "12/512",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "37848": {
+      "include": [
+        "poco x7 pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "38783": {
+      "include": [
+        "poco f7 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38784": {
+      "include": [
+        "poco f7 pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38785": {
+      "include": [
+        "poco f7 pro",
+        "12/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38789": {
+      "include": [
+        "poco f7 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38790": {
+      "include": [
+        "poco f7 pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38791": {
+      "include": [
+        "poco f7 pro",
+        "12/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38774": {
+      "include": [
+        "poco f7 ultra",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38776": {
+      "include": [
+        "poco f7 ultra",
+        "12/256",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "38779": {
+      "include": [
+        "poco f7 ultra",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38780": {
+      "include": [
+        "poco f7 ultra",
+        "12/512",
+        "yellow"
+      ],
+      "exclude": []
+    },
+    "28030": {
+      "include": [
+        "redmi 12 4/128 black"
+      ],
+      "exclude": []
+    },
+    "28036": {
+      "include": [
+        "redmi 12 4/128 silver"
+      ],
+      "exclude": []
+    },
+    "28033": {
+      "include": [
+        "redmi 12 4/128 blue"
+      ],
+      "exclude": []
+    },
+    "28031": {
+      "include": [
+        "redmi 12 8/128 black"
+      ],
+      "exclude": []
+    },
+    "28037": {
+      "include": [
+        "redmi 12 8/128 silver"
+      ],
+      "exclude": []
+    },
+    "28034": {
+      "include": [
+        "redmi 12 8/128 blue"
+      ],
+      "exclude": []
+    },
+    "28032": {
+      "include": [
+        "redmi 12 8/256 black"
+      ],
+      "exclude": []
+    },
+    "28038": {
+      "include": [
+        "redmi 12 8/256 silver"
+      ],
+      "exclude": []
+    },
+    "28035": {
+      "include": [
+        "redmi 12 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "30886": {
+      "include": [
+        "redmi 13c 4/128 green"
+      ],
+      "exclude": []
+    },
+    "30883": {
+      "include": [
+        "redmi 13c 4/128 white"
+      ],
+      "exclude": []
+    },
+    "30877": {
+      "include": [
+        "redmi 13c 4/128 black"
+      ],
+      "exclude": []
+    },
+    "30880": {
+      "include": [
+        "redmi 13c 4/128 blue"
+      ],
+      "exclude": []
+    },
+    "30887": {
+      "include": [
+        "redmi 13c 6/128 green"
+      ],
+      "exclude": []
+    },
+    "30884": {
+      "include": [
+        "redmi 13c 6/128 white"
+      ],
+      "exclude": []
+    },
+    "30878": {
+      "include": [
+        "redmi 13c 6/128 black"
+      ],
+      "exclude": []
+    },
+    "30881": {
+      "include": [
+        "redmi 13c 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "30888": {
+      "include": [
+        "redmi 13c 8/128 green"
+      ],
+      "exclude": []
+    },
+    "30885": {
+      "include": [
+        "redmi 13c 8/128 white"
+      ],
+      "exclude": []
+    },
+    "30879": {
+      "include": [
+        "redmi 13c 8/128 black"
+      ],
+      "exclude": []
+    },
+    "30882": {
+      "include": [
+        "redmi 13c 8/128 blue"
+      ],
+      "exclude": []
+    },
+    "30907": {
+      "include": [
+        "redmi 13c 8/256 green"
+      ],
+      "exclude": []
+    },
+    "30908": {
+      "include": [
+        "redmi 13c 8/256 white"
+      ],
+      "exclude": []
+    },
+    "30909": {
+      "include": [
+        "redmi 13c 8/256 black"
+      ],
+      "exclude": []
+    },
+    "30910": {
+      "include": [
+        "redmi 13c 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "35716": {
+      "include": [
+        "redmi a3 3/64 blue"
+      ],
+      "exclude": []
+    },
+    "35713": {
+      "include": [
+        "redmi a3 3/64 black"
+      ],
+      "exclude": []
+    },
+    "35719": {
+      "include": [
+        "redmi a3 3/64 green"
+      ],
+      "exclude": []
+    },
+    "35717": {
+      "include": [
+        "redmi a3 4/128 blue"
+      ],
+      "exclude": []
+    },
+    "35714": {
+      "include": [
+        "redmi a3 4/128 black"
+      ],
+      "exclude": []
+    },
+    "35720": {
+      "include": [
+        "redmi a3 4/128 green"
+      ],
+      "exclude": []
+    },
+    "35718": {
+      "include": [
+        "redmi a3 6/128 blue"
+      ],
+      "exclude": []
+    },
+    "35715": {
+      "include": [
+        "redmi a3 6/128 black"
+      ],
+      "exclude": []
+    },
+    "35721": {
+      "include": [
+        "redmi a3 6/128 green"
+      ],
+      "exclude": []
+    },
+    "30241": {
+      "include": [
+        "note 13 pro +",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "30250": {
+      "include": [
+        "note 13 pro +",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "30247": {
+      "include": [
+        "note 13 pro +",
+        "12/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "30244": {
+      "include": [
+        "note 13 pro +",
+        "12/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "30242": {
+      "include": [
+        "note 13 pro +",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "30251": {
+      "include": [
+        "note 13 pro +",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "30248": {
+      "include": [
+        "note 13 pro +",
+        "12/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "30245": {
+      "include": [
+        "note 13 pro +",
+        "12/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "30243": {
+      "include": [
+        "note 13 pro +",
+        "16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "30252": {
+      "include": [
+        "note 13 pro +",
+        "16/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "30249": {
+      "include": [
+        "note 13 pro +",
+        "16/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "30246": {
+      "include": [
+        "note 13 pro +",
+        "16/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "34404": {
+      "include": [
+        "note 13 pro +",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "34405": {
+      "include": [
+        "note 13 pro +",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "34406": {
+      "include": [
+        "note 13 pro +",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "34407": {
+      "include": [
+        "note 13 pro +",
+        "8/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "30223": {
+      "include": [
+        "note 13 pro",
+        "12/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30236": {
+      "include": [
+        "note 13 pro",
+        "12/256",
+        "green",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30231": {
+      "include": [
+        "note 13 pro",
+        "12/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30226": {
+      "include": [
+        "note 13 pro",
+        "12/256",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30224": {
+      "include": [
+        "note 13 pro",
+        "12/512",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30237": {
+      "include": [
+        "note 13 pro",
+        "12/512",
+        "green",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30232": {
+      "include": [
+        "note 13 pro",
+        "12/512",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30227": {
+      "include": [
+        "note 13 pro",
+        "12/512",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30225": {
+      "include": [
+        "note 13 pro",
+        "16/512",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30238": {
+      "include": [
+        "note 13 pro",
+        "16/512",
+        "green",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30233": {
+      "include": [
+        "note 13 pro",
+        "16/512",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30228": {
+      "include": [
+        "note 13 pro",
+        "16/512",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30221": {
+      "include": [
+        "note 13 pro",
+        "8/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30239": {
+      "include": [
+        "note 13 pro",
+        "8/128",
+        "green",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30234": {
+      "include": [
+        "note 13 pro",
+        "8/128",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30229": {
+      "include": [
+        "note 13 pro",
+        "8/128",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30222": {
+      "include": [
+        "note 13 pro",
+        "8/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30240": {
+      "include": [
+        "note 13 pro",
+        "8/256",
+        "green",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30235": {
+      "include": [
+        "note 13 pro",
+        "8/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "30230": {
+      "include": [
+        "note 13 pro",
+        "8/256",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro +"
+      ]
+    },
+    "36779": {
+      "include": [
+        "note 13 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "36780": {
+      "include": [
+        "note 13 pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "36781": {
+      "include": [
+        "note 13 pro",
+        "12/256",
+        "purple"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "31140": {
+      "include": [
+        "note 13 pro",
+        "12/512",
+        "purple"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "31139": {
+      "include": [
+        "note 13 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "31141": {
+      "include": [
+        "note 13 pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "31136": {
+      "include": [
+        "note 13 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "31138": {
+      "include": [
+        "note 13 pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "31137": {
+      "include": [
+        "note 13 pro",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "36776": {
+      "include": [
+        "note 13 pro",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "36777": {
+      "include": [
+        "note 13 pro",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "36778": {
+      "include": [
+        "note 13 pro",
+        "8/128",
+        "purple"
+      ],
+      "exclude": [
+        "note 13 pro +",
+        "5g"
+      ]
+    },
+    "30212": {
+      "include": [
+        "note 13 ",
+        "12/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30217": {
+      "include": [
+        "note 13 ",
+        "12/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30213": {
+      "include": [
+        "note 13 ",
+        "12/256",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30209": {
+      "include": [
+        "note 13 ",
+        "6/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30218": {
+      "include": [
+        "note 13 ",
+        "6/128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30214": {
+      "include": [
+        "note 13 ",
+        "6/128",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30210": {
+      "include": [
+        "note 13 ",
+        "8/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30219": {
+      "include": [
+        "note 13 ",
+        "8/128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30215": {
+      "include": [
+        "note 13 ",
+        "8/128",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30211": {
+      "include": [
+        "note 13 ",
+        "8/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30220": {
+      "include": [
+        "note 13 ",
+        "8/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "30216": {
+      "include": [
+        "note 13 ",
+        "8/256",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "note 13 pro"
+      ]
+    },
+    "35935": {
+      "include": [
+        "note 13 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "35939": {
+      "include": [
+        "note 13 ",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36390": {
+      "include": [
+        "note 13 ",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36392": {
+      "include": [
+        "note 13 ",
+        "8/128",
+        "sunset"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "35937": {
+      "include": [
+        "note 13 ",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "35938": {
+      "include": [
+        "note 13 ",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36400": {
+      "include": [
+        "note 13 ",
+        "12/256",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36399": {
+      "include": [
+        "note 13 ",
+        "12/256",
+        "sunset"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36395": {
+      "include": [
+        "note 13 ",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36396": {
+      "include": [
+        "note 13 ",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36397": {
+      "include": [
+        "note 13 ",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36398": {
+      "include": [
+        "note 13 ",
+        "6/128",
+        "sunset"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "35936": {
+      "include": [
+        "note 13 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "35940": {
+      "include": [
+        "note 13 ",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36393": {
+      "include": [
+        "note 13 ",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "36394": {
+      "include": [
+        "note 13 ",
+        "8/256",
+        "sunset"
+      ],
+      "exclude": [
+        "note 13 pro",
+        "5g"
+      ]
+    },
+    "38796": {
+      "include": [
+        "note 14s",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "38797": {
+      "include": [
+        "note 14s",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38798": {
+      "include": [
+        "note 14s",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38920": {
+      "include": [
+        "note 14s",
+        "12/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "38921": {
+      "include": [
+        "note 14s",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38922": {
+      "include": [
+        "note 14s",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "38914": {
+      "include": [
+        "note 14s",
+        "8/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "38915": {
+      "include": [
+        "note 14s",
+        "8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38916": {
+      "include": [
+        "note 14s",
+        "8/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37479": {
+      "include": [
+        "note 14 pro +",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37480": {
+      "include": [
+        "note 14 pro +",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37481": {
+      "include": [
+        "note 14 pro +",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37059": {
+      "include": [
+        "note 14 pro +",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37060": {
+      "include": [
+        "note 14 pro +",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37061": {
+      "include": [
+        "note 14 pro +",
+        "12/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37068": {
+      "include": [
+        "note 14 pro +",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37069": {
+      "include": [
+        "note 14 pro +",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37070": {
+      "include": [
+        "note 14 pro +",
+        "12/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37065": {
+      "include": [
+        "note 14 pro +",
+        "16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37066": {
+      "include": [
+        "note 14 pro +",
+        "16/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37067": {
+      "include": [
+        "note 14 pro +",
+        "16/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37043": {
+      "include": [
+        "note 14 pro",
+        "8/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37046": {
+      "include": [
+        "note 14 pro",
+        "8/128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37045": {
+      "include": [
+        "note 14 pro",
+        "8/128",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37047": {
+      "include": [
+        "note 14 pro",
+        "8/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37048": {
+      "include": [
+        "note 14 pro",
+        "8/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37049": {
+      "include": [
+        "note 14 pro",
+        "8/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37051": {
+      "include": [
+        "note 14 pro",
+        "12/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37052": {
+      "include": [
+        "note 14 pro",
+        "12/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37053": {
+      "include": [
+        "note 14 pro",
+        "12/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37055": {
+      "include": [
+        "note 14 pro",
+        "12/512",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37056": {
+      "include": [
+        "note 14 pro",
+        "12/512",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37057": {
+      "include": [
+        "note 14 pro",
+        "12/512",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro +"
+      ]
+    },
+    "37686": {
+      "include": [
+        "note 14",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37697": {
+      "include": [
+        "note 14",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37687": {
+      "include": [
+        "note 14",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37688": {
+      "include": [
+        "note 14",
+        "6/128",
+        "purple"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37689": {
+      "include": [
+        "note 14",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37698": {
+      "include": [
+        "note 14",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37690": {
+      "include": [
+        "note 14",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37691": {
+      "include": [
+        "note 14",
+        "8/128",
+        "purple"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37699": {
+      "include": [
+        "note 14",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37692": {
+      "include": [
+        "note 14",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37693": {
+      "include": [
+        "note 14",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37694": {
+      "include": [
+        "note 14",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "5g",
+        "14s"
+      ]
+    },
+    "37032": {
+      "include": [
+        "note 14",
+        "6/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37033": {
+      "include": [
+        "note 14",
+        "6/128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37031": {
+      "include": [
+        "note 14",
+        "6/128",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37034": {
+      "include": [
+        "note 14",
+        "8/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37035": {
+      "include": [
+        "note 14",
+        "8/128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37036": {
+      "include": [
+        "note 14",
+        "8/128",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37037": {
+      "include": [
+        "note 14",
+        "8/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37038": {
+      "include": [
+        "note 14",
+        "8/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37039": {
+      "include": [
+        "note 14",
+        "8/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37040": {
+      "include": [
+        "note 14",
+        "12/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37041": {
+      "include": [
+        "note 14",
+        "12/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37042": {
+      "include": [
+        "note 14",
+        "12/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "note 14 pro",
+        "14s"
+      ]
+    },
+    "37675": {
+      "include": [
+        "note 14 pro",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37676": {
+      "include": [
+        "note 14 pro",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37677": {
+      "include": [
+        "note 14 pro",
+        "8/128",
+        "purple"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37679": {
+      "include": [
+        "note 14 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37680": {
+      "include": [
+        "note 14 pro",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37739": {
+      "include": [
+        "note 14 pro",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37667": {
+      "include": [
+        "note 14 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37668": {
+      "include": [
+        "note 14 pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37669": {
+      "include": [
+        "note 14 pro",
+        "12/256",
+        "purple"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37671": {
+      "include": [
+        "note 14 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37672": {
+      "include": [
+        "note 14 pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "37673": {
+      "include": [
+        "note 14 pro",
+        "12/512",
+        "purple"
+      ],
+      "exclude": [
+        "note 14 pro +",
+        "5g"
+      ]
+    },
+    "30889": {
+      "include": [
+        "note 13r pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "30891": {
+      "include": [
+        "note 13r pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "30890": {
+      "include": [
+        "note 13r pro",
+        "12/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "28483": {
+      "include": [
+        "mi 13t",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "28484": {
+      "include": [
+        "mi 13t",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "28485": {
+      "include": [
+        "mi 13t",
+        "12/256",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "28486": {
+      "include": [
+        "mi 13t",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "28487": {
+      "include": [
+        "mi 13t",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "28488": {
+      "include": [
+        "mi 13t",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "28489": {
+      "include": [
+        "mi 13t pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "28490": {
+      "include": [
+        "mi 13t pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "28491": {
+      "include": [
+        "mi 13t pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "28492": {
+      "include": [
+        "mi 13t pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "28493": {
+      "include": [
+        "mi 13t pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "28494": {
+      "include": [
+        "mi 13t pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "28495": {
+      "include": [
+        "mi 13t pro",
+        "16/1tb",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "28496": {
+      "include": [
+        "mi 13t pro",
+        "16/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "28497": {
+      "include": [
+        "mi 13t pro",
+        "16/1tb",
+        "green"
+      ],
+      "exclude": []
+    },
+    "30582": {
+      "include": [
+        "mi 14 12/256 black"
+      ],
+      "exclude": []
+    },
+    "30593": {
+      "include": [
+        "mi 14 12/256 green"
+      ],
+      "exclude": []
+    },
+    "30589": {
+      "include": [
+        "mi 14 12/256 pink"
+      ],
+      "exclude": []
+    },
+    "30585": {
+      "include": [
+        "mi 14 12/256 silver"
+      ],
+      "exclude": []
+    },
+    "35770": {
+      "include": [
+        "mi 14 12/512 black"
+      ],
+      "exclude": []
+    },
+    "35771": {
+      "include": [
+        "mi 14 12/512 green"
+      ],
+      "exclude": []
+    },
+    "35772": {
+      "include": [
+        "mi 14 12/512 pink"
+      ],
+      "exclude": []
+    },
+    "35773": {
+      "include": [
+        "mi 14 12/512 silver"
+      ],
+      "exclude": []
+    },
+    "30583": {
+      "include": [
+        "mi 14 16/512 black"
+      ],
+      "exclude": []
+    },
+    "30595": {
+      "include": [
+        "mi 14 16/512 green"
+      ],
+      "exclude": []
+    },
+    "30591": {
+      "include": [
+        "mi 14 16/512 pink"
+      ],
+      "exclude": []
+    },
+    "30587": {
+      "include": [
+        "mi 14 16/512 silver"
+      ],
+      "exclude": []
+    },
+    "30581": {
+      "include": [
+        "mi 14 8/256 black"
+      ],
+      "exclude": []
+    },
+    "30596": {
+      "include": [
+        "mi 14 8/256 green"
+      ],
+      "exclude": []
+    },
+    "30592": {
+      "include": [
+        "mi 14 8/256 pink"
+      ],
+      "exclude": []
+    },
+    "30588": {
+      "include": [
+        "mi 14 8/256 silver"
+      ],
+      "exclude": []
+    },
+    "30597": {
+      "include": [
+        "mi 14 pro 12/256 black"
+      ],
+      "exclude": []
+    },
+    "30603": {
+      "include": [
+        "mi 14 pro 12/256 green"
+      ],
+      "exclude": []
+    },
+    "30600": {
+      "include": [
+        "mi 14 pro 12/256 silver"
+      ],
+      "exclude": []
+    },
+    "30606": {
+      "include": [
+        "mi 14 pro 12/256 titan"
+      ],
+      "exclude": []
+    },
+    "30599": {
+      "include": [
+        "mi 14 pro 16/1tb black"
+      ],
+      "exclude": []
+    },
+    "30604": {
+      "include": [
+        "mi 14 pro 16/1tb green"
+      ],
+      "exclude": []
+    },
+    "30601": {
+      "include": [
+        "mi 14 pro 16/1tb silver"
+      ],
+      "exclude": []
+    },
+    "30607": {
+      "include": [
+        "mi 14 pro 16/1tb titan"
+      ],
+      "exclude": []
+    },
+    "30598": {
+      "include": [
+        "mi 14 pro 16/512 black"
+      ],
+      "exclude": []
+    },
+    "30605": {
+      "include": [
+        "mi 14 pro 16/512 green"
+      ],
+      "exclude": []
+    },
+    "30602": {
+      "include": [
+        "mi 14 pro 16/512 silver"
+      ],
+      "exclude": []
+    },
+    "30608": {
+      "include": [
+        "mi 14 pro 16/512 titan"
+      ],
+      "exclude": []
+    },
+    "35847": {
+      "include": [
+        "mi 14 ultra 12/256 black"
+      ],
+      "exclude": []
+    },
+    "35850": {
+      "include": [
+        "mi 14 ultra 12/256 blue"
+      ],
+      "exclude": []
+    },
+    "35853": {
+      "include": [
+        "mi 14 ultra 12/256 titan gray"
+      ],
+      "exclude": []
+    },
+    "35856": {
+      "include": [
+        "mi 14 ultra 12/256 white"
+      ],
+      "exclude": []
+    },
+    "35849": {
+      "include": [
+        "mi 14 ultra 16/1tb black"
+      ],
+      "exclude": []
+    },
+    "35851": {
+      "include": [
+        "mi 14 ultra 16/1tb blue"
+      ],
+      "exclude": []
+    },
+    "35854": {
+      "include": [
+        "mi 14 ultra 16/1tb titan gray"
+      ],
+      "exclude": []
+    },
+    "35857": {
+      "include": [
+        "mi 14 ultra 16/1tb white"
+      ],
+      "exclude": []
+    },
+    "35848": {
+      "include": [
+        "mi 14 ultra 16/512 black"
+      ],
+      "exclude": []
+    },
+    "35852": {
+      "include": [
+        "mi 14 ultra 16/512 blue"
+      ],
+      "exclude": []
+    },
+    "35855": {
+      "include": [
+        "mi 14 ultra 16/512 titan gray"
+      ],
+      "exclude": []
+    },
+    "35858": {
+      "include": [
+        "mi 14 ultra 16/512 white"
+      ],
+      "exclude": []
+    },
+    "37074": {
+      "include": [
+        "mi 14t 12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37072": {
+      "include": [
+        "mi 14t 12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37071": {
+      "include": [
+        "mi 14t 12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37073": {
+      "include": [
+        "mi 14t 12/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "37075": {
+      "include": [
+        "mi 14t 12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37076": {
+      "include": [
+        "mi 14t 12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37077": {
+      "include": [
+        "mi 14t 12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37078": {
+      "include": [
+        "mi 14t 12/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "37079": {
+      "include": [
+        "mi 14t 16/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37080": {
+      "include": [
+        "mi 14t 16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37081": {
+      "include": [
+        "mi 14t 16/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37082": {
+      "include": [
+        "mi 14t 16/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "37093": {
+      "include": [
+        "mi 14t pro 12/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37094": {
+      "include": [
+        "mi 14t pro 12/1tb",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37095": {
+      "include": [
+        "mi 14t pro 12/1tb",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "37084": {
+      "include": [
+        "mi 14t pro 12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37085": {
+      "include": [
+        "mi 14t pro 12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37086": {
+      "include": [
+        "mi 14t pro 12/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "37087": {
+      "include": [
+        "mi 14t pro 12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37088": {
+      "include": [
+        "mi 14t pro 12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37089": {
+      "include": [
+        "mi 14t pro 12/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "37090": {
+      "include": [
+        "mi 14t pro 16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37091": {
+      "include": [
+        "mi 14t pro 16/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37092": {
+      "include": [
+        "mi 14t pro 16/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "38447": {
+      "include": [
+        "mi 15 ultra 12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38448": {
+      "include": [
+        "mi 15 ultra 12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "38449": {
+      "include": [
+        "mi 15 ultra 12/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38450": {
+      "include": [
+        "mi 15 ultra 12/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "38463": {
+      "include": [
+        "mi 15 ultra 16/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38464": {
+      "include": [
+        "mi 15 ultra 16/1tb",
+        "green"
+      ],
+      "exclude": []
+    },
+    "38465": {
+      "include": [
+        "mi 15 ultra 16/1tb",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38466": {
+      "include": [
+        "mi 15 ultra 16/1tb",
+        "white"
+      ],
+      "exclude": []
+    },
+    "38455": {
+      "include": [
+        "mi 15 ultra 16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "38456": {
+      "include": [
+        "mi 15 ultra 16/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "38457": {
+      "include": [
+        "mi 15 ultra 16/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "38458": {
+      "include": [
+        "mi 15 ultra 16/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "37410": {
+      "include": [
+        "mi 15 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37413": {
+      "include": [
+        "mi 15 pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37412": {
+      "include": [
+        "mi 15 pro",
+        "12/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "37411": {
+      "include": [
+        "mi 15 pro",
+        "12/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "37418": {
+      "include": [
+        "mi 15 pro",
+        "12/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37419": {
+      "include": [
+        "mi 15 pro",
+        "12/1tb",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37420": {
+      "include": [
+        "mi 15 pro",
+        "12/1tb",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "37421": {
+      "include": [
+        "mi 15 pro",
+        "12/1tb",
+        "white"
+      ],
+      "exclude": []
+    },
+    "37414": {
+      "include": [
+        "mi 15 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37415": {
+      "include": [
+        "mi 15 pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37416": {
+      "include": [
+        "mi 15 pro",
+        "12/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "37417": {
+      "include": [
+        "mi 15 pro",
+        "12/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "37177": {
+      "include": [
+        "mi 15 ",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37186": {
+      "include": [
+        "mi 15 ",
+        "12/256",
+        "green"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37189": {
+      "include": [
+        "mi 15 ",
+        "12/256",
+        "lilac"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37184": {
+      "include": [
+        "mi 15 ",
+        "12/256",
+        "silver"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37185": {
+      "include": [
+        "mi 15 ",
+        "12/256",
+        "white"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37187": {
+      "include": [
+        "mi 15 ",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37191": {
+      "include": [
+        "mi 15 ",
+        "12/512",
+        "green"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37192": {
+      "include": [
+        "mi 15 ",
+        "12/512",
+        "lilac"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37193": {
+      "include": [
+        "mi 15 ",
+        "12/512",
+        "silver"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37194": {
+      "include": [
+        "mi 15 ",
+        "12/512",
+        "white"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37190": {
+      "include": [
+        "mi 15 ",
+        "16/1tb",
+        "black"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37196": {
+      "include": [
+        "mi 15 ",
+        "16/1tb",
+        "green"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37198": {
+      "include": [
+        "mi 15 ",
+        "16/1tb",
+        "lilac"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37200": {
+      "include": [
+        "mi 15 ",
+        "16/1tb",
+        "silver"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37202": {
+      "include": [
+        "mi 15 ",
+        "16/1tb",
+        "white"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37188": {
+      "include": [
+        "mi 15 ",
+        "16/512",
+        "black"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37195": {
+      "include": [
+        "mi 15 ",
+        "16/512",
+        "green"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37197": {
+      "include": [
+        "mi 15 ",
+        "16/512",
+        "lilac"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37199": {
+      "include": [
+        "mi 15 ",
+        "16/512",
+        "silver"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37201": {
+      "include": [
+        "mi 15 ",
+        "16/512",
+        "white"
+      ],
+      "exclude": [
+        "mi 15 pro",
+        "mi 15 ultra"
+      ]
+    },
+    "37117": {
+      "include": [
+        "poco pad ",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "m1",
+        "x1"
+      ]
+    },
+    "37120": {
+      "include": [
+        "poco pad ",
+        "8/128",
+        "gray"
+      ],
+      "exclude": [
+        "m1",
+        "x1"
+      ]
+    },
+    "37119": {
+      "include": [
+        "poco pad ",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "m1",
+        "x1"
+      ]
+    },
+    "37118": {
+      "include": [
+        "poco pad ",
+        "8/256",
+        "gray"
+      ],
+      "exclude": [
+        "m1",
+        "x1"
+      ]
+    },
+    "30200": {
+      "include": [
+        "pad se ",
+        "4/128",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30203": {
+      "include": [
+        "pad se ",
+        "4/128",
+        "purple"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30206": {
+      "include": [
+        "pad se ",
+        "4/128",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30201": {
+      "include": [
+        "pad se ",
+        "6/128",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30204": {
+      "include": [
+        "pad se ",
+        "6/128",
+        "purple"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30207": {
+      "include": [
+        "pad se ",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30202": {
+      "include": [
+        "pad se ",
+        "8/128",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30205": {
+      "include": [
+        "pad se ",
+        "8/128",
+        "purple"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30208": {
+      "include": [
+        "pad se ",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30966": {
+      "include": [
+        "pad se ",
+        "8/256",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30967": {
+      "include": [
+        "pad se ",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "30968": {
+      "include": [
+        "pad se ",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "8.7"
+      ]
+    },
+    "27380": {
+      "include": [
+        "mi pad 6 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "27382": {
+      "include": [
+        "mi pad 6 pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "27386": {
+      "include": [
+        "mi pad 6 pro",
+        "12/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "27381": {
+      "include": [
+        "mi pad 6 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "27383": {
+      "include": [
+        "mi pad 6 pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "27387": {
+      "include": [
+        "mi pad 6 pro",
+        "12/512",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "36273": {
+      "include": [
+        "mi pad 6 pro",
+        "6/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "36272": {
+      "include": [
+        "mi pad 6 pro",
+        "6/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "36274": {
+      "include": [
+        "mi pad 6 pro",
+        "6/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "27378": {
+      "include": [
+        "mi pad 6 pro",
+        "8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36278": {
+      "include": [
+        "mi pad 6 pro",
+        "8/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "36279": {
+      "include": [
+        "mi pad 6 pro",
+        "8/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "27388": {
+      "include": [
+        "mi pad 6 pro",
+        "8/128",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "36280": {
+      "include": [
+        "mi pad 6 pro",
+        "8/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "27379": {
+      "include": [
+        "mi pad 6 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36281": {
+      "include": [
+        "mi pad 6 pro",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "36282": {
+      "include": [
+        "mi pad 6 pro",
+        "8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "27389": {
+      "include": [
+        "mi pad 6 pro",
+        "8/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "36283": {
+      "include": [
+        "mi pad 6 pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "35891": {
+      "include": [
+        "mi pad 6s pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "35894": {
+      "include": [
+        "mi pad 6s pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "35898": {
+      "include": [
+        "mi pad 6s pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "35892": {
+      "include": [
+        "mi pad 6s pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "35895": {
+      "include": [
+        "mi pad 6s pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "35899": {
+      "include": [
+        "mi pad 6s pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "35893": {
+      "include": [
+        "mi pad 6s pro",
+        "16/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "35896": {
+      "include": [
+        "mi pad 6s pro",
+        "16/1tb",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "35900": {
+      "include": [
+        "mi pad 6s pro",
+        "16/1tb",
+        "green"
+      ],
+      "exclude": []
+    },
+    "35890": {
+      "include": [
+        "mi pad 6s pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "35897": {
+      "include": [
+        "mi pad 6s pro",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "35901": {
+      "include": [
+        "mi pad 6s pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "36687": {
+      "include": [
+        "redmi pad pro",
+        "6/128",
+        "gray"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36747": {
+      "include": [
+        "redmi pad pro",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36748": {
+      "include": [
+        "redmi pad pro",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36750": {
+      "include": [
+        "redmi pad pro",
+        "8/128",
+        "gray"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36749": {
+      "include": [
+        "redmi pad pro",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36751": {
+      "include": [
+        "redmi pad pro",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36753": {
+      "include": [
+        "redmi pad pro",
+        "8/256",
+        "gray"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36752": {
+      "include": [
+        "redmi pad pro",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "36754": {
+      "include": [
+        "redmi pad pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "redmi pad pro 2"
+      ]
+    },
+    "27369": {
+      "include": [
+        "mi pad 6 ",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27372": {
+      "include": [
+        "mi pad 6 ",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27375": {
+      "include": [
+        "mi pad 6 ",
+        "6/128",
+        "gold"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27370": {
+      "include": [
+        "mi pad 6 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27373": {
+      "include": [
+        "mi pad 6 ",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27376": {
+      "include": [
+        "mi pad 6 ",
+        "8/128",
+        "gold"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27371": {
+      "include": [
+        "mi pad 6 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27374": {
+      "include": [
+        "mi pad 6 ",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "27377": {
+      "include": [
+        "mi pad 6 ",
+        "8/256",
+        "gold"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37428": {
+      "include": [
+        "mi pad 7 ",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37429": {
+      "include": [
+        "mi pad 7 ",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37430": {
+      "include": [
+        "mi pad 7 ",
+        "12/256",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37423": {
+      "include": [
+        "mi pad 7 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37422": {
+      "include": [
+        "mi pad 7 ",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37424": {
+      "include": [
+        "mi pad 7 ",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37425": {
+      "include": [
+        "mi pad 7 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37426": {
+      "include": [
+        "mi pad 7 ",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37427": {
+      "include": [
+        "mi pad 7 ",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "37437": {
+      "include": [
+        "mi pad 7 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37438": {
+      "include": [
+        "mi pad 7 pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37439": {
+      "include": [
+        "mi pad 7 pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37440": {
+      "include": [
+        "mi pad 7 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37441": {
+      "include": [
+        "mi pad 7 pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37442": {
+      "include": [
+        "mi pad 7 pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37431": {
+      "include": [
+        "mi pad 7 pro",
+        "8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37432": {
+      "include": [
+        "mi pad 7 pro",
+        "8/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37433": {
+      "include": [
+        "mi pad 7 pro",
+        "8/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37434": {
+      "include": [
+        "mi pad 7 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37435": {
+      "include": [
+        "mi pad 7 pro",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37436": {
+      "include": [
+        "mi pad 7 pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37099": {
+      "include": [
+        "redmi 14c 4/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37097": {
+      "include": [
+        "redmi 14c 4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37098": {
+      "include": [
+        "redmi 14c 4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37100": {
+      "include": [
+        "redmi 14c 4/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37113": {
+      "include": [
+        "redmi 14c 4/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37114": {
+      "include": [
+        "redmi 14c 4/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37115": {
+      "include": [
+        "redmi 14c 4/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37116": {
+      "include": [
+        "redmi 14c 4/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37101": {
+      "include": [
+        "redmi 14c 6/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37102": {
+      "include": [
+        "redmi 14c 6/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37103": {
+      "include": [
+        "redmi 14c 6/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37104": {
+      "include": [
+        "redmi 14c 6/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37105": {
+      "include": [
+        "redmi 14c 8/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37106": {
+      "include": [
+        "redmi 14c 8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37107": {
+      "include": [
+        "redmi 14c 8/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37108": {
+      "include": [
+        "redmi 14c 8/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "37109": {
+      "include": [
+        "redmi 14c 8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "37110": {
+      "include": [
+        "redmi 14c 8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "37111": {
+      "include": [
+        "redmi 14c 8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "37112": {
+      "include": [
+        "redmi 14c 8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "40311": {
+      "include": [
+        "redmi 15 ",
+        "6/128",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "40313": {
+      "include": [
+        "redmi 15 ",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "40312": {
+      "include": [
+        "redmi 15 ",
+        "6/128",
+        "gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "40310": {
+      "include": [
+        "redmi 15 ",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "40256": {
+      "include": [
+        "redmi 15 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "40309": {
+      "include": [
+        "redmi 15 ",
+        "8/256",
+        "gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "42323": {
+      "include": [
+        "redmi 15 ",
+        "8/128",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "42322": {
+      "include": [
+        "redmi 15 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "42324": {
+      "include": [
+        "redmi 15 ",
+        "8/128",
+        "gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "40305": {
+      "include": [
+        "redmi 15 ",
+        "4/128",
+        "green",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40258": {
+      "include": [
+        "redmi 15 ",
+        "4/128",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40304": {
+      "include": [
+        "redmi 15 ",
+        "4/128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40409": {
+      "include": [
+        "redmi 15 ",
+        "6/128",
+        "green",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40413": {
+      "include": [
+        "redmi 15 ",
+        "6/128",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40414": {
+      "include": [
+        "redmi 15 ",
+        "6/128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40410": {
+      "include": [
+        "redmi 15 ",
+        "8/256",
+        "green",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40412": {
+      "include": [
+        "redmi 15 ",
+        "8/256",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40415": {
+      "include": [
+        "redmi 15 ",
+        "8/256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "40299": {
+      "include": [
+        "redmi 15c",
+        "4/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "40298": {
+      "include": [
+        "redmi 15c",
+        "4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40297": {
+      "include": [
+        "redmi 15c",
+        "4/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "40302": {
+      "include": [
+        "redmi 15c",
+        "4/128",
+        "orange"
+      ],
+      "exclude": []
+    },
+    "40300": {
+      "include": [
+        "redmi 15c",
+        "4/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "40296": {
+      "include": [
+        "redmi 15c",
+        "4/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40295": {
+      "include": [
+        "redmi 15c",
+        "4/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "40301": {
+      "include": [
+        "redmi 15c",
+        "4/256",
+        "orange"
+      ],
+      "exclude": []
+    },
+    "36688": {
+      "include": [
+        "redmi 13 ",
+        "6/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36755": {
+      "include": [
+        "redmi 13 ",
+        "6/128",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "36756": {
+      "include": [
+        "redmi 13 ",
+        "6/128",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "36757": {
+      "include": [
+        "redmi 13 ",
+        "6/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "36758": {
+      "include": [
+        "redmi 13 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36761": {
+      "include": [
+        "redmi 13 ",
+        "8/128",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "36760": {
+      "include": [
+        "redmi 13 ",
+        "8/128",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "36759": {
+      "include": [
+        "redmi 13 ",
+        "8/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "36762": {
+      "include": [
+        "redmi 13 ",
+        "6/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36765": {
+      "include": [
+        "redmi 13 ",
+        "6/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "36764": {
+      "include": [
+        "redmi 13 ",
+        "6/256",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "36763": {
+      "include": [
+        "redmi 13 ",
+        "6/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "36766": {
+      "include": [
+        "redmi 13 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "36769": {
+      "include": [
+        "redmi 13 ",
+        "8/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "36768": {
+      "include": [
+        "redmi 13 ",
+        "8/256",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "36767": {
+      "include": [
+        "redmi 13 ",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "34433": {
+      "include": [
+        "redmi 13r",
+        "4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "34434": {
+      "include": [
+        "redmi 13r",
+        "4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "34435": {
+      "include": [
+        "redmi 13r",
+        "4/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "20761": {
+      "include": [
+        "mi mix 4 ",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "20762": {
+      "include": [
+        "mi mix 4 ",
+        "12/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "20763": {
+      "include": [
+        "mi mix 4 ",
+        "12/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "20764": {
+      "include": [
+        "mi mix 4 ",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "20765": {
+      "include": [
+        "mi mix 4 ",
+        "12/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "20766": {
+      "include": [
+        "mi mix 4 ",
+        "12/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "20751": {
+      "include": [
+        "mi mix 4 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "20754": {
+      "include": [
+        "mi mix 4 ",
+        "8/128",
+        "white"
+      ],
+      "exclude": []
+    },
+    "20755": {
+      "include": [
+        "mi mix 4 ",
+        "8/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "20758": {
+      "include": [
+        "mi mix 4 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "20759": {
+      "include": [
+        "mi mix 4 ",
+        "8/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "20760": {
+      "include": [
+        "mi mix 4 ",
+        "8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "37005": {
+      "include": [
+        "mix flip 12/256 black"
+      ],
+      "exclude": []
+    },
+    "37007": {
+      "include": [
+        "mix flip 12/256 purple"
+      ],
+      "exclude": []
+    },
+    "37006": {
+      "include": [
+        "mix flip 12/256 white"
+      ],
+      "exclude": []
+    },
+    "37008": {
+      "include": [
+        "mix flip 12/512 black"
+      ],
+      "exclude": []
+    },
+    "37009": {
+      "include": [
+        "mix flip 12/512 purple"
+      ],
+      "exclude": []
+    },
+    "37010": {
+      "include": [
+        "mix flip 12/512 white"
+      ],
+      "exclude": []
+    },
+    "37011": {
+      "include": [
+        "mix flip 16/1tb black"
+      ],
+      "exclude": []
+    },
+    "37012": {
+      "include": [
+        "mix flip 16/1tb purple"
+      ],
+      "exclude": []
+    },
+    "37013": {
+      "include": [
+        "mix flip 16/1tb white"
+      ],
+      "exclude": []
+    },
+    "36996": {
+      "include": [
+        "mix fold 4 12/256 black"
+      ],
+      "exclude": []
+    },
+    "36997": {
+      "include": [
+        "mix fold 4 12/256 blue"
+      ],
+      "exclude": []
+    },
+    "36998": {
+      "include": [
+        "mix fold 4 12/256 white"
+      ],
+      "exclude": []
+    },
+    "37002": {
+      "include": [
+        "mix fold 4 16/1tb black"
+      ],
+      "exclude": []
+    },
+    "37003": {
+      "include": [
+        "mix fold 4 16/1tb blue"
+      ],
+      "exclude": []
+    },
+    "37004": {
+      "include": [
+        "mix fold 4 16/1tb white"
+      ],
+      "exclude": []
+    },
+    "36999": {
+      "include": [
+        "mix fold 4 16/512 black"
+      ],
+      "exclude": []
+    },
+    "37000": {
+      "include": [
+        "mix fold 4 16/512 blue"
+      ],
+      "exclude": []
+    },
+    "37001": {
+      "include": [
+        "mix fold 4 16/512 white"
+      ],
+      "exclude": []
+    },
+    "27421": {
+      "include": [
+        "mi band 8 black"
+      ],
+      "exclude": []
+    },
+    "28469": {
+      "include": [
+        "mi tv a2 43 ultra"
+      ],
+      "exclude": []
+    },
+    "39769": {
+      "include": [
+        "mi 15s pro 16/1tb black"
+      ],
+      "exclude": []
+    },
+    "39771": {
+      "include": [
+        "mi 15s pro 16/1tb blue"
+      ],
+      "exclude": []
+    },
+    "39691": {
+      "include": [
+        "mi 15s pro 16/512 black"
+      ],
+      "exclude": []
+    },
+    "39767": {
+      "include": [
+        "mi 15s pro 16/512 blue"
+      ],
+      "exclude": []
+    },
+    "39780": {
+      "include": [
+        "mi pad 7 ultra 12/256 blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "39717": {
+      "include": [
+        "mi pad 7 ultra 12/256 gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "39784": {
+      "include": [
+        "mi pad 7 ultra 12/512 blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "39785": {
+      "include": [
+        "mi pad 7 ultra 12/512 gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "39790": {
+      "include": [
+        "mi pad 7 ultra 16/1tb blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "39791": {
+      "include": [
+        "mi pad 7 ultra 16/1tb gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "39709": {
+      "include": [
+        "redmi 13x 8/128 black"
+      ],
+      "exclude": []
+    },
+    "39775": {
+      "include": [
+        "redmi 13x 8/128 blue"
+      ],
+      "exclude": []
+    },
+    "39783": {
+      "include": [
+        "redmi 13x 8/128 gold"
+      ],
+      "exclude": []
+    },
+    "39773": {
+      "include": [
+        "redmi 13x 8/256 black"
+      ],
+      "exclude": []
+    },
+    "39777": {
+      "include": [
+        "redmi 13x 8/256 blue"
+      ],
+      "exclude": []
+    },
+    "39786": {
+      "include": [
+        "redmi 13x 8/256 gold"
+      ],
+      "exclude": []
+    },
+    "39739": {
+      "include": [
+        "redmi a5 ",
+        "3/64",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "39741": {
+      "include": [
+        "redmi a5 ",
+        "3/64",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "39740": {
+      "include": [
+        "redmi a5 ",
+        "3/64",
+        "green"
+      ],
+      "exclude": []
+    },
+    "39689": {
+      "include": [
+        "redmi a5 ",
+        "3/64",
+        "black"
+      ],
+      "exclude": []
+    },
+    "39743": {
+      "include": [
+        "redmi a5 ",
+        "4/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "39744": {
+      "include": [
+        "redmi a5 ",
+        "4/128",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "39746": {
+      "include": [
+        "redmi a5 ",
+        "4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "39748": {
+      "include": [
+        "redmi a5 ",
+        "4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "39750": {
+      "include": [
+        "redmi a5 ",
+        "6/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "39752": {
+      "include": [
+        "redmi a5 ",
+        "6/128",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "39754": {
+      "include": [
+        "redmi a5 ",
+        "6/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "39756": {
+      "include": [
+        "redmi a5 ",
+        "6/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "39714": {
+      "include": [
+        "redmi pad 2 ",
+        "4/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "39804": {
+      "include": [
+        "redmi pad 2 ",
+        "4/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "39792": {
+      "include": [
+        "redmi pad 2 ",
+        "4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "39797": {
+      "include": [
+        "redmi pad 2 ",
+        "6/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "39802": {
+      "include": [
+        "redmi pad 2 ",
+        "6/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "39794": {
+      "include": [
+        "redmi pad 2 ",
+        "6/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "39798": {
+      "include": [
+        "redmi pad 2 ",
+        "8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "39801": {
+      "include": [
+        "redmi pad 2 ",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "39795": {
+      "include": [
+        "redmi pad 2 ",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40133": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "40041": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40128": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40127": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40132": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/512",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "40123": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40129": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40126": {
+      "include": [
+        "mi mix flip 2 ",
+        "12/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40131": {
+      "include": [
+        "mi mix flip 2 ",
+        "16/1tb",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "40124": {
+      "include": [
+        "mi mix flip 2 ",
+        "16/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40130": {
+      "include": [
+        "mi mix flip 2 ",
+        "16/1tb",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40125": {
+      "include": [
+        "mi mix flip 2 ",
+        "16/1tb",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40169": {
+      "include": [
+        "mi pad 7s pro",
+        "12/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "40151": {
+      "include": [
+        "mi pad 7s pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40159": {
+      "include": [
+        "mi pad 7s pro",
+        "12/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40162": {
+      "include": [
+        "mi pad 7s pro",
+        "12/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "40168": {
+      "include": [
+        "mi pad 7s pro",
+        "12/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "40153": {
+      "include": [
+        "mi pad 7s pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40158": {
+      "include": [
+        "mi pad 7s pro",
+        "12/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40163": {
+      "include": [
+        "mi pad 7s pro",
+        "12/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "40166": {
+      "include": [
+        "mi pad 7s pro",
+        "16/1tb",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "40155": {
+      "include": [
+        "mi pad 7s pro",
+        "16/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40156": {
+      "include": [
+        "mi pad 7s pro",
+        "16/1tb",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40165": {
+      "include": [
+        "mi pad 7s pro",
+        "16/1tb",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "40167": {
+      "include": [
+        "mi pad 7s pro",
+        "16/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "40154": {
+      "include": [
+        "mi pad 7s pro",
+        "16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40157": {
+      "include": [
+        "mi pad 7s pro",
+        "16/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40164": {
+      "include": [
+        "mi pad 7s pro",
+        "16/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "40170": {
+      "include": [
+        "mi pad 7s pro",
+        "8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "40145": {
+      "include": [
+        "mi pad 7s pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40160": {
+      "include": [
+        "mi pad 7s pro",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40161": {
+      "include": [
+        "mi pad 7s pro",
+        "8/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "40148": {
+      "include": [
+        "poco f7",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40176": {
+      "include": [
+        "poco f7",
+        "12/256",
+        "silver"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40174": {
+      "include": [
+        "poco f7",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40175": {
+      "include": [
+        "poco f7",
+        "12/512",
+        "silver"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40394": {
+      "include": [
+        "poco m7",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "41164": {
+      "include": [
+        "poco m7",
+        "6/128",
+        "silver"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "41166": {
+      "include": [
+        "poco m7",
+        "8/256",
+        "silver"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "41165": {
+      "include": [
+        "poco m7",
+        "8/128",
+        "silver"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40397": {
+      "include": [
+        "poco m7",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "38854": {
+      "include": [
+        "poco m7",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "41161": {
+      "include": [
+        "poco m7",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "41160": {
+      "include": [
+        "poco m7",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40395": {
+      "include": [
+        "poco m7",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40396": {
+      "include": [
+        "poco m7",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40392": {
+      "include": [
+        "poco m7",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "pro",
+        "ultra"
+      ]
+    },
+    "40612": {
+      "include": [
+        "c85 ",
+        "6/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40689": {
+      "include": [
+        "c85 ",
+        "6/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40688": {
+      "include": [
+        "c85 ",
+        "6/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40686": {
+      "include": [
+        "c85 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40690": {
+      "include": [
+        "c85 ",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "40687": {
+      "include": [
+        "c85 ",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "40694": {
+      "include": [
+        "note 15",
+        "12/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "15s"
+      ]
+    },
+    "40702": {
+      "include": [
+        "note 15",
+        "12/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "15s"
+      ]
+    },
+    "40695": {
+      "include": [
+        "note 15",
+        "12/256",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40609": {
+      "include": [
+        "note 15",
+        "6/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40699": {
+      "include": [
+        "note 15",
+        "6/128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40698": {
+      "include": [
+        "note 15",
+        "6/128",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40692": {
+      "include": [
+        "note 15",
+        "8/128",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40700": {
+      "include": [
+        "note 15",
+        "8/128",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40697": {
+      "include": [
+        "note 15",
+        "8/128",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40693": {
+      "include": [
+        "note 15",
+        "8/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40701": {
+      "include": [
+        "note 15",
+        "8/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40696": {
+      "include": [
+        "note 15",
+        "8/256",
+        "white",
+        "5g"
+      ],
+      "exclude": [
+        "15s",
+        "note 15 pro"
+      ]
+    },
+    "40704": {
+      "include": [
+        "note 15 pro ",
+        "12/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40711": {
+      "include": [
+        "note 15 pro ",
+        "12/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40707": {
+      "include": [
+        "note 15 pro ",
+        "12/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40712": {
+      "include": [
+        "note 15 pro ",
+        "12/256",
+        "titan",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40705": {
+      "include": [
+        "note 15 pro ",
+        "12/512",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40721": {
+      "include": [
+        "note 15 pro ",
+        "12/512",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40706": {
+      "include": [
+        "note 15 pro ",
+        "12/512",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40713": {
+      "include": [
+        "note 15 pro ",
+        "12/512",
+        "titan",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40610": {
+      "include": [
+        "note 15 pro ",
+        "8/256",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40709": {
+      "include": [
+        "note 15 pro ",
+        "8/256",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40708": {
+      "include": [
+        "note 15 pro ",
+        "8/256",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40714": {
+      "include": [
+        "note 15 pro ",
+        "8/256",
+        "titan",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "42277": {
+      "include": [
+        "note 15 pro ",
+        "8/512",
+        "black",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "42278": {
+      "include": [
+        "note 15 pro ",
+        "8/512",
+        "blue",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "42279": {
+      "include": [
+        "note 15 pro ",
+        "8/512",
+        "purple",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "42280": {
+      "include": [
+        "note 15 pro ",
+        "8/512",
+        "titan",
+        "5g"
+      ],
+      "exclude": [
+        "pro +"
+      ]
+    },
+    "40611": {
+      "include": [
+        "note 15 pro +",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40723": {
+      "include": [
+        "note 15 pro +",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "40722": {
+      "include": [
+        "note 15 pro +",
+        "12/256",
+        "brown"
+      ],
+      "exclude": []
+    },
+    "40731": {
+      "include": [
+        "note 15 pro +",
+        "12/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "40716": {
+      "include": [
+        "note 15 pro +",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40724": {
+      "include": [
+        "note 15 pro +",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "40720": {
+      "include": [
+        "note 15 pro +",
+        "12/512",
+        "brown"
+      ],
+      "exclude": []
+    },
+    "40730": {
+      "include": [
+        "note 15 pro +",
+        "12/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "42285": {
+      "include": [
+        "note 15 pro +",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42286": {
+      "include": [
+        "note 15 pro +",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42287": {
+      "include": [
+        "note 15 pro +",
+        "8/256",
+        "brown"
+      ],
+      "exclude": []
+    },
+    "40726": {
+      "include": [
+        "note 15 pro +",
+        "16/1tb",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "40718": {
+      "include": [
+        "note 15 pro +",
+        "16/1tb",
+        "brown"
+      ],
+      "exclude": []
+    },
+    "40727": {
+      "include": [
+        "note 15 pro +",
+        "16/1tb",
+        "white"
+      ],
+      "exclude": []
+    },
+    "40717": {
+      "include": [
+        "note 15 pro +",
+        "16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "40725": {
+      "include": [
+        "note 15 pro +",
+        "16/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "40719": {
+      "include": [
+        "note 15 pro +",
+        "16/512",
+        "brown"
+      ],
+      "exclude": []
+    },
+    "40729": {
+      "include": [
+        "note 15 pro +",
+        "16/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "41003": {
+      "include": [
+        "mi 15t 12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41019": {
+      "include": [
+        "mi 15t 12/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41020": {
+      "include": [
+        "mi 15t 12/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "41017": {
+      "include": [
+        "mi 15t 12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41018": {
+      "include": [
+        "mi 15t 12/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41021": {
+      "include": [
+        "mi 15t 12/512",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "41005": {
+      "include": [
+        "mi 17 12/256",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41036": {
+      "include": [
+        "mi 17 12/256",
+        "blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41037": {
+      "include": [
+        "mi 17 12/256",
+        "pink"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41044": {
+      "include": [
+        "mi 17 12/256",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "42559": {
+      "include": [
+        "mi 17 16/1tb",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41032": {
+      "include": [
+        "mi 17 12/512",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41042": {
+      "include": [
+        "mi 17 12/512",
+        "blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41038": {
+      "include": [
+        "mi 17 12/512",
+        "pink"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41043": {
+      "include": [
+        "mi 17 12/512",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41033": {
+      "include": [
+        "mi 17 16/512",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41040": {
+      "include": [
+        "mi 17 16/512",
+        "blue"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41039": {
+      "include": [
+        "mi 17 16/512",
+        "pink"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41041": {
+      "include": [
+        "mi 17 16/512",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41006": {
+      "include": [
+        "mi 17 pro 12/256",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41061": {
+      "include": [
+        "mi 17 pro 12/256",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41053": {
+      "include": [
+        "mi 17 pro 12/256",
+        "purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41052": {
+      "include": [
+        "mi 17 pro 12/256",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41046": {
+      "include": [
+        "mi 17 pro 12/512",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41060": {
+      "include": [
+        "mi 17 pro 12/512",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41054": {
+      "include": [
+        "mi 17 pro 12/512",
+        "purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41051": {
+      "include": [
+        "mi 17 pro 12/512",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41048": {
+      "include": [
+        "mi 17 pro 16/1tb",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41058": {
+      "include": [
+        "mi 17 pro 16/1tb",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41056": {
+      "include": [
+        "mi 17 pro 16/1tb",
+        "purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41049": {
+      "include": [
+        "mi 17 pro 16/1tb",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41151": {
+      "include": [
+        "mi 17 pro 16/512",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41059": {
+      "include": [
+        "mi 17 pro 16/512",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41055": {
+      "include": [
+        "mi 17 pro 16/512",
+        "purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41050": {
+      "include": [
+        "mi 17 pro 16/512",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41007": {
+      "include": [
+        "mi 17 pro max 12/512",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41105": {
+      "include": [
+        "mi 17 pro max 12/512",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41100": {
+      "include": [
+        "mi 17 pro max 12/512",
+        "purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41099": {
+      "include": [
+        "mi 17 pro max 12/512",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41095": {
+      "include": [
+        "mi 17 pro max 16/1tb",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41103": {
+      "include": [
+        "mi 17 pro max 16/1tb",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41102": {
+      "include": [
+        "mi 17 pro max 16/1tb",
+        "purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41097": {
+      "include": [
+        "mi 17 pro max 16/1tb",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41094": {
+      "include": [
+        "mi 17 pro max 16/512",
+        "black"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41104": {
+      "include": [
+        "mi 17 pro max 16/512",
+        "green"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41101": {
+      "include": [
+        "mi 17 pro max 16/512",
+        "purple"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41098": {
+      "include": [
+        "mi 17 pro max 16/512",
+        "white"
+      ],
+      "exclude": [
+        "dual",
+        "🇨🇳"
+      ]
+    },
+    "41091": {
+      "include": [
+        "mi pad 8 12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41090": {
+      "include": [
+        "mi pad 8 12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41092": {
+      "include": [
+        "mi pad 8 12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41069": {
+      "include": [
+        "mi pad 8 8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41068": {
+      "include": [
+        "mi pad 8 8/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41074": {
+      "include": [
+        "mi pad 8 8/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41070": {
+      "include": [
+        "mi pad 8 8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41067": {
+      "include": [
+        "mi pad 8 8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41073": {
+      "include": [
+        "mi pad 8 8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41012": {
+      "include": [
+        "mi 8 pro 12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41082": {
+      "include": [
+        "mi pad 8 pro 12/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41087": {
+      "include": [
+        "mi pad 8 pro 12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41076": {
+      "include": [
+        "mi pad 8 pro 12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41083": {
+      "include": [
+        "mi pad 8 pro 12/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41086": {
+      "include": [
+        "mi pad 8 pro 12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41077": {
+      "include": [
+        "mi pad 8 pro 16/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41084": {
+      "include": [
+        "mi pad 8 pro 16/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41085": {
+      "include": [
+        "mi pad 8 pro 16/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41079": {
+      "include": [
+        "mi pad 8 pro 8/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41080": {
+      "include": [
+        "mi pad 8 pro 8/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41089": {
+      "include": [
+        "mi pad 8 pro 8/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41078": {
+      "include": [
+        "mi pad 8 pro 8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "41081": {
+      "include": [
+        "mi pad 8 pro 8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41088": {
+      "include": [
+        "mi pad 8 pro 8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "41024": {
+      "include": [
+        "mi 15t pro 12/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41025": {
+      "include": [
+        "mi 15t pro 12/1tb",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41022": {
+      "include": [
+        "mi 15t pro 12/1tb",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "41004": {
+      "include": [
+        "mi 15t pro 12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41027": {
+      "include": [
+        "mi 15t pro 12/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41028": {
+      "include": [
+        "mi 15t pro 12/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "41023": {
+      "include": [
+        "mi 15t pro 12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "41026": {
+      "include": [
+        "mi 15t pro 12/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "41030": {
+      "include": [
+        "mi 15t pro 12/512",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "41449": {
+      "include": [
+        "poco m7 pro",
+        "12/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "41446": {
+      "include": [
+        "poco m7 pro",
+        "12/512",
+        "lunar"
+      ],
+      "exclude": []
+    },
+    "41450": {
+      "include": [
+        "poco m7 pro",
+        "12/512",
+        "olive"
+      ],
+      "exclude": []
+    },
+    "41442": {
+      "include": [
+        "redmi 15c",
+        "8/256",
+        "gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "41440": {
+      "include": [
+        "redmi 15c",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "41438": {
+      "include": [
+        "redmi 15c",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "41436": {
+      "include": [
+        "redmi 15c",
+        "8/256",
+        "orange"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "42009": {
+      "include": [
+        "f8 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42029": {
+      "include": [
+        "f8 pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42041": {
+      "include": [
+        "f8 pro",
+        "12/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "42025": {
+      "include": [
+        "f8 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42028": {
+      "include": [
+        "f8 pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42027": {
+      "include": [
+        "f8 pro",
+        "12/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "42010": {
+      "include": [
+        "f8 ultra",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42033": {
+      "include": [
+        "f8 ultra",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42031": {
+      "include": [
+        "f8 ultra",
+        "16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42032": {
+      "include": [
+        "f8 ultra",
+        "16/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42040": {
+      "include": [
+        "poco pad",
+        "m1",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42035": {
+      "include": [
+        "poco pad",
+        "m1",
+        "8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42058": {
+      "include": [
+        "poco pad",
+        "x1",
+        "8/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42036": {
+      "include": [
+        "poco pad",
+        "x1",
+        "8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42057": {
+      "include": [
+        "poco pad",
+        "x1",
+        "8/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "42056": {
+      "include": [
+        "poco pad",
+        "x1",
+        "8/512",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "42130": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42234": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42214": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "purple",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42250": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "purple"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42209": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "green",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42245": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "green"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42208": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42244": {
+      "include": [
+        "mi 17 ultra",
+        "12/512",
+        "white"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42204": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42241": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "black"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42212": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "purple",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42248": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "purple"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42211": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "green",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42247": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "green"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42206": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42242": {
+      "include": [
+        "mi 17 ultra",
+        "16/1tb",
+        "white"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42203": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42240": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "black"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42213": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "purple",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42249": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "purple"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42210": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "green",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42246": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "green"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42207": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "42243": {
+      "include": [
+        "mi 17 ultra",
+        "16/512",
+        "white"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42216": {
+      "include": [
+        "poco m8 ",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42222": {
+      "include": [
+        "poco m8 ",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42223": {
+      "include": [
+        "poco m8 ",
+        "6/128",
+        "silver"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42217": {
+      "include": [
+        "poco m8 ",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42221": {
+      "include": [
+        "poco m8 ",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42224": {
+      "include": [
+        "poco m8 ",
+        "8/128",
+        "silver"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42131": {
+      "include": [
+        "poco m8 ",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42220": {
+      "include": [
+        "poco m8 ",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42225": {
+      "include": [
+        "poco m8 ",
+        "8/256",
+        "silver"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42218": {
+      "include": [
+        "poco m8 ",
+        "8/512",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42219": {
+      "include": [
+        "poco m8 ",
+        "8/512",
+        "green"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42226": {
+      "include": [
+        "poco m8 ",
+        "8/512",
+        "silver"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "42228": {
+      "include": [
+        "poco m8 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42229": {
+      "include": [
+        "poco m8 pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "42231": {
+      "include": [
+        "poco m8 pro",
+        "12/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "42133": {
+      "include": [
+        "poco m8 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42230": {
+      "include": [
+        "poco m8 pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "42232": {
+      "include": [
+        "poco m8 pro",
+        "8/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "42126": {
+      "include": [
+        "note 15",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42191": {
+      "include": [
+        "note 15",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42181": {
+      "include": [
+        "note 15",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42182": {
+      "include": [
+        "note 15",
+        "6/128",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42174": {
+      "include": [
+        "note 15",
+        "6/256",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42190": {
+      "include": [
+        "note 15",
+        "6/256",
+        "green"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42179": {
+      "include": [
+        "note 15",
+        "6/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42184": {
+      "include": [
+        "note 15",
+        "6/256",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42173": {
+      "include": [
+        "note 15",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42192": {
+      "include": [
+        "note 15",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42180": {
+      "include": [
+        "note 15",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42183": {
+      "include": [
+        "note 15",
+        "8/128",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42175": {
+      "include": [
+        "note 15",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42189": {
+      "include": [
+        "note 15",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42178": {
+      "include": [
+        "note 15",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42185": {
+      "include": [
+        "note 15",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42176": {
+      "include": [
+        "note 15",
+        "8/512",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42188": {
+      "include": [
+        "note 15",
+        "8/512",
+        "green"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42177": {
+      "include": [
+        "note 15",
+        "8/512",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42187": {
+      "include": [
+        "note 15",
+        "8/512",
+        "purple"
+      ],
+      "exclude": [
+        "5g",
+        "pro",
+        "15s",
+        "se"
+      ]
+    },
+    "42194": {
+      "include": [
+        "note 15 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42197": {
+      "include": [
+        "note 15 pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42200": {
+      "include": [
+        "note 15 pro",
+        "12/256",
+        "titan"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42195": {
+      "include": [
+        "note 15 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42196": {
+      "include": [
+        "note 15 pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42201": {
+      "include": [
+        "note 15 pro",
+        "12/512",
+        "titan"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42128": {
+      "include": [
+        "note 15 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42198": {
+      "include": [
+        "note 15 pro",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42199": {
+      "include": [
+        "note 15 pro",
+        "8/256",
+        "titan"
+      ],
+      "exclude": [
+        "5g",
+        "pro +"
+      ]
+    },
+    "42282": {
+      "include": [
+        "poco f7",
+        "12/512",
+        "white"
+      ],
+      "exclude": [
+        "ultra",
+        "pro"
+      ]
+    },
+    "42283": {
+      "include": [
+        "poco f7",
+        "12/256",
+        "white"
+      ],
+      "exclude": [
+        "ultra",
+        "pro"
+      ]
+    },
+    "42893": {
+      "include": [
+        "c85x",
+        "4/64",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42920": {
+      "include": [
+        "c85x",
+        "4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "42922": {
+      "include": [
+        "c85x",
+        "4/64",
+        "green"
+      ],
+      "exclude": []
+    },
+    "42921": {
+      "include": [
+        "c85x",
+        "4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "42923": {
+      "include": [
+        "c85x",
+        "4/64",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "42924": {
+      "include": [
+        "c85x",
+        "4/128",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "42910": {
+      "include": [
+        "poco x8 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43005": {
+      "include": [
+        "poco x8 pro",
+        "8/512",
+        "black"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43006": {
+      "include": [
+        "poco x8 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43009": {
+      "include": [
+        "poco x8 pro",
+        "8/256",
+        "white"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43008": {
+      "include": [
+        "poco x8 pro",
+        "8/512",
+        "white"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43007": {
+      "include": [
+        "poco x8 pro",
+        "12/512",
+        "white"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43010": {
+      "include": [
+        "poco x8 pro",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43011": {
+      "include": [
+        "poco x8 pro",
+        "8/512",
+        "green"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "43012": {
+      "include": [
+        "poco x8 pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": [
+        "max"
+      ]
+    },
+    "42914": {
+      "include": [
+        "poco x8 pro max",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43013": {
+      "include": [
+        "poco x8 pro max",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43015": {
+      "include": [
+        "poco x8 pro max",
+        "12/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "43014": {
+      "include": [
+        "poco x8 pro max",
+        "12/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "43016": {
+      "include": [
+        "poco x8 pro max",
+        "12/256",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43017": {
+      "include": [
+        "poco x8 pro max",
+        "12/512",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43059": {
+      "include": [
+        "redmi 15a",
+        "4/64",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43062": {
+      "include": [
+        "redmi 15a",
+        "4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43063": {
+      "include": [
+        "redmi 15a",
+        "6/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43066": {
+      "include": [
+        "redmi 15a",
+        "4/64",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43065": {
+      "include": [
+        "redmi 15a",
+        "4/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43064": {
+      "include": [
+        "redmi 15a",
+        "6/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43067": {
+      "include": [
+        "redmi 15a",
+        "4/64",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "43068": {
+      "include": [
+        "redmi 15a",
+        "4/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "43069": {
+      "include": [
+        "redmi 15a",
+        "6/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "43060": {
+      "include": [
+        "redmi a7 pro",
+        "4/64",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43070": {
+      "include": [
+        "redmi a7 pro",
+        "4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43074": {
+      "include": [
+        "redmi a7 pro",
+        "4/64",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43071": {
+      "include": [
+        "redmi a7 pro",
+        "4/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43075": {
+      "include": [
+        "redmi a7 pro",
+        "4/64",
+        "green"
+      ],
+      "exclude": []
+    },
+    "43076": {
+      "include": [
+        "redmi a7 pro",
+        "4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "43078": {
+      "include": [
+        "redmi a7 pro",
+        "4/64",
+        "orange"
+      ],
+      "exclude": []
+    },
+    "43077": {
+      "include": [
+        "redmi a7 pro",
+        "4/128",
+        "orange"
+      ],
+      "exclude": []
+    },
+    "42555": {
+      "include": [
+        "mi 17 16/1tb",
+        "pink"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42557": {
+      "include": [
+        "mi 17 16/1tb",
+        "black"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "42558": {
+      "include": [
+        "mi 17 16/1tb",
+        "blue"
+      ],
+      "exclude": [
+        "dual"
+      ]
+    },
+    "41163": {
+      "include": [
+        "poco m7",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "pro",
+        "ultra",
+        "5g"
+      ]
+    },
+    "41157": {
+      "include": [
+        "poco m7",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "pro",
+        "ultra",
+        "5g"
+      ]
+    },
+    "41162": {
+      "include": [
+        "poco m7",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "pro",
+        "ultra",
+        "5g"
+      ]
+    },
+    "43080": {
+      "include": [
+        "poco m7",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "pro",
+        "ultra",
+        "5g"
+      ]
+    },
+    "42311": {
+      "include": [
+        "redmi 15 ",
+        "4/256",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42315": {
+      "include": [
+        "redmi 15 ",
+        "4/256",
+        "green",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42312": {
+      "include": [
+        "redmi 15 ",
+        "4/256",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42309": {
+      "include": [
+        "redmi 15 ",
+        "8/128",
+        "black",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42314": {
+      "include": [
+        "redmi 15 ",
+        "8/128",
+        "green",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "42313": {
+      "include": [
+        "redmi 15 ",
+        "8/128",
+        "gray",
+        "5g"
+      ],
+      "exclude": []
+    },
+    "43083": {
+      "include": [
+        "redmi 15c",
+        "6/128",
+        "gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "43086": {
+      "include": [
+        "redmi 15c",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "43089": {
+      "include": [
+        "redmi 15c",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "43092": {
+      "include": [
+        "redmi 15c",
+        "6/128",
+        "orange"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "43084": {
+      "include": [
+        "redmi 15c",
+        "8/128",
+        "gray"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "43087": {
+      "include": [
+        "redmi 15c",
+        "8/128",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "43090": {
+      "include": [
+        "redmi 15c",
+        "8/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "43093": {
+      "include": [
+        "redmi 15c",
+        "8/128",
+        "orange"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "36886": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "4/128",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36882": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "4/128",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36889": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "4/128",
+        "blue"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36887": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "64",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36899": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "64",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36890": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "64",
+        "blue"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36888": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36885": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "6/128",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "36891": {
+      "include": [
+        "pad se ",
+        "8.7",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "huawei",
+        "mate"
+      ]
+    },
+    "23942": {
+      "include": [
+        "redmi pad ",
+        "4/128",
+        "gray"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "pro",
+        "pad 2"
+      ]
+    },
+    "23948": {
+      "include": [
+        "redmi pad ",
+        "4/128",
+        "green"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "pro",
+        "pad 2"
+      ]
+    },
+    "23945": {
+      "include": [
+        "redmi pad ",
+        "4/128",
+        "silver"
+      ],
+      "exclude": [
+        "huawei",
+        "mate",
+        "pro",
+        "pad 2"
+      ]
+    },
+    "43190": {
+      "include": [
+        "note 15 se",
+        "6/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43213": {
+      "include": [
+        "note 15 se",
+        "8/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43214": {
+      "include": [
+        "note 15 se",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43217": {
+      "include": [
+        "note 15 se",
+        "6/128",
+        "red"
+      ],
+      "exclude": []
+    },
+    "43216": {
+      "include": [
+        "note 15 se",
+        "8/128",
+        "red"
+      ],
+      "exclude": []
+    },
+    "43215": {
+      "include": [
+        "note 15 se",
+        "8/256",
+        "red"
+      ],
+      "exclude": []
+    },
+    "43218": {
+      "include": [
+        "note 15 se",
+        "6/128",
+        "white"
+      ],
+      "exclude": []
+    },
+    "43219": {
+      "include": [
+        "note 15 se",
+        "8/128",
+        "white"
+      ],
+      "exclude": []
+    },
+    "43220": {
+      "include": [
+        "note 15 se",
+        "8/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "43192": {
+      "include": [
+        "poco m8s",
+        "6/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43296": {
+      "include": [
+        "poco m8s",
+        "6/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43298": {
+      "include": [
+        "poco m8s",
+        "6/128",
+        "white"
+      ],
+      "exclude": []
+    },
+    "43297": {
+      "include": [
+        "poco m8s",
+        "6/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "43194": {
+      "include": [
+        "poco c81 ",
+        "4/64",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43208": {
+      "include": [
+        "poco c81 ",
+        "4/64",
+        "blue"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43209": {
+      "include": [
+        "poco c81 ",
+        "4/64",
+        "gold"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43196": {
+      "include": [
+        "poco c81 pro",
+        "4/64",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43284": {
+      "include": [
+        "poco c81 pro",
+        "4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43285": {
+      "include": [
+        "poco c81 pro",
+        "4/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43288": {
+      "include": [
+        "poco c81 pro",
+        "4/64",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "43287": {
+      "include": [
+        "poco c81 pro",
+        "4/128",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "43286": {
+      "include": [
+        "poco c81 pro",
+        "4/256",
+        "gold"
+      ],
+      "exclude": []
+    },
+    "43289": {
+      "include": [
+        "poco c81 pro",
+        "4/64",
+        "green"
+      ],
+      "exclude": []
+    },
+    "43290": {
+      "include": [
+        "poco c81 pro",
+        "4/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "43291": {
+      "include": [
+        "poco c81 pro",
+        "4/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "43195": {
+      "include": [
+        "poco c81x",
+        "3/64",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43211": {
+      "include": [
+        "poco c81x",
+        "3/64",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43446": {
+      "include": [
+        "poco pad c1",
+        "4/64",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43496": {
+      "include": [
+        "poco pad c1",
+        "4/64",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "43494": {
+      "include": [
+        "poco pad c1",
+        "6/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43495": {
+      "include": [
+        "poco pad c1",
+        "6/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "43461": {
+      "include": [
+        "mi 17t",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43470": {
+      "include": [
+        "mi 17t",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43473": {
+      "include": [
+        "mi 17t",
+        "12/256",
+        "opal white"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43469": {
+      "include": [
+        "mi 17t",
+        "12/256",
+        "purple"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43467": {
+      "include": [
+        "mi 17t",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43471": {
+      "include": [
+        "mi 17t",
+        "12/512",
+        "blue"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43472": {
+      "include": [
+        "mi 17t",
+        "12/512",
+        "opal white"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43468": {
+      "include": [
+        "mi 17t",
+        "12/512",
+        "purple"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "pro"
+      ]
+    },
+    "43476": {
+      "include": [
+        "mi 17t pro",
+        "12/1tb",
+        "black"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43477": {
+      "include": [
+        "mi 17t pro",
+        "12/1tb",
+        "blue"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43482": {
+      "include": [
+        "mi 17t pro",
+        "12/1tb",
+        "purple"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43462": {
+      "include": [
+        "mi 17t pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43479": {
+      "include": [
+        "mi 17t pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43480": {
+      "include": [
+        "mi 17t pro",
+        "12/256",
+        "purple"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43475": {
+      "include": [
+        "mi 17t pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43478": {
+      "include": [
+        "mi 17t pro",
+        "12/512",
+        "blue"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43481": {
+      "include": [
+        "mi 17t pro",
+        "12/512",
+        "purple"
+      ],
+      "exclude": [
+        "🇭🇰",
+        "dual",
+        "max"
+      ]
+    },
+    "43621": {
+      "include": [
+        "mi 17 ",
+        "12/256",
+        "pink",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43629": {
+      "include": [
+        "mi 17 ",
+        "12/256",
+        "blue",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43637": {
+      "include": [
+        "mi 17 ",
+        "12/256",
+        "green",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43630": {
+      "include": [
+        "mi 17 ",
+        "12/256",
+        "white",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43623": {
+      "include": [
+        "mi 17 ",
+        "12/512",
+        "pink",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43628": {
+      "include": [
+        "mi 17 ",
+        "12/512",
+        "blue",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43636": {
+      "include": [
+        "mi 17 ",
+        "12/512",
+        "green",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43631": {
+      "include": [
+        "mi 17 ",
+        "12/512",
+        "white",
+        "dual"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "43367": {
+      "include": [
+        "mi 17 max",
+        "12/256",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43368": {
+      "include": [
+        "mi 17 max",
+        "12/256",
+        "blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43375": {
+      "include": [
+        "mi 17 max",
+        "12/256",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43319": {
+      "include": [
+        "mi 17 max",
+        "12/512",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43369": {
+      "include": [
+        "mi 17 max",
+        "12/512",
+        "blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43376": {
+      "include": [
+        "mi 17 max",
+        "12/512",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43366": {
+      "include": [
+        "mi 17 max",
+        "16/256",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43371": {
+      "include": [
+        "mi 17 max",
+        "16/256",
+        "blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43372": {
+      "include": [
+        "mi 17 max",
+        "16/256",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43365": {
+      "include": [
+        "mi 17 max",
+        "16/512",
+        "black",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43370": {
+      "include": [
+        "mi 17 max",
+        "16/512",
+        "blue",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43373": {
+      "include": [
+        "mi 17 max",
+        "16/512",
+        "white",
+        "dual"
+      ],
+      "exclude": []
+    },
+    "43705": {
+      "include": [
+        "redmi 17c",
+        "4/128",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43735": {
+      "include": [
+        "redmi 17c",
+        "4/128",
+        "red"
+      ],
+      "exclude": []
+    },
+    "43736": {
+      "include": [
+        "redmi 17c",
+        "4/64",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43738": {
+      "include": [
+        "redmi 17c",
+        "4/64",
+        "red"
+      ],
+      "exclude": []
+    },
+    "43739": {
+      "include": [
+        "redmi 17c",
+        "4/128",
+        "red"
+      ],
+      "exclude": []
+    },
+    "43740": {
+      "include": [
+        "redmi 17c",
+        "4/128",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43741": {
+      "include": [
+        "redmi 17c",
+        "4/64",
+        "blue"
+      ],
+      "exclude": []
+    },
+    "43945": {
+      "include": [
+        "poco m8",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "43946": {
+      "include": [
+        "poco m8",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "43947": {
+      "include": [
+        "poco m8",
+        "12/512",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "43937": {
+      "include": [
+        "mi 17 ",
+        "12/512",
+        "black",
+        "dual"
+      ],
+      "exclude": [
+        "pro",
+        "max",
+        "ultra"
+      ]
+    },
+    "43938": {
+      "include": [
+        "mi 17 ",
+        "12/256",
+        "black",
+        "dual"
+      ],
+      "exclude": [
+        "pro",
+        "max",
+        "ultra"
+      ]
+    },
+    "44129": {
+      "include": [
+        "redmi 17",
+        "4/128",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44193": {
+      "include": [
+        "redmi 17",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44194": {
+      "include": [
+        "redmi 17",
+        "6/256",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44195": {
+      "include": [
+        "redmi 17",
+        "4/256",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44196": {
+      "include": [
+        "redmi 17",
+        "4/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44197": {
+      "include": [
+        "redmi 17",
+        "4/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44198": {
+      "include": [
+        "redmi 17",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44199": {
+      "include": [
+        "redmi 17",
+        "6/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44200": {
+      "include": [
+        "redmi 17",
+        "6/256",
+        "orange"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44201": {
+      "include": [
+        "redmi 17",
+        "6/128",
+        "orange"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44202": {
+      "include": [
+        "redmi 17",
+        "4/128",
+        "orange"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44203": {
+      "include": [
+        "redmi 17",
+        "4/256",
+        "orange"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44131": {
+      "include": [
+        "redmi 17",
+        "4/128",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44205": {
+      "include": [
+        "redmi 17",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44207": {
+      "include": [
+        "redmi 17",
+        "6/256",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44208": {
+      "include": [
+        "redmi 17",
+        "4/256",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44209": {
+      "include": [
+        "redmi 17",
+        "6/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44210": {
+      "include": [
+        "redmi 17",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44211": {
+      "include": [
+        "redmi 17",
+        "4/128",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44212": {
+      "include": [
+        "redmi 17",
+        "4/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44213": {
+      "include": [
+        "redmi 17",
+        "4/256",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44214": {
+      "include": [
+        "redmi 17",
+        "4/128",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44215": {
+      "include": [
+        "redmi 17",
+        "6/128",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44216": {
+      "include": [
+        "redmi 17",
+        "6/256",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44217": {
+      "include": [
+        "redmi 17",
+        "6/256",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44218": {
+      "include": [
+        "redmi 17",
+        "6/128",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44219": {
+      "include": [
+        "redmi 17",
+        "4/128",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44220": {
+      "include": [
+        "redmi 17",
+        "4/256",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44222": {
+      "include": [
+        "redmi 17",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44223": {
+      "include": [
+        "redmi 17",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44224": {
+      "include": [
+        "redmi 17",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44225": {
+      "include": [
+        "redmi 17",
+        "8/256",
+        "green"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44189": {
+      "include": [
+        "note 17",
+        "6/128",
+        "black",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44190": {
+      "include": [
+        "note 17",
+        "6/128",
+        "black",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44229": {
+      "include": [
+        "note 17",
+        "6/256",
+        "black",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44230": {
+      "include": [
+        "note 17",
+        "4/256",
+        "black",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44231": {
+      "include": [
+        "note 17",
+        "4/128",
+        "black",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44232": {
+      "include": [
+        "note 17",
+        "4/128",
+        "purple",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44233": {
+      "include": [
+        "note 17",
+        "4/256",
+        "purple",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44234": {
+      "include": [
+        "note 17",
+        "6/256",
+        "purple",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44235": {
+      "include": [
+        "note 17",
+        "6/128",
+        "purple",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44236": {
+      "include": [
+        "note 17",
+        "6/128",
+        "teal",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44237": {
+      "include": [
+        "note 17",
+        "6/256",
+        "teal",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44238": {
+      "include": [
+        "note 17",
+        "4/256",
+        "teal",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44239": {
+      "include": [
+        "note 17",
+        "4/128",
+        "teal",
+        "4g"
+      ],
+      "exclude": []
+    },
+    "44241": {
+      "include": [
+        "note 17",
+        "6/256",
+        "black"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44242": {
+      "include": [
+        "note 17",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44243": {
+      "include": [
+        "note 17",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44244": {
+      "include": [
+        "note 17",
+        "6/256",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44245": {
+      "include": [
+        "note 17",
+        "6/128",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44246": {
+      "include": [
+        "note 17",
+        "6/128",
+        "teal"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44247": {
+      "include": [
+        "note 17",
+        "6/256",
+        "teal"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44248": {
+      "include": [
+        "note 17",
+        "8/256",
+        "teal"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44188": {
+      "include": [
+        "note 17 pro",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44251": {
+      "include": [
+        "note 17 pro",
+        "6/256",
+        "black"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44252": {
+      "include": [
+        "note 17 pro",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44253": {
+      "include": [
+        "note 17 pro",
+        "8/512",
+        "black"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44254": {
+      "include": [
+        "note 17 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44255": {
+      "include": [
+        "note 17 pro",
+        "12/256",
+        "blue"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44256": {
+      "include": [
+        "note 17 pro",
+        "8/256",
+        "blue"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44257": {
+      "include": [
+        "note 17 pro",
+        "8/512",
+        "blue"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44258": {
+      "include": [
+        "note 17 pro",
+        "6/256",
+        "blue"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44259": {
+      "include": [
+        "note 17 pro",
+        "6/128",
+        "blue"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44260": {
+      "include": [
+        "note 17 pro",
+        "6/128",
+        "orange"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44261": {
+      "include": [
+        "note 17 pro",
+        "6/256",
+        "orange"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44262": {
+      "include": [
+        "note 17 pro",
+        "8/256",
+        "orange"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44263": {
+      "include": [
+        "note 17 pro",
+        "8/512",
+        "orange"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44264": {
+      "include": [
+        "note 17 pro",
+        "12/256",
+        "orange"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44265": {
+      "include": [
+        "note 17 pro",
+        "12/256",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44266": {
+      "include": [
+        "note 17 pro",
+        "6/256",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44267": {
+      "include": [
+        "note 17 pro",
+        "6/128",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44268": {
+      "include": [
+        "note 17 pro",
+        "8/256",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44269": {
+      "include": [
+        "note 17 pro",
+        "8/512",
+        "purple"
+      ],
+      "exclude": [
+        "4g"
+      ]
+    },
+    "44191": {
+      "include": [
+        "note 17 pro max",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "5g"
+      ]
+    },
+    "44271": {
+      "include": [
+        "note 17 pro max",
+        "8/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44272": {
+      "include": [
+        "note 17 pro max",
+        "8/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44273": {
+      "include": [
+        "note 17 pro max",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44274": {
+      "include": [
+        "note 17 pro max",
+        "12/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "44275": {
+      "include": [
+        "note 17 pro max",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "44276": {
+      "include": [
+        "note 17 pro max",
+        "8/512",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "44277": {
+      "include": [
+        "note 17 pro max",
+        "8/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "44278": {
+      "include": [
+        "note 17 pro max",
+        "8/128",
+        "green"
+      ],
+      "exclude": []
+    },
+    "44279": {
+      "include": [
+        "note 17 pro max",
+        "8/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "44280": {
+      "include": [
+        "note 17 pro max",
+        "8/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "44281": {
+      "include": [
+        "note 17 pro max",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "44282": {
+      "include": [
+        "note 17 pro max",
+        "12/256",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "44283": {
+      "include": [
+        "note 17 pro max",
+        "8/256",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "44284": {
+      "include": [
+        "note 17 pro max",
+        "8/512",
+        "pink"
+      ],
+      "exclude": []
+    },
+    "44285": {
+      "include": [
+        "note 17 pro max",
+        "8/128",
+        "pink"
+      ],
+      "exclude": []
+    }
+  }

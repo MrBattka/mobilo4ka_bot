@@ -1,0 +1,55 @@
+"-1001504473593": {
+    "name": "Electrozon",
+    "title": ["Наименование", "Цена"],
+    "skip": true,
+    "numberList": 10,
+    "readExcel": true,
+    "todayMessage": false,
+    "replaceOld": true,
+    "numMessages": 1,
+    "excelColumns": {
+      "name": 0,
+      "price": 6
+    }
+  },
+
+  "-1001926264193": {
+    "name": "Narod",
+    "title": ["Narod"],
+    "skip": true,
+    "numberList": 12,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      3440,
+      3434,
+      3435,
+      3429,
+      3428
+    ]
+  },
+
+  "-1001743087902": {
+    "name": "Discount",
+    "title": ["Discount"],
+    "skip": true,
+    "numberList": 14,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      155,
+      917,
+      918,
+      919,
+      920,
+      921,
+      922,
+      923,
+      924,
+      925,
+      926,
+      927
+    ]
+  },

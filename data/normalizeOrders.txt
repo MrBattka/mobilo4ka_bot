@@ -1,0 +1,426 @@
+{
+  "@hi_catalog_bot": {
+    "name": "Hi",
+    "normalizer": "hi",
+    "title": [
+      "Hi"
+    ],
+    "skip": false,
+    "numberList": 2,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "txtMessageHandle": "/prices"
+  },
+  "@MIHONORBOT": {
+    "name": "MiHonor",
+    "normalizer": "mihonor",
+    "title": [
+      "MiHonor"
+    ],
+    "skip": false,
+    "numberList": 3,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "txtMessageHandle": "/prices"
+  },
+  "@Polinavsemi": {
+    "name": "VseMi",
+    "normalizer": "vsemi",
+    "title": [
+      "VseMi"
+    ],
+    "skip": false,
+    "numberList": 4,
+    "readExcel": false,
+    "todayMessage": true,
+    "replaceOld": true
+  },
+  "@tech_online_seller_bot": {
+    "name": "Super Price",
+    "normalizer": "superprice",
+    "title": [
+      "Наименование",
+      "Прайс"
+    ],
+    "skip": false,
+    "numberList": 5,
+    "readExcel": true,
+    "excelColumns": {
+      "name": 0,
+      "price": 1
+    },
+    "todayMessage": false,
+    "replaceOld": true,
+    "txtMessageHandle": "/prices_file"
+  },
+  "-1001797851017": {
+    "name": "Garmin",
+    "normalizer": "garmin",
+    "title": [
+      "Garmin"
+    ],
+    "skip": false,
+    "numberList": 6,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      2927,
+      2928,
+      2930,
+      2931,
+      2932,
+      2933,
+      2934,
+      2935,
+      2936,
+      2939,
+      2940,
+      2942
+    ]
+  },
+  "-1001660726404": {
+    "name": "Garmin",
+    "normalizer": "garmin",
+    "skip": false,
+    "numberList": 6,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": false,
+    "messageIds": [
+      617,
+      618,
+      619,
+      620,
+      621,
+      622,
+      623,
+      624,
+      625,
+      626,
+      627
+    ]
+  },
+  "-1003952796233": {
+    "name": "S5",
+    "normalizer": "s5",
+    "title": [
+      "S5"
+    ],
+    "skip": false,
+    "numberList": 7,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      4,
+      5,
+      8,
+      9,
+      10,
+      13
+    ]
+  },
+  "-1001282286698": {
+    "name": "Рацмаг",
+    "normalizer": "racmag",
+    "title": [
+      "Рацмаг"
+    ],
+    "skip": false,
+    "numberList": 8,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "numMessages": 1
+  },
+  "-1002080508044": {
+    "name": "Arti",
+    "normalizer": "arti",
+    "title": [
+      "Arti"
+    ],
+    "skip": false,
+    "numberList": 9,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "numMessages": 3
+  },
+  "-1001963407298": {
+    "name": "TopResale",
+    "normalizer": "resale",
+    "title": [
+      "ReSale"
+    ],
+    "skip": false,
+    "numberList": 11,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      8,
+      10,
+      12,
+      13,
+      15,
+      16,
+      17,
+      1495,
+      1496,
+      3126,
+      4006,
+      4007,
+      4021,
+      4203
+    ]
+  },
+  "-1001127283354": {
+    "name": "F51",
+    "normalizer": "f51",
+    "title": [
+      "F51"
+    ],
+    "skip": false,
+    "numberList": 13,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      10821,
+      10822,
+      10823,
+      10824,
+      10825,
+      10827,
+      10828,
+      10829,
+      10830,
+      10831,
+      10832,
+      10833,
+      10834,
+      10835,
+      10849,
+      11678,
+      11679,
+      11680
+    ]
+  },
+  "-1001173041677": {
+    "name": "MiOpt",
+    "normalizer": "miopts",
+    "title": [
+      "MiOpts"
+    ],
+    "skip": false,
+    "numberList": 17,
+    "readExcel": false,
+    "todayMessage": true,
+    "replaceOld": true
+  },
+  "-1001211631168": {
+    "name": "L27",
+    "normalizer": "l27",
+    "title": [
+      "L27"
+    ],
+    "skip": false,
+    "numberList": 18,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "numMessages": 3
+  },
+  "-1001611607679": {
+    "name": "Sunrise",
+    "normalizer": "sunrise",
+    "title": [
+      "Sunrise"
+    ],
+    "skip": false,
+    "numberList": 19,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      2882,
+      2883,
+      2884,
+      2886,
+      2887,
+      3248,
+      3534,
+      3662,
+      3889
+    ]
+  },
+  "-1001319659926": {
+    "name": "Infinity",
+    "normalizer": "infinity",
+    "title": [
+      "Infinity"
+    ],
+    "skip": false,
+    "numberList": 20,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageCodeWord": [
+      "Pods",
+      "17 Pro",
+      "ULTRA 3"
+    ],
+    "banCodeWord": [
+      "pitaka",
+      "кабель"
+    ]
+  },
+  "-1001430147794": {
+    "name": "LikeMob",
+    "normalizer": "likemob",
+    "title": [
+      "LikeMob"
+    ],
+    "skip": false,
+    "numberList": 21,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      14383,
+      14384,
+      14385,
+      14386,
+      14387,
+      14388,
+      14390,
+      14391,
+      14392,
+      14648,
+      14649,
+      14650,
+      14653,
+      14654,
+      14656,
+      14657,
+      14661,
+      14829,
+      15326
+    ]
+  },
+  "-1001510559276": {
+    "name": "RootOpt",
+    "normalizer": "rootopt",
+    "title": [
+      "root"
+    ],
+    "skip": false,
+    "numberList": 22,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      5475,
+      5476,
+      5477,
+      5478,
+      5480,
+      5481,
+      5482,
+      5483,
+      5484,
+      5485,
+      5486,
+      5487,
+      5488,
+      5489,
+      5490,
+      5710
+    ]
+  },
+  "-1001583304669": {
+    "name": "Bogatyr",
+    "normalizer": "bogatyr",
+    "title": [
+      "A18"
+    ],
+    "skip": false,
+    "numberList": 23,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "numMessages": 5
+  },
+  "-1002495379884": {
+    "name": "AMT",
+    "normalizer": "amt",
+    "title": [
+      "AMT"
+    ],
+    "skip": false,
+    "numberList": 24,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "messageIds": [
+      575,
+      571,
+      72,
+      67,
+      66,
+      65,
+      64,
+      63,
+      61,
+      60,
+      59,
+      58,
+      57,
+      56,
+      54,
+      53,
+      52,
+      51,
+      50,
+      49,
+      48,
+      47,
+      46,
+      45,
+      44,
+      43,
+      42,
+      41
+    ]
+  },
+  "-1002621999285": {
+    "name": "UniSale",
+    "normalizer": "unisale",
+    "title": [
+      "name"
+    ],
+    "skip": false,
+    "numberList": 26,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": true,
+    "parseAllMessages": true,
+    "banCodeWord": [
+      "клиенты",
+      "обновлено"
+    ]
+  },
+  "base": {
+    "name": "База",
+    "normalizer": "base",
+    "skip": true,
+    "numberList": 15,
+    "readExcel": false,
+    "todayMessage": false,
+    "replaceOld": false,
+    "isLocal": true
+  }
+}
