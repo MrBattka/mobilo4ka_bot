@@ -5,7 +5,7 @@ a = Analysis(
     ['gui_tool.py'],
     pathex=[],
     binaries=[],
-    datas=[('data', 'data'), ('suplires_site.json', '.'), ('suplires_order.json', '.')],
+    datas=[('data', 'data'), ('suplires_site.json', '.'), ('parserBoltunTrub', 'parserBoltunTrub'), ('suplires_order.json', '.')],
     hiddenimports=[],
     hookspath=[],
     hooksconfig={},

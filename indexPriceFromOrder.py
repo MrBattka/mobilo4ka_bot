@@ -3,6 +3,7 @@ import gspread
 import asyncio
 import re
 import json
+import sys
 
 from config.settings import (DATA_DIR, SELECTED_FILES, 
                              SECTION_HEADERS, SHEETS_ID_FOR_ORDER,
@@ -15,6 +16,18 @@ from utils.helpers import (
     )
 
 from utils.helpers import returnFlagsForOrder, returnFlags
+
+if sys.stdout is not None:
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
+
+if sys.stderr is not None:
+    try:
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except (AttributeError, ValueError):
+        pass
 
 # Загрузка флагов (можно вынести в settings)
 flagsArr = [
@@ -38,9 +51,9 @@ for filename in SELECTED_FILES:
         try:
             with open(file_path, 'r', encoding='utf-8') as f:
                 loaded_data[filename] = json.load(f)
-                print(f"✅ Загружено: {filename}")
+                print(f"[OK] Загружено: {filename}")
         except json.JSONDecodeError as e:
-            print(f"❌ Ошибка чтения {filename}: {e}")
+            print(f"[ERROR] Ошибка чтения {filename}: {e}")
     else:
         print(f"❗ Файл не найден: {file_path}")
 
@@ -54,7 +67,7 @@ async def load_name_used_from_sheet():
         )
         return name_list, used_list
     except Exception as e:
-        print(f"❌ Ошибка загрузки с Google Sheets: {e}")
+        print(f"[ERROR] Ошибка загрузки с Google Sheets: {e}")
         return [], []
 
 async def get_fresh_name_used_lists() -> tuple[list[str], list[str]]:
@@ -69,7 +82,7 @@ async def get_fresh_name_used_lists() -> tuple[list[str], list[str]]:
         used_list = list(dict.fromkeys(used_list))
         return name_list, used_list
     except Exception as e:
-        print(f"❌ Ошибка загрузки с Google Sheets: {e}")
+        print(f"[ERROR] Ошибка загрузки с Google Sheets: {e}")
         return [], []
     
 def _extract_name_and_price_hi(text: str) -> Optional[Dict[str, Any]]:
@@ -94,7 +107,7 @@ def _extract_name_and_price_hi(text: str) -> Optional[Dict[str, Any]]:
         return None
     
 
-    # 🔍 Ищем цену: - 129500
+    # [CHECK] Ищем цену: - 129500
     price_match = re.search(
         r'''
         -                           # обязательный дефис
@@ -111,7 +124,7 @@ def _extract_name_and_price_hi(text: str) -> Optional[Dict[str, Any]]:
     )
 
     if not price_match:
-        print(f"❌ Нет цены после '-': {text}")
+        print(f"[ERROR] Нет цены после '-': {text}")
         return None
 
     raw_price = price_match.group("price")
@@ -120,7 +133,7 @@ def _extract_name_and_price_hi(text: str) -> Optional[Dict[str, Any]]:
     try:
         price_val = int(raw_price)
     except:
-        print(f"❌ Не число: {raw_price}")
+        print(f"[ERROR] Не число: {raw_price}")
         return None
 
     # Название — всё до `-`
@@ -143,7 +156,7 @@ def _extract_name_and_price_hi(text: str) -> Optional[Dict[str, Any]]:
     name = re.sub(r'\s+', ' ', name).strip()
 
     # 🔴 ЗАМЕНЯЕМ ПРОБЛЕМНУЮ СТРОКУ:
-    # БЫЛО: name = re.sub(r'[^\w\s\-\(\)/\.\+]', '', name, flags=re.UNICODE)  # ❌ УДАЛЯЕТ ФЛАГИ
+    # БЫЛО: name = re.sub(r'[^\w\s\-\(\)/\.\+]', '', name, flags=re.UNICODE)  # [ERROR] УДАЛЯЕТ ФЛАГИ
     # СТАЛО: удаляем ТОЛЬКО нежелательные символы, НО оставляем эмодзи и флаги
     name = re.sub(r'[^\w\s\-\(\)/\.\+\U0001F1E6-\U0001F1FF]', '', name, flags=re.UNICODE)
     name = re.sub(r'\s+', ' ', name).strip()
@@ -157,7 +170,7 @@ def _extract_name_and_price_hi(text: str) -> Optional[Dict[str, Any]]:
         name = f"{name} {flags}".strip()
 
     if not name or len(name) < 5:
-        print(f"❌ Имя слишком короткое: '{name}'")
+        print(f"[ERROR] Имя слишком короткое: '{name}'")
         return None
 
     return {
@@ -191,14 +204,14 @@ def _extract_name_and_price_dyson(text: str) -> Optional[Dict[str, Any]]:
     if text.startswith(("от", "минимум", "скидка", "❤️", "🚗", "🟠", "🔴", "🟡")):
         return None
 
-    # 🔍 Ищем цену: 5–6 цифр после `-` или без, до [ или конца
+    # [CHECK] Ищем цену: 5–6 цифр после `-` или без, до [ или конца
     price_match = re.search(
         r'-?\s*(?P<price>\d{5,6})\s*(?:₽|р\.?|руб\.?|RUB)?\s*(?=\s*\[|$)',
         text,
         re.IGNORECASE
     )
     if not price_match:
-        print(f"❌ Нет пятизначной цены: {text}")
+        print(f"[ERROR] Нет пятизначной цены: {text}")
         return None
 
     raw_price = price_match.group("price")
@@ -207,7 +220,7 @@ def _extract_name_and_price_dyson(text: str) -> Optional[Dict[str, Any]]:
     try:
         price_val = int(raw_price)
     except:
-        print(f"❌ Не число: {raw_price}")
+        print(f"[ERROR] Не число: {raw_price}")
         return None
 
     # Всё до цены
@@ -280,7 +293,7 @@ def _extract_name_and_price_garmin(text: str) -> Optional[Dict[str, Any]]:
     if any(kw in text.lower() for kw in skip_keywords):
         return None
 
-    # 🔍 Ищем флаги ДО обработки
+    # [CHECK] Ищем флаги ДО обработки
     flag_pattern = r'[\U0001F1E6-\U0001F1FF]{2}'
     flags = ''.join(re.findall(flag_pattern, text))
 
@@ -288,10 +301,10 @@ def _extract_name_and_price_garmin(text: str) -> Optional[Dict[str, Any]]:
     text_no_flags = re.sub(flag_pattern, '', text)
     text_no_flags = re.sub(r'\s+', ' ', text_no_flags).strip()
 
-    # 🔍 Ищем ₽
+    # [CHECK] Ищем ₽
     currency_match = re.search(r'₽', text_no_flags)
     if not currency_match:
-        print(f"❌ Нет символа ₽: {text}")
+        print(f"[ERROR] Нет символа ₽: {text}")
         return None
 
     currency_pos = currency_match.start()
@@ -303,20 +316,20 @@ def _extract_name_and_price_garmin(text: str) -> Optional[Dict[str, Any]]:
         price_start -= 1
 
     if price_start == price_end:
-        print(f"❌ Не найдено число перед ₽: {text_no_flags}")
+        print(f"[ERROR] Не найдено число перед ₽: {text_no_flags}")
         return None
 
     raw_price = text_no_flags[price_start:price_end].strip()
     cleaned_price = re.sub(r'[.,]', '', raw_price)  # убираем разделители
 
     if not cleaned_price.isdigit():
-        print(f"❌ Цена не число: {raw_price} из {text_no_flags}")
+        print(f"[ERROR] Цена не число: {raw_price} из {text_no_flags}")
         return None
 
     try:
         price_val = int(cleaned_price)
     except:
-        print(f"❌ Ошибка парсинга цены: {cleaned_price}")
+        print(f"[ERROR] Ошибка парсинга цены: {cleaned_price}")
         return None
 
     # Шаг 2: Часть ДО цены
@@ -332,7 +345,7 @@ def _extract_name_and_price_garmin(text: str) -> Optional[Dict[str, Any]]:
     name_clean = re.sub(r'\bGarmin\b', '', name_part, flags=re.IGNORECASE)
     name_clean = re.sub(r'\s+', ' ', name_clean).strip(' -.,')
 
-    # ✅ Формируем имя: сначала название, потом тире, и в конце — флаги
+    # [OK] Формируем имя: сначала название, потом тире, и в конце — флаги
     # final_name = f"{name_clean} -"
     if flags:
         name_clean += f" {flags}"
@@ -368,23 +381,23 @@ def _extract_name_and_price_opt(row: List[str]) -> Optional[Dict[str, Any]]:
     banned_words = ['Right', 'Left', 'обменка', 'ASIS', 'пломба']
     for word in banned_words:
         if re.search(rf'\b{re.escape(word)}\b', name, re.IGNORECASE):
-            print(f"🚫 Пропущено (запрещённое слово): {name} → содержит '{word}'")
+            print(f"[SKIP] Пропущено (запрещённое слово): {name} → содержит '{word}'")
             return None
 
     # 🔺 Пропускаем, если есть кавычки
     if '"' in name:
-        print(f"🚫 Пропущено (кавычки): {name}")
+        print(f"[SKIP] Пропущено (кавычки): {name}")
         return None
 
     # 🔺 Пропускаем, если ошибка в цене
     if '#ERROR' in price_str:
-        print(f"🚫 Пропущено (ошибка в цене): {name}")
+        print(f"[SKIP] Пропущено (ошибка в цене): {name}")
         return None
 
     # Очистка и парсинг цены
     price_clean = re.sub(r'[^\d]', '', price_str)
     if not price_clean.isdigit():
-        print(f"🚫 Некорректная цена: {price_str} для {name}")
+        print(f"[SKIP] Некорректная цена: {price_str} для {name}")
         return None
 
     try:
@@ -392,7 +405,7 @@ def _extract_name_and_price_opt(row: List[str]) -> Optional[Dict[str, Any]]:
     except ValueError:
         return None
 
-    # ✅ Возвращаем название с ЭМОДЗИ-флагами и оригинальным содержанием
+    # [OK] Возвращаем название с ЭМОДЗИ-флагами и оригинальным содержанием
     return {
         "name": name,
         "price": price_val,
@@ -407,7 +420,7 @@ def _extract_name_and_price_miopts_sheet(lines: List[str], idx: int) -> Optional
 
     # 🔴 ИГНОРИРУЕМ строки с "Inoi"
     if "Inoi" in current_line or "inoi" in current_line.lower():
-        print(f"🚫 Пропущено (Inoi): {current_line}")
+        print(f"[SKIP] Пропущено (Inoi): {current_line}")
         return None
 
     next_line = lines[idx + 1].strip() if idx + 1 < len(lines) else ""
@@ -487,7 +500,7 @@ def _extract_name_and_price_seventh_sheet(lines: List[str], idx: int) -> Optiona
         re.IGNORECASE
     )
     if not price_match:
-        print(f"❌ Нет цены: {current_line}")
+        print(f"[ERROR] Нет цены: {current_line}")
         return None
 
     raw_price = price_match.group("price")
@@ -495,14 +508,14 @@ def _extract_name_and_price_seventh_sheet(lines: List[str], idx: int) -> Optiona
     try:
         price_val = int(price_val_str)
     except ValueError:
-        print(f"❌ Не число: {raw_price}")
+        print(f"[ERROR] Не число: {raw_price}")
         return None
 
     # Извлекаем основное название (до "-")
     name_part = current_line[:price_match.start()].strip()
 
     # Чистим от лишних символов (например, эмодзи ⌚️)
-    name_part = re.sub(r'^[⌚️🔧📦💡❤️🌟\s]+', '', name_part).strip()
+    name_part = re.sub(r'^[⌚️🔧[DATA]💡❤️🌟\s]+', '', name_part).strip()
 
     # === Извлечение артикула из следующей строки ===
     part_number = ""
@@ -598,7 +611,7 @@ def process_first_sheet(ws, all_product_data: Optional[Dict[str, Any]] = None) -
     items = []
     all_values = ws.get_all_values()
 
-    print(f"📊 Обработка первого листа: {len(all_values)} строк")
+    print(f"[INFO] Обработка первого листа: {len(all_values)} строк")
 
     # Если база ID не передана — собираем из loaded_data
     if all_product_data is None:
@@ -612,14 +625,14 @@ def process_first_sheet(ws, all_product_data: Optional[Dict[str, Any]] = None) -
 
         extracted = _extract_name_and_price_hi(row[0])
         if not extracted:
-            print(f"❌ Пропущено: {row[0]}")
+            print(f"[ERROR] Пропущено: {row[0]}")
             continue
 
         name = extracted["name"]
 
         # 🔽 ФИЛЬТР: проверяем до добавления
         if not is_item_allowed(name):
-            print(f"❌ Отфильтровано (1 лист): {name}")
+            print(f"[ERROR] Отфильтровано (1 лист): {name}")
             continue
 
         # Пробуем привязать product_id — и если привязано, проверяем дубли по id
@@ -631,14 +644,14 @@ def process_first_sheet(ws, all_product_data: Optional[Dict[str, Any]] = None) -
                 continue
             extracted["product_id"] = product_id
             seen_product_ids.add(product_id)
-            print(f"✅ Добавлено с ID {product_id}: {name} → {extracted['price']}")
+            print(f"[OK] Добавлено с ID {product_id}: {name} → {extracted['price']}")
         else:
             # Если нет привязки — добавляем как раньше
-            print(f"✅ Добавлено (без ID): {name} → {extracted['price']}")
+            print(f"[OK] Добавлено (без ID): {name} → {extracted['price']}")
 
         items.append(extracted)
 
-    print(f"📦 Возвращено позиций с 1 листа: {len(items)}")
+    print(f"[DATA] Возвращено позиций с 1 листа: {len(items)}")
     return items
 
 def process_third_sheet(ws) -> List[Dict[str, Any]]:
@@ -646,7 +659,7 @@ def process_third_sheet(ws) -> List[Dict[str, Any]]:
     all_values = ws.get_all_values()
     lines = [row[0].strip() for row in all_values if row and row[0].strip()]
 
-    print(f"📊 Обработка третьего листа: {len(lines)} строк")
+    print(f"[INFO] Обработка третьего листа: {len(lines)} строк")
 
     i = 0
     while i < len(lines):
@@ -655,23 +668,23 @@ def process_third_sheet(ws) -> List[Dict[str, Any]]:
 
         if extracted:
             items.append(extracted)
-            print(f"✅ Добавлено: {extracted['name']} → {extracted['price']}")
+            print(f"[OK] Добавлено: {extracted['name']} → {extracted['price']}")
             # Если использовали две строки (название + цена), пропускаем следующую
             if re.match(r'^\d{4,6}₽', lines[i + 1]) if i + 1 < len(lines) else False:
                 i += 1
         else:
-            print(f"❌ Пропущено: {line}")
+            print(f"[ERROR] Пропущено: {line}")
 
         i += 1
 
-    print(f"📦 Возвращено позиций (3 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций (3 лист): {len(items)}")
     return items
 
 def process_fourth_sheet(ws) -> List[Dict[str, Any]]:
     items = []
     all_values = ws.get_all_values()
     all_product_data = {k: v for d in loaded_data.values() for k, v in d.items()}
-    print(f"📊 Всего ID в базе: {len(all_product_data)}")
+    print(f"[INFO] Всего ID в базе: {len(all_product_data)}")
 
     for row in all_values:
         if len(row) < 2:
@@ -680,12 +693,12 @@ def process_fourth_sheet(ws) -> List[Dict[str, Any]]:
         if not name or not price_str or name.upper() in SECTION_HEADERS:
             continue
         if not is_item_allowed(name):
-           print(f"❌ Отфильтровано (4 лист): {name}")
+           print(f"[ERROR] Отфильтровано (4 лист): {name}")
            continue
 
         price_val = normalize_number(price_str)
         if price_val is None:
-            print(f"❌ Не распознана цена: {price_str} для {name}")
+            print(f"[ERROR] Не распознана цена: {price_str} для {name}")
             continue
 
         cleaned_name = re.sub(r'\b(шт|шт\.|уп|упак|упак\.|кг|г|л|мл|компл|партия|от)\b', '', name, flags=re.IGNORECASE)
@@ -705,11 +718,11 @@ def process_fourth_sheet(ws) -> List[Dict[str, Any]]:
         if product_id:
             item["product_id"] = product_id
             items.append(item)
-            print(f"✅ ID {product_id}: {to_default_name}")
+            print(f"[OK] ID {product_id}: {to_default_name}")
         else:
-            print(f"❌ Нет ID: {to_default_name}")
+            print(f"[ERROR] Нет ID: {to_default_name}")
 
-    print(f"📦 Возвращено позиций с ID (4 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций с ID (4 лист): {len(items)}")
     return items
 
 def process_fifth_sheet(ws, all_product_data: Dict[str, Any]) -> List[Dict[str, Any]]:
@@ -724,7 +737,7 @@ def process_fifth_sheet(ws, all_product_data: Dict[str, Any]) -> List[Dict[str, 
     seen_names = set()
     all_values = ws.get_all_values()
 
-    print(f"📊 Обработка пятого листа: {len(all_values)} строк")
+    print(f"[INFO] Обработка пятого листа: {len(all_values)} строк")
 
     for idx, row in enumerate(all_values):
         if not row or len(row) < 3:
@@ -739,7 +752,7 @@ def process_fifth_sheet(ws, all_product_data: Dict[str, Any]) -> List[Dict[str, 
         if not extracted:
             continue
 
-        # ✅ Сохраняем оригинальное название (с регистром!)
+        # [OK] Сохраняем оригинальное название (с регистром!)
         original_name = extracted["name"]
 
         # Убираем дубликаты по оригинальному имени
@@ -753,42 +766,42 @@ def process_fifth_sheet(ws, all_product_data: Dict[str, Any]) -> List[Dict[str, 
         # product_id = match_product(normalized_name, all_product_data)
 
         if not normalized_name:
-            print(f"❌ Нет ID: {normalized_name}")
+            print(f"[ERROR] Нет ID: {normalized_name}")
             continue
 
-        # ✅ Формируем результат с ОРИГИНАЛЬНЫМ названием
+        # [OK] Формируем результат с ОРИГИНАЛЬНЫМ названием
         item = {
             "name": original_name,           # ← сохраняем как в таблице
             "price": extracted["price"],
             "product_id": normalized_name
         }
         items.append(item)
-        print(f"✅ ID {normalized_name}: {original_name}")
+        print(f"[OK] ID {normalized_name}: {original_name}")
 
-    print(f"📦 Возвращено позиций с ID (5 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций с ID (5 лист): {len(items)}")
     return items
 
 def process_sixth_sheet(ws) -> List[Dict[str, Any]]:
     items = []
     all_values = ws.get_all_values()
 
-    print(f"📊 Обработка шестого листа: {len(all_values)} строк")
+    print(f"[INFO] Обработка шестого листа: {len(all_values)} строк")
 
     for idx, row in enumerate(all_values):
         if not row or not row[0].strip():
             continue
 
         text = row[0].strip()
-        print(f"🔍 [6 лист] Строка {idx}: {text}")
+        print(f"[CHECK] [6 лист] Строка {idx}: {text}")
 
         extracted = _extract_name_and_price_garmin(text)
         if extracted:
             items.append(extracted)
-            print(f"✅ Добавлено: {extracted['name']} → {extracted['price']}")
+            print(f"[OK] Добавлено: {extracted['name']} → {extracted['price']}")
         else:
-            print(f"❌ Пропущено: {text}")
+            print(f"[ERROR] Пропущено: {text}")
 
-    print(f"📦 Возвращено позиций (6 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций (6 лист): {len(items)}")
     return items
 
 
@@ -802,7 +815,7 @@ def process_eighth_sheet(ws) -> List[Dict[str, Any]]:
     items = []
     all_values = ws.get_all_values()
 
-    print(f"📊 Обработка восьмого листа: {len(all_values)} строк")
+    print(f"[INFO] Обработка восьмого листа: {len(all_values)} строк")
 
     for idx, row in enumerate(all_values):
         # Пропускаем заголовок и короткие строки
@@ -818,7 +831,7 @@ def process_eighth_sheet(ws) -> List[Dict[str, Any]]:
         # Очистка цены
         price_clean = re.sub(r'[^\d]', '', price_str)
         if not price_clean.isdigit():
-            print(f"❌ Некорректная цена: {price_str} для {modification}")
+            print(f"[ERROR] Некорректная цена: {price_str} для {modification}")
             continue
 
         try:
@@ -839,7 +852,7 @@ def process_eighth_sheet(ws) -> List[Dict[str, Any]]:
 
         # 🔽 ФИЛЬТР: проверяем до добавления
         if not is_item_allowed(name_with_flags):
-            print(f"❌ Отфильтровано (8 лист): {name_with_flags}")
+            print(f"[ERROR] Отфильтровано (8 лист): {name_with_flags}")
             continue
 
         item = {
@@ -847,9 +860,9 @@ def process_eighth_sheet(ws) -> List[Dict[str, Any]]:
             "price": additional_cost(price_val)
         }
         items.append(item)
-        print(f"✅ Добавлено: {name_with_flags} → {price_val}")
+        print(f"[OK] Добавлено: {name_with_flags} → {price_val}")
 
-    print(f"📦 Возвращено позиций (8 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций (8 лист): {len(items)}")
     return items
 
 # === Публичные функции ===
@@ -890,7 +903,7 @@ def fetch_and_process_fifth_sheet(spreadsheet_id: str, service_account_file: Opt
 
     # Объединённые данные из JSON
     all_product_data = {k: v for d in loaded_data.values() for k, v in d.items()}
-    print(f"📊 Всего ID в базе: {len(all_product_data)}")
+    print(f"[INFO] Всего ID в базе: {len(all_product_data)}")
 
     return process_fifth_sheet(ws, all_product_data)
 
@@ -949,7 +962,7 @@ def _extract_name_and_price_ninth_sheet(text: str) -> Optional[Dict[str, Any]]:
     if any(kw in text.lower() for kw in skip_keywords):
         return None
 
-    # 🔍 Попробуем найти шаблон: ... - {цена}
+    # [CHECK] Попробуем найти шаблон: ... - {цена}
     match_with_dash = re.search(
         r'^(?P<name>.+?)\s*-\s*(?P<price>\d{3,6})\s*[₽рRUB]?$',
         text,
@@ -963,7 +976,7 @@ def _extract_name_and_price_ninth_sheet(text: str) -> Optional[Dict[str, Any]]:
         # Если нет дефиса — попробуем взять последнее число как цену
         price_match = re.search(r'(\d{3,6})\s*[₽рRUB]?$', text)
         if not price_match:
-            print(f"❌ Не найдена цена: {text}")
+            print(f"[ERROR] Не найдена цена: {text}")
             return None
 
         raw_price = price_match.group(1)
@@ -972,7 +985,7 @@ def _extract_name_and_price_ninth_sheet(text: str) -> Optional[Dict[str, Any]]:
     try:
         price_val = int(raw_price)
     except ValueError:
-        print(f"❌ Не число: {raw_price}")
+        print(f"[ERROR] Не число: {raw_price}")
         return None
 
     # Очищаем название
@@ -980,7 +993,7 @@ def _extract_name_and_price_ninth_sheet(text: str) -> Optional[Dict[str, Any]]:
     name = re.sub(r'\s+', ' ', name).strip()
 
     if not name or len(name) < 3:
-        print(f"❌ Слишком короткое имя: '{name}'")
+        print(f"[ERROR] Слишком короткое имя: '{name}'")
         return None
 
     return {
@@ -1026,7 +1039,7 @@ def _extract_name_and_price_tenth_sheet(text: str) -> Optional[Dict[str, Any]]:
         re.IGNORECASE
     )
     if not match:
-        print(f"❌ Не найдено название и цена: {text}")
+        print(f"[ERROR] Не найдено название и цена: {text}")
         return None
 
     name_part = match.group("name").strip()
@@ -1035,13 +1048,13 @@ def _extract_name_and_price_tenth_sheet(text: str) -> Optional[Dict[str, Any]]:
     # Убираем точки из цены (7.800 → 7800)
     cleaned_price = raw_price.replace('.', '').replace(',', '')
     if not cleaned_price.isdigit():
-        print(f"❌ Цена не число: {raw_price}")
+        print(f"[ERROR] Цена не число: {raw_price}")
         return None
 
     try:
         price_val = int(cleaned_price)
     except ValueError:
-        print(f"❌ Ошибка парсинга цены: {cleaned_price}")
+        print(f"[ERROR] Ошибка парсинга цены: {cleaned_price}")
         return None
 
     # Чистим название от начальных символов
@@ -1049,7 +1062,7 @@ def _extract_name_and_price_tenth_sheet(text: str) -> Optional[Dict[str, Any]]:
     name = re.sub(r'\s+', ' ', name).strip()
 
     if not name or len(name) < 3:
-        print(f"❌ Слишком короткое имя: '{name}'")
+        print(f"[ERROR] Слишком короткое имя: '{name}'")
         return None
 
     return {
@@ -1061,14 +1074,14 @@ def process_second_sheet(ws) -> List[Dict[str, Any]]:
     items = []
     all_values = ws.get_all_values()
 
-    print(f"📊 Всего строк на втором листе: {len(all_values)}")
+    print(f"[INFO] Всего строк на втором листе: {len(all_values)}")
 
     for idx, row in enumerate(all_values):
         if not row or not row[0].strip():
             continue
 
         text = row[0].strip()
-        print(f"🔍 Строка {idx}: {text}")  # ← видим, что пришло
+        print(f"[CHECK] Строка {idx}: {text}")  # ← видим, что пришло
 
         extracted = _extract_name_and_price_dyson(text)
         if extracted:
@@ -1076,11 +1089,11 @@ def process_second_sheet(ws) -> List[Dict[str, Any]]:
                 "name": extracted["name"],
                 "price": extracted["price"]
             })
-            print(f"✅ Добавлено: {extracted['name']} → {extracted['price']}")
+            print(f"[OK] Добавлено: {extracted['name']} → {extracted['price']}")
         else:
-            print(f"❌ Пропущено: {text}")
+            print(f"[ERROR] Пропущено: {text}")
 
-    print(f"📦 Возвращено позиций (2 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций (2 лист): {len(items)}")
     return items
 
 def process_seventh_sheet(ws) -> List[Dict[str, Any]]:
@@ -1088,7 +1101,7 @@ def process_seventh_sheet(ws) -> List[Dict[str, Any]]:
     all_values = ws.get_all_values()
     lines = [row[0].strip() for row in all_values if row and row[0].strip()]
 
-    print(f"📊 Обработка седьмого листа: {len(lines)} строк")
+    print(f"[INFO] Обработка седьмого листа: {len(lines)} строк")
 
     i = 0
     while i < len(lines):
@@ -1103,25 +1116,25 @@ def process_seventh_sheet(ws) -> List[Dict[str, Any]]:
 
         if extracted:
             items.append(extracted)
-            print(f"✅ Добавлено: {extracted['name']} → {extracted['price']}")
+            print(f"[OK] Добавлено: {extracted['name']} → {extracted['price']}")
             # Если использовали следующую строку как артикул — пропускаем её
             next_line = lines[i + 1] if i + 1 < len(lines) else ""
             pn_match = re.search(r'\b\d{3}-\d{5}-\d{2}', next_line) or 'артикул' in next_line.lower()
             if pn_match:
                 i += 1
         else:
-            print(f"❌ Пропущено: {line}")
+            print(f"[ERROR] Пропущено: {line}")
 
         i += 1
 
-    print(f"📦 Возвращено позиций (7 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций (7 лист): {len(items)}")
     return items
 
 def process_ninth_sheet(ws) -> List[Dict[str, Any]]:
     items = []
     all_values = ws.get_all_values()
 
-    print(f"📊 Обработка девятого листа: {len(all_values)} строк")
+    print(f"[INFO] Обработка девятого листа: {len(all_values)} строк")
 
     all_product_data = {k: v for d in loaded_data.values() for k, v in d.items()}
     seen_normalized_names = set()
@@ -1131,11 +1144,11 @@ def process_ninth_sheet(ws) -> List[Dict[str, Any]]:
             continue
 
         text = row[0].strip()
-        print(f"🔍 [9 лист] Строка {idx}: {text}")
+        print(f"[CHECK] [9 лист] Строка {idx}: {text}")
 
         extracted = _extract_name_and_price_ninth_sheet(text)
         if not extracted:
-            print(f"❌ Пропущено: {text}")
+            print(f"[ERROR] Пропущено: {text}")
             continue
 
         original_name = extracted["name"]
@@ -1152,7 +1165,7 @@ def process_ninth_sheet(ws) -> List[Dict[str, Any]]:
         product_id = match_product(to_default_name, all_product_data)
 
         if not product_id:
-            print(f"❌ Нет ID: {to_default_name}")
+            print(f"[ERROR] Нет ID: {to_default_name}")
             continue
 
         item = {
@@ -1161,16 +1174,16 @@ def process_ninth_sheet(ws) -> List[Dict[str, Any]]:
             "product_id": product_id
         }
         items.append(item)
-        print(f"✅ ID {product_id}: {original_name} → {extracted['price']}")
+        print(f"[OK] ID {product_id}: {original_name} → {extracted['price']}")
 
-    print(f"📦 Возвращено позиций (9 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций (9 лист): {len(items)}")
     return items
 
 def process_tenth_sheet(ws) -> List[Dict[str, Any]]:
     items = []
     all_values = ws.get_all_values()
 
-    print(f"📊 Обработка десятого листа: {len(all_values)} строк")
+    print(f"[INFO] Обработка десятого листа: {len(all_values)} строк")
 
     all_product_data = {k: v for d in loaded_data.values() for k, v in d.items()}
     seen_normalized_names = set()
@@ -1180,11 +1193,11 @@ def process_tenth_sheet(ws) -> List[Dict[str, Any]]:
             continue
 
         text = row[0].strip()
-        print(f"🔍 [10 лист] Строка {idx}: {text}")
+        print(f"[CHECK] [10 лист] Строка {idx}: {text}")
 
         extracted = _extract_name_and_price_tenth_sheet(text)
         if not extracted:
-            print(f"❌ Пропущено: {text}")
+            print(f"[ERROR] Пропущено: {text}")
             continue
 
         original_name = extracted["name"]
@@ -1201,7 +1214,7 @@ def process_tenth_sheet(ws) -> List[Dict[str, Any]]:
         product_id = match_product(to_default_name, all_product_data)
 
         if not product_id:
-            print(f"❌ Нет ID: {to_default_name}")
+            print(f"[ERROR] Нет ID: {to_default_name}")
             continue
 
         item = {
@@ -1210,9 +1223,9 @@ def process_tenth_sheet(ws) -> List[Dict[str, Any]]:
             "product_id": product_id
         }
         items.append(item)
-        print(f"✅ ID {product_id}: {original_name} → {extracted['price']}")
+        print(f"[OK] ID {product_id}: {original_name} → {extracted['price']}")
 
-    print(f"📦 Возвращено позиций (10 лист): {len(items)}")
+    print(f"[DATA] Возвращено позиций (10 лист): {len(items)}")
     return items
 
 def fetch_and_process_second_sheet(spreadsheet_id: str, service_account_file: Optional[str] = None) -> List[Dict[str, Any]]:
@@ -1291,11 +1304,11 @@ def fetch_and_merge_primary_sheets(spreadsheet_id: str, service_account_file: Op
         if is_item_allowed(name):
             filtered_items.append(item)
         else:
-            print(f"❌ Отфильтровано до привязки: {name}")
+            print(f"[ERROR] Отфильтровано до привязки: {name}")
 
     # Загружаем базу ID
     all_product_data = {k: v for d in loaded_data.values() for k, v in d.items()}
-    print(f"📊 Всего ID в базе: {len(all_product_data)}")
+    print(f"[INFO] Всего ID в базе: {len(all_product_data)}")
 
     merged = {}
     unlinked_items = []  # ← собираем непривязанные
@@ -1334,6 +1347,6 @@ def fetch_and_merge_primary_sheets(spreadsheet_id: str, service_account_file: Op
     result = list(merged.values())
     result.sort(key=lambda x: _natural_key(x["name"]))
 
-    print(f"📦 Объединено: {len(all_items)} позиций → {len(result)} после привязки к ID")
+    print(f"[DATA] Объединено: {len(all_items)} позиций → {len(result)} после привязки к ID")
     print(f"🟡 Не привязано: {len(unlinked_items)} позиций")
     return result, unlinked_items  
