@@ -25,7 +25,7 @@ if getattr(sys, "frozen", False):
 else:
     BASE_DIR = Path(__file__).resolve().parent
     
-APP_FILE = BASE_DIR / "Mobilochka.exe"
+APP_FILE = BASE_DIR / "Mobilo4ka.exe"
 LOCAL_VERSION_FILE = BASE_DIR / "version.txt"
 
 PROTECTED_FILES = {
