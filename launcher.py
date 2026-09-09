@@ -80,6 +80,15 @@ def download_update():
             shutil.copy2(source_file, target_file)
 
 
+def start_application():
+    if not APP_FILE.exists():
+        print(f"Не найден файл приложения: {APP_FILE}")
+        input("Нажмите Enter для выхода...")
+        return
+
+    subprocess.Popen([str(APP_FILE)], cwd=str(BASE_DIR))
+
+
 def main():
     try:
         local_version = read_local_version()
@@ -89,11 +98,11 @@ def main():
             print(f"Обновление: {local_version} -> {remote_version}")
             download_update()
 
-        subprocess.Popen([str(APP_FILE)], cwd=BASE_DIR)
+        start_application()
 
     except Exception as error:
         print(f"Ошибка обновления: {error}")
-        subprocess.Popen([str(APP_FILE)], cwd=BASE_DIR)
+        start_application()
 
 
 if __name__ == "__main__":
