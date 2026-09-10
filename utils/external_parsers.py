@@ -2,6 +2,8 @@ import asyncio
 import csv
 import json
 import subprocess
+import os
+import shutil
 import sys
 from pathlib import Path
 from typing import Any, Iterable, List
@@ -160,9 +162,42 @@ async def run_parser_store77() -> List[List[Any]]:
 
     return _read_json_products(latest)
 
+def _python_command(script_name: str) -> list[str]:
+    if not getattr(sys, "frozen", False):
+        return [sys.executable, script_name]
 
-async def run_parser_trubkoved(max_sections: int = 2, delay: float = 2.0) -> List[List[Any]]:
-    _run_script_checked("scrape_trubkoved.py", [sys.executable, "scrape_trubkoved.py"], timeout=180)
+    configured_python = os.getenv("MOBILO4KA_PYTHON")
+    if configured_python and Path(configured_python).exists():
+        return [configured_python, script_name]
+
+    python_exe = shutil.which("python.exe") or shutil.which("python")
+    if python_exe:
+        return [python_exe, script_name]
+
+    raise FileNotFoundError(
+        "Python не найден. Укажите путь через переменную MOBILO4KA_PYTHON."
+    )
+
+
+async def run_parser_trubkoved(
+    max_sections: int = 2,
+    delay: float = 2.0,
+) -> List[List[Any]]:
+    try:
+        command = _python_command("scrape_trubkoved.py")
+    except FileNotFoundError as error:
+        print(f"⚠️ {error}")
+        return []
+
+    success = await asyncio.to_thread(
+        _run_script_checked,
+        "scrape_trubkoved.py",
+        command,
+        180,
+    )
+
+    if not success:
+        return []
 
     latest = _latest_file([
         OUTPUT_DIR / "trubkoved_products_latest.json",
