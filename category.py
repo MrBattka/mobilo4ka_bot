@@ -1630,7 +1630,7 @@ def getUsed(a):
     res.append('👇 <b>Идеальное БУ</b>')
     res.append('')
     res.append('📸_Описание и фотографии_')
-    res.append('🔗https://t.me/+969mFs7AbldkYTQ6')
+    res.append('🔗https://t.me/photo_used')
     res.append('')
        
     res.append("🍏 <b>Apple</b>")
@@ -1664,9 +1664,9 @@ def getUsed(a):
     for i in a:
         if 'iPhone 8' in i and checkUsed(i):
             if ('354830095942761' in i):
-                res.append(fixName(i.split("imei", 1)[0]).replace('8 Plus 64 Gold "А-" 🇷🇺', hlink('8 Plus 64 Gold "А-" 🇷🇺', 'https://t.me/c/1545286162/4712')))
+                res.append(fixName(i.split("imei", 1)[0]).replace('8 Plus 64 Gold "А-" 🇷🇺', hlink('8 Plus 64 Gold "А-" 🇷🇺', 'https://t.me/photo_used/43')))
             elif ('358712097720617' in i):
-                res.append(fixName(i.split("imei", 1)[0]).replace('8 64 White "B" 🇷🇺', hlink('8 64 White "B" 🇷🇺', 'https://t.me/c/1545286162/4797')))
+                res.append(fixName(i.split("imei", 1)[0]).replace('8 64 White "B" 🇷🇺', hlink('8 64 White "B" 🇷🇺', 'https://t.me/photo_used/82')))
             else:
                 res.append(fixName(i.split("imei", 1)[0]))
     #######################
@@ -1752,7 +1752,7 @@ def getUsed(a):
             elif ('351974977432401' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('13 128 Starlight "B+"', hlink('13 128 Starlight "B+"', 'https://t.me/c/1545286162/4650')))
             elif ('352355500998572' in i):
-                res.append(fixName(i.split("imei", 1)[0]).replace('13 128 Blue "A-"', hlink('13 128 Blue "A-"', 'https://t.me/c/1545286162/4679')))
+                res.append(fixName(i.split("imei", 1)[0]).replace('13 128 Blue "A-"', hlink('13 128 Blue "A-"', 'https://t.me/photo_used/32')))
             elif ('351228763698877' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('13 Pro 128 Blue "B"', hlink('13 Pro 128 Blue "B"', 'https://t.me/c/1545286162/4706')))
             else:
@@ -1770,7 +1770,7 @@ def getUsed(a):
             if ('352149871239025' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('14 Pro 256 Purple "A" 🇦🇪', hlink('14 Pro 256 Purple "A" 🇦🇪', 'https://t.me/c/1545286162/4559')))
             elif ('358287292491496' in i):
-                res.append(fixName(i.split("imei", 1)[0]).replace('14 Pro 512 Purple "B"', hlink('14 Pro 512 Purple "B"', 'https://t.me/c/1545286162/4106')))
+                res.append(fixName(i.split("imei", 1)[0]).replace('14 Pro 512 Purple "B"', hlink('14 Pro 512 Purple "B"', 'https://t.me/photo_used/6')))
             elif ('356378589825819' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('14 Pro 256 Purple "A" 🇦🇪', hlink('14 Pro 256 Purple "A" 🇦🇪', 'https://t.me/c/1545286162/4565')))
             elif ('350114363059846' in i):
@@ -1821,7 +1821,7 @@ def getUsed(a):
             elif ('355984832548313' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('16 Pro 256 White "A-" 🇦🇺', hlink('16 Pro 256 White "A-" 🇦🇺', 'https://t.me/c/1545286162/4792')))
             elif ('352958413931281' in i):
-                res.append(fixName(i.split("imei", 1)[0]).replace('16 128 Teal "A" 🇮🇳', hlink('16 128 Teal "A" 🇮🇳', 'https://t.me/c/1545286162/4825')))
+                res.append(fixName(i.split("imei", 1)[0]).replace('16 128 Teal "A" 🇮🇳', hlink('16 128 Teal "A" 🇮🇳', 'https://t.me/photo_used/103')))
             else: 
                 res.append(fixName(i.split("imei", 1)[0]))
     #######################
@@ -1834,7 +1834,7 @@ def getUsed(a):
     for i in a:
         if ('iPhone Air' in i and checkUsed(i)):
             if ('351605726416465' in i):
-                res.append(fixName(i.split("imei", 1)[0]).replace('Air 256 Black "A" 🇨🇦', hlink('Air 256 Black "A" 🇨🇦', 'https://t.me/c/1545286162/4781')))
+                res.append(fixName(i.split("imei", 1)[0]).replace('Air 256 Black "A" 🇨🇦', hlink('Air 256 Black "A" 🇨🇦', 'https://t.me/photo_used/67')))
                 
             else: 
                 res.append(fixName(i.split("imei", 1)[0]))
@@ -1915,7 +1915,7 @@ def getUsed(a):
                     hlink('Air 13 i5 8/512 (2020 - MVH22) Gray "B"', 'https://t.me/c/1545286162/3954')))
             elif ('C02FL9KCQ05G' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('Pro 13 M1 8/256 (2020 - MYDA2) Silver "A"', \
-                    hlink('Pro 13 M1 8/256 (2020 - MYDA2) Silver "A"', 'https://t.me/c/1545286162/4486')))
+                    hlink('Pro 13 M1 8/256 (2020 - MYDA2) Silver "A"', 'https://t.me/photo_used/11')))
             elif ('C02QJE95GFWM' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('Air 11 i5 4/128 (2015 - MJVM2) Silver "B"', \
                     hlink('Air 11 i5 4/128 (2015 - MJVM2) Silver "B"', 'https://t.me/c/1545286162/4197')))
@@ -1972,7 +1972,7 @@ def getUsed(a):
         if "Samsung" in i and checkUsed(i):
             if ('356540306367975' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('Galaxy S25 12/512 Navy "A', \
-                    hlink('Galaxy S25 12/512 Navy "A', 'https://telegram.me/c/1545286162/4738')))
+                    hlink('Galaxy S25 12/512 Navy "A', 'https://t.me/photo_used/47')))
             elif ('351247575017613' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('Galaxy S23 Ultra 5G 12/256 Lavender "A" 🇦🇪', \
                     hlink('Galaxy S23 Ultra 5G 12/256 Lavender "A" 🇦🇪', 'https://t.me/c/1545286162/4802')))
@@ -2029,13 +2029,13 @@ def getUsed(a):
                     hlink('Asus Rog Phone 9 Pro 16/512 Black "А-"', 'https://t.me/c/1545286162/4629')))
             elif ('358691830129643' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('Sony Xperia 1 VII 12/256 Green "A"', \
-                    hlink('Sony Xperia 1 VII 12/256 Green "A"', 'https://t.me/c/1545286162/4695')))
+                    hlink('Sony Xperia 1 VII 12/256 Green "A"', 'https://t.me/photo_used/37')))
             elif ('350438339711804' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('Google Pixel 6A 128 Charcoal "B"', \
-                    hlink('Google Pixel 6A 128 Charcoal "B"', 'https://t.me/c/1545286162/4820')))
+                    hlink('Google Pixel 6A 128 Charcoal "B"', 'https://t.me/photo_used/99')))
             elif ('GBN0cx184290466' in i):
                 res.append(fixName(i.split("imei", 1)[0]).replace('Asus X540Y AMD 2/112 Black "B"', \
-                    hlink('Asus X540Y AMD 2/112 Black "B"', 'https://t.me/c/1545286162/4755')))
+                    hlink('Asus X540Y AMD 2/112 Black "B"', 'https://t.me/photo_used/52')))
                 
             else:
                 res.append(fixName(i.split("imei", 1)[0]))

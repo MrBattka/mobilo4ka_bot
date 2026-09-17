@@ -1,7 +1,7 @@
 import json
 from aiogram import Router, types
 from indexPriceFromOrder import get_fresh_name_used_lists
-from utils.message_builder import build_header
+from utils.message_builder import build_header, msg
 from config.settings import CHANNEL_ID, CHANNEL_ID_TEST
 from category import getApple, getUsed, getSamsung, getXiaomiYandexJBL, getCoros
 from utils.keyboards import get_main_menu_kb
@@ -70,6 +70,7 @@ async def send_stock_price(message: types.Message):
         (getCoros(name_list), "Markdown"),
         (getXiaomiYandexJBL(name_list), "Markdown"),
         (getUsed(used_list), "HTML"),
+        (msg(), "Markdown")
     ]
     
     await message.answer("⏳Приступил к обновлению прайса по наличию...", parse_mode="Markdown", reply_markup=btn)

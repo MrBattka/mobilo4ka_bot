@@ -13886,5 +13886,86 @@
             "blue"
         ],
         "exclude": []
+    },
+    "44331": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/128",
+            "grey"
+        ],
+        "exclude": []
+    },
+    "44357": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/256",
+            "grey"
+        ],
+        "exclude": []
+    },
+    "44358": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/512",
+            "grey"
+        ],
+        "exclude": []
+    },
+    "44359": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/512",
+            "lilac"
+        ],
+        "exclude": []
+    },
+    "44360": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/256",
+            "lilac"
+        ],
+        "exclude": []
+    },
+    "44361": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/128",
+            "lilac"
+        ],
+        "exclude": []
+    },
+    "44362": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/128",
+            "white"
+        ],
+        "exclude": []
+    },
+    "44363": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/256",
+            "white"
+        ],
+        "exclude": []
+    },
+    "44364": {
+        "include": [
+            "xperia 10",
+            "viii",
+            "8/512",
+            "white"
+        ],
+        "exclude": []
     }
 }

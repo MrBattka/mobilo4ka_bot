@@ -11473,5 +11473,37 @@
             "obsidian"
         ],
         "exclude": []
+    },
+    "44333": {
+        "include": [
+            "oneplus n6x",
+            "4/128",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "44366": {
+        "include": [
+            "oneplus n6x",
+            "4/64",
+            "blue"
+        ],
+        "exclude": []
+    },
+    "44367": {
+        "include": [
+            "oneplus n6x",
+            "4/64",
+            "red"
+        ],
+        "exclude": []
+    },
+    "44368": {
+        "include": [
+            "oneplus n6x",
+            "4/128",
+            "red"
+        ],
+        "exclude": []
     }
 }

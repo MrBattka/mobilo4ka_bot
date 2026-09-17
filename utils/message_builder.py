@@ -11,7 +11,11 @@ def build_header():
             '\n💸Оплата наличными при получении'
             '\n'
             '\n💬*ДЛЯ ЗАКАЗА*💬'
-            '\n𓂃✍︎ ⌯⌲ * https://t.me/m0bilo4ka *')
+            '\n𓂃✍︎ ⌯⌲ * https://t.me/onlinemyprice *')
+    
+def msg():
+    return ('\n💬*ДЛЯ ЗАКАЗА ПИСАТЬ*💬'
+            '\n𓂃✍︎ ⌯⌲ * https://t.me/onlinemyprice *')
 
 def build_header_for_order():
     d = date.today()

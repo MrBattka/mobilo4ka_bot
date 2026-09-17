@@ -10397,5 +10397,301 @@
         "pink"
       ],
       "exclude": []
+    },
+    "44369": {
+      "include": [
+        "poco x8",
+        "8/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44370": {
+      "include": [
+        "poco x8",
+        "12/256",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44371": {
+      "include": [
+        "poco x8",
+        "8/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44372": {
+      "include": [
+        "poco x8",
+        "6/128",
+        "black"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44373": {
+      "include": [
+        "poco x8",
+        "6/128",
+        "white"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44374": {
+      "include": [
+        "poco x8",
+        "8/128",
+        "white"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44375": {
+      "include": [
+        "poco x8",
+        "8/256",
+        "white"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44376": {
+      "include": [
+        "poco x8",
+        "12/256",
+        "white"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44377": {
+      "include": [
+        "poco x8",
+        "12/256",
+        "orange"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44378": {
+      "include": [
+        "poco x8",
+        "8/256",
+        "orange"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44379": {
+      "include": [
+        "poco x8",
+        "8/128",
+        "orange"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44380": {
+      "include": [
+        "poco x8",
+        "6/128",
+        "orange"
+      ],
+      "exclude": [
+        "pro"
+      ]
+    },
+    "44338": {
+      "include": [
+        "poco f9 ultra",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44481": {
+      "include": [
+        "poco f9 ultra",
+        "16/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44482": {
+      "include": [
+        "poco f9 ultra",
+        "16/1tb",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44483": {
+      "include": [
+        "poco f9 ultra",
+        "16/1tb",
+        "cherry"
+      ],
+      "exclude": []
+    },
+    "44484": {
+      "include": [
+        "poco f9 ultra",
+        "16/512",
+        "cherry"
+      ],
+      "exclude": []
+    },
+    "44485": {
+      "include": [
+        "poco f9 ultra",
+        "12/256",
+        "cherry"
+      ],
+      "exclude": []
+    },
+    "44340": {
+      "include": [
+        "poco f9 pro",
+        "12/256",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44487": {
+      "include": [
+        "poco f9 pro",
+        "12/512",
+        "black"
+      ],
+      "exclude": []
+    },
+    "44488": {
+      "include": [
+        "poco f9 pro",
+        "12/512",
+        "white"
+      ],
+      "exclude": []
+    },
+    "44489": {
+      "include": [
+        "poco f9 pro",
+        "12/256",
+        "white"
+      ],
+      "exclude": []
+    },
+    "44490": {
+      "include": [
+        "poco f9 pro",
+        "12/256",
+        "green"
+      ],
+      "exclude": []
+    },
+    "44491": {
+      "include": [
+        "poco f9 pro",
+        "12/512",
+        "green"
+      ],
+      "exclude": []
+    },
+    "44343": {
+      "include": [
+        "redmi pad 2 pro",
+        "8/256",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "44493": {
+      "include": [
+        "redmi pad 2 pro",
+        "8/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "44494": {
+      "include": [
+        "redmi pad 2 pro",
+        "6/128",
+        "gray"
+      ],
+      "exclude": []
+    },
+    "44495": {
+      "include": [
+        "redmi pad 2 pro",
+        "6/128",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "44496": {
+      "include": [
+        "redmi pad 2 pro",
+        "8/128",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "44497": {
+      "include": [
+        "redmi pad 2 pro",
+        "8/256",
+        "silver"
+      ],
+      "exclude": []
+    },
+    "44498": {
+      "include": [
+        "redmi pad 2 pro",
+        "8/256",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "44499": {
+      "include": [
+        "redmi pad 2 pro",
+        "8/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "44500": {
+      "include": [
+        "redmi pad 2 pro",
+        "6/128",
+        "purple"
+      ],
+      "exclude": []
+    },
+    "44501": {
+      "include": [
+        "redmi pad 2 pro",
+        "8/256",
+        "matte glass"
+      ],
+      "exclude": []
     }
   }

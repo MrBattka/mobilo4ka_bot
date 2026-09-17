@@ -12,7 +12,7 @@ from google.oauth2.service_account import Credentials
 from utils.excel_writer import save_supplier_to_excel
 from utils.parsers import clean_sunrise_text
 from normalizers_site.normalize_supplier_rows import normalize_supplier_rows
-from config.settings import CREDENTIALS_FILE, PHONE_1, API_HASH, API_ID
+from config.settings import CREDENTIALS_FILE, PHONE_2, API_HASH_2, API_ID_2
 
 TEXT_BASED_SUPPLIERS = {
     "-1001173041677",  # MiOpt
@@ -166,11 +166,11 @@ def get_telethon_client():
         print("❌ Telethon не установлен")
         return None
 
-    if not all([API_ID, API_HASH, PHONE_1]):
+    if not all([API_ID_2, API_HASH_2, PHONE_2]):
         print("❌ Отсутствуют настройки Telegram")
         return None
 
-    return TelegramClient('session_mob_bot', int(API_ID), API_HASH)
+    return TelegramClient('session_mob_bot', int(API_ID_2), API_HASH_2)
 
 
 async def resolve_telethon_entity(client, chat_id: str):
@@ -236,7 +236,7 @@ async def sync_suppliers_to_sheets(
         print(f"❌ Не удалось создать клиент Telegram для {suppliers_file}")
         return False
 
-    await client.start(phone=os.getenv('PHONE_1') or PHONE_1)
+    await client.start(phone=os.getenv('PHONE_2') or PHONE_2)
     
     try:
         if use_excel_mode:
